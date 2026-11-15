@@ -1,0 +1,214 @@
+{
+  "card": "cyberark-conjur-cloud",
+  "updated_at": "2026-11-15T01:05:29.852Z",
+  "urls": {
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/services/cjr-authn-jwt-cloud.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:42.291Z",
+      "quotes_found": 0,
+      "quotes_total": 4
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/services/cjr-authn-jwt-appid.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:43.291Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/services/cjr-authn-jwt-github-uc.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:44.292Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/services/cjr-authn-jwt-uc.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:45.294Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/authn/authn-config.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:46.293Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/conjurcloud/ccl-delegate-privileges-host-ex.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:47.294Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/authn/authenticate-awsiam-overview.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:48.294Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/authn/authenticate-azure-overview.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:49.294Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/conjurcloud/ccl-authentication.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:50.294Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/integrations/terraform_provider.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:51.295Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/dynamic-secrets-aws.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:52.295Z",
+      "quotes_found": 0,
+      "quotes_total": 4
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/dynamic-secrets-gcp.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:53.297Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/developer/conjur_api_issuer-ephemerals.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:54.298Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/conjur-cloud/venafi-cert-issuer.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:55.298Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/authn/authn-default.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:56.300Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/operations/policy/statement-ref-host.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:57.300Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/developer/conjur_api_rotate_other_api_key.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:58.300Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/privilege-cloud-shared-services/latest/en/content/pasimp/plugin-conjur-cloud-keys.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:59.301Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/developer/conjur_api_show_role.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:00.301Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/conjur-cloud/latest/en/content/conjurcloud/ccl-audit-lp.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:01.301Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

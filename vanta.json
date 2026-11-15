@@ -1,0 +1,139 @@
+{
+  "card": "vanta",
+  "updated_at": "2026-11-15T01:05:45.285Z",
+  "urls": {
+    "https://developer.vanta.com/docs/concepts/authentication.md": {
+      "hash": "ae0ac74015c2c409a824169c1411ea1bf390cb103a4a0ef1468f0aa1b1807224",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:15.725Z",
+      "quotes_found": 8,
+      "quotes_total": 8
+    },
+    "https://developer.vanta.com/docs/api-access-setup": {
+      "hash": "0920ee27680125bd08872acf559f6c78daa8634c66344557e1b1ef7f0a32d04e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:16.724Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developer.vanta.com/reference/manage-vanta/overview.md": {
+      "hash": "a30d97365bade89c83c9a8ca07a50dcca8041b51dd4580d495f4d365f9cc8264",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:17.725Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developer.vanta.com/docs/vanta-mcp.md": {
+      "hash": "02218e226ba395fb32d056c6564c8ee5f86278f706c70895b294bc7c9d6ae9d1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:18.725Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.vanta.com/en/articles/11345698-porting-aws-integrations-across-regions.md": {
+      "hash": "3f11f847af94c50d3a63ab8ab37d105ea6098a79d55cf7d87e65a5547b91251b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:17.692Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.vanta.com/en/articles/16111208-google-cloud-platform-integration-guide.md": {
+      "hash": "107c80d28cdf1141481fc7d6a626441f4d7d3a5154f9ad60839842cc102797cd",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:18.691Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.vanta.com/en/articles/15693150-azure-integration-guide.md": {
+      "hash": "1913e411d647199e0225f7032e8655e45e9d6f34488397cb8954286e03e6e473",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:19.691Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.vanta.com/en/articles/15605280-azure-quickstart.md": {
+      "hash": "b2da49f58017cf452dd4f61e0420c25fd5dde22ffa785610f05f911da1c89550",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:20.691Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.vanta.com/en/articles/11346000-how-to-re-connect-aws-govcloud-after-rotating-vanta-iam-user-s-aws-secrets.md": {
+      "hash": "d41f0fccc92f1825c103e2a91c54907799f5ea0e76483e23e22f6ccd78dc3763",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:21.692Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.vanta.com/en/articles/11605088-connecting-vanta-oracle-cloud.md": {
+      "hash": "cd22bd92603895885fe8bfd271a42e955de4b0d68ebc7e2852c68da721941459",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:22.693Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.vanta.com/en/articles/14845240-github-integration-guide.md": {
+      "hash": "86644d16db9b8ef3251024837a8a7b799a06815fdcfd526e3d7da1cee6a141b2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:23.692Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.vanta.com/en/articles/15082003-okta-integration-guide.md": {
+      "hash": "24db561713a93fda11c9dca4d9c0b0dadb8a427ea06e8b3190660d6507123d16",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:24.693Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.vanta.com/en/articles/14977969-google-workspace-integration-guide.md": {
+      "hash": "72260c455d9d10e2e3daf3ed19899b426e3b9561eb26a7019b31fac1661e74a6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:25.693Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.vanta.com/en/articles/11345717-connecting-vanta-gitlab-cloud.md": {
+      "hash": "3b8af333e5d451540f2bd0049d4afc0c2d6031436b78c9224c5724831f5da7fe",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:26.694Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.vanta.com/llms.txt": {
+      "hash": "6c340824855212d5252feb3e3b3eb62b13221d90c7cf8ac95a60c6744af6e833",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:21.688Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  },
+  "last_assessment": {
+    "fingerprint": "697dedeaf12e027f4c413c135a8e92c4684ece37f575958fdbb79be80470e11f",
+    "outcome": "no_change",
+    "at": "2026-11-15T00:52:00.208Z"
+  }
+}

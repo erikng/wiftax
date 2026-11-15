@@ -1,0 +1,126 @@
+{
+  "card": "vast-ai",
+  "updated_at": "2026-11-15T01:05:45.320Z",
+  "urls": {
+    "https://docs.vast.ai/api-reference/authentication.md": {
+      "hash": "61d3ef5bd26d95eb7a146573a6dd05a9e440e315e5a0e1b4199478cb17b92c43",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:21.749Z",
+      "quotes_found": 3,
+      "quotes_total": 4
+    },
+    "https://docs.vast.ai/guides/reference/api-keys.md": {
+      "hash": "fdb19b7c0da1f5157caed9b38c524fcfba4fc56a9be6cb1882275fd3df3e1060",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:22.749Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.vast.ai/cli/authentication.md": {
+      "hash": "a1eeb8d5acd141381393bd76aa26441a9dc47f5f9cb90813c3070c35c65d93a3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:23.749Z",
+      "quotes_found": 1,
+      "quotes_total": 2
+    },
+    "https://docs.vast.ai/api-reference/accounts/create-api-key.md": {
+      "hash": "601ca4442ba007fe4e4796f51989713a68ffc6eacca49dde0fcf6e22fbcb0cbd",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:24.750Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vast.ai/guides/serverless/openai-compatible-api.md": {
+      "hash": "4cd5b94d7f1b5433c372c2fce097803985dbe65419b4024994dcce19df57d211",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:25.750Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vast.ai/guides/reference/keys.md": {
+      "hash": "8c86fb11b733f772667d425367d420e58e4321fdf74294cfa275ae7ce2255bc1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:26.751Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vast.ai/guides/instances/storage/cloud-sync.md": {
+      "hash": "6e92d25aef8a723ea7ee768ff0a61b722ed0924bcc15bbe1bf192025c4fcec32",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:27.752Z",
+      "quotes_found": 7,
+      "quotes_total": 7
+    },
+    "https://docs.vast.ai/guides/instances/storage/cloud-backups.md": {
+      "hash": "6bbbd143aff6fdbd766ff3a555d2aeeb97e5ed88cfc25cc5a4393f6e6e8022f8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:28.752Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vast.ai/guides/templates/template-settings.md": {
+      "hash": "b9eb174adda1ba17af6065ed16240a3c387a0eb6ebb1d18665fdb040ec5148f7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:29.753Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/vast-ai/vast-cli/master/vast.py": {
+      "hash": "226de43c5da6024b492dfd1d241039c2477f15d1c291c98b55c57e2d0980fbc2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:25.307Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vast.ai/api-reference/accounts/delete-api-key.md": {
+      "hash": "52ea2ba9cfb17fd7e20c152d57ef648e08b974f3c9ae51dbe5d0a69b621ba7b0",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:30.754Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vast.ai/api-reference/permissions.md": {
+      "hash": "990186215d7d29a36ae02092fc2e6a0ed2ca29a43c685b8482232a1c4426ec15",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:31.754Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.vast.ai/api-reference/accounts/show-api-keys.md": {
+      "hash": "766721d7d445f7b45a870b9d446ba3d8b8f34e3a7249ba4ec263e6ae7f0fde98",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:32.755Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vast.ai/api-reference/accounts/show-ipaddrs.md": {
+      "hash": "0e35128de89f5a0db6ecd8820865cba7212459b38e7d58f676e563015ee28433",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:33.756Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

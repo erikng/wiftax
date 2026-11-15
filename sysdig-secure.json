@@ -1,0 +1,174 @@
+{
+  "card": "sysdig-secure",
+  "updated_at": "2026-11-15T01:05:45.111Z",
+  "urls": {
+    "https://docs.sysdig.com/en/developer-tools/sysdig-api/": {
+      "hash": "807d07195b092e9011990fd1a05559efb95ee4fa4218cf7a5f4e0924538545f6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:31.033Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.sysdig.com/en/administration/retrieve-the-sysdig-api-token/": {
+      "hash": "dfe7f67c8530b22e931ded587fd3831c2814ad7f86db366fd88dc539596bd333",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:32.033Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.sysdig.com/en/developer-tools/managing-access-keys/": {
+      "hash": "4efe4e7aecb1b84b964fc16a16aa15601e773b2143001ae2164f17d32d26e24e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:33.033Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.sysdig.com/en/administration/teams-administration/": {
+      "hash": "15e5bd010b34334a57a22d4fa21c5eb808a0b5b8fe9b675141c356a53c7e83ea",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:34.034Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/github-action-integration/": {
+      "hash": "943a7ff3b78184e2469823b17c84676d472c9d5510134375ceb98b6bbb06c6e6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:35.034Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/sysdiglabs/terraform-provider-sysdig/master/website/docs/index.md": {
+      "hash": "9dd15d5e228942e65e1cc2061810b3a699a4f170d9c3a8a21195cc867525e1dd",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:33.336Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/connect-aws/": {
+      "hash": "b2fd7d1e2800c6266e12920bf4a8820eace2e61e6cd503dfc80d1b2511815252",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:36.034Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/sysdiglabs/terraform-aws-secure/master/modules/onboarding/main.tf": {
+      "hash": "89f42c09bf500b5fc6504f6905e293840c037fe21ea8bb5027521b4e17461b47",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:34.336Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/sysdiglabs/terraform-azurerm-secure/master/modules/onboarding/main.tf": {
+      "hash": "6c7effd30ab9f61c4d948ee8fe7c2874d59f8e62ff2637587d03314ffe459393",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:35.337Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/azure-permissions-and-resources/": {
+      "hash": "f91122e3cff062ad3634a3bcfcf35eb95651a41b24a792a5a8c51d18a73c8b08",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:37.034Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/gcp-permissions-and-resources/": {
+      "hash": "2ac83dfb3316c465e82bc57fde76a6f5c5bac35827a2017f822e19be9962b46a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:38.035Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/sysdiglabs/terraform-google-secure/master/modules/onboarding/main.tf": {
+      "hash": "09b2cbfe2db5754133258b0127a9aec6d498151d6f27d4e81d4e282a0ba5a145",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:36.338Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/vm-registry/": {
+      "hash": "19681eb671691725966b440f4ec67224e14aec9609b284c931d0fa5a93a64441",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:39.035Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/integrations-okta/": {
+      "hash": "53740f7e95b065528624c411c228f86c7e8bc4788ebf64429221ed48e59285b9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:40.036Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/integrations-jira-ticketing/": {
+      "hash": "0b249b5028650302510c2db010c1ae82f0bff13c3acbc57aac8c6a4153257ede",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:41.036Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/aws-elastic-container-registry/": {
+      "hash": "07d22d1202727c1d46e9665472598b427019c48cdd23ec6d0fdabeac0611ed3e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:42.037Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.sysdig.com/en/sysdig-secure/google-registry/": {
+      "hash": "3e4954f5dda2a43f726bcb7aeb618da61d2b1a98f62a97abf57bb13c05684896",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:43.037Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/sysdiglabs/terraform-provider-sysdig/master/website/docs/r/team_service_account.md": {
+      "hash": "00b1ded749e1248d712c83fdd62dcd3251b381fb30dfb899c0f7905d7f9f4a11",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:37.345Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://raw.githubusercontent.com/sysdiglabs/terraform-provider-sysdig/master/website/docs/r/agent_access_key.md": {
+      "hash": "b555cfc6c65fbee288263874d3f61cca50032d1bb2e37a324278144fc4262b8b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:38.345Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.sysdig.com/en/developer-tools/global-service-accounts/": {
+      "hash": "ad2b945711f5f51269d8a9d76d4ba2576e99324befed01d22aa90d4bfe017165",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:44.038Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

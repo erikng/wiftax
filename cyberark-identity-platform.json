@@ -1,0 +1,142 @@
+{
+  "card": "cyberark-identity-platform",
+  "updated_at": "2026-11-15T01:05:29.853Z",
+  "urls": {
+    "https://docs.cyberark.com/identity/latest/en/content/coreservices/getstarted/usersadd.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:02.301Z",
+      "quotes_found": 0,
+      "quotes_total": 5
+    },
+    "https://docs.cyberark.com/identity/latest/en/content/developer/oauth/client-cred-flow.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:03.302Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/identity/latest/en/content/coreservices/authenticate/oauth2-client.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:04.302Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/privilege-cloud-shared-services/latest/en/content/pasimp/cpmplugin-identity-service-user.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:05.304Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://raw.githubusercontent.com/cyberark/ark-sdk-python/main/docs/sdk/authenticators.md": {
+      "hash": "4424b8493aaaf5501fa9bd505ae56fe16701792d74a5b205b5b09162cd4ffbda",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:58.316Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/setup/latest/en/content/ispss-deployment/ispss/ispss-api-authentication.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:06.304Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/secrets-hub-privilege-cloud/latest/en/secretshubcontent/aws-config/": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:07.303Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://docs.cyberark.com/secrets-hub-privilege-cloud/latest/en/secretshubcontent/sh-azure-federated-authentication/": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:08.303Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://docs.cyberark.com/secrets-hub-privilege-cloud/latest/en/secretshubcontent/sh-gcp-configure-role/": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:09.304Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/secrets-hub-privilege-cloud/latest/en/secretshubcontent/sh-hashi-config/": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:10.304Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/secrets-hub-privilege-cloud/latest/en/getstarted/sh-terms/": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:11.304Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/identity/latest/en/content/coreservices/usersroles/password-requirements.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:12.304Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.cyberark.com/identity/latest/en/content/developer/user-management/create-manage-cd-users.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:55:13.303Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

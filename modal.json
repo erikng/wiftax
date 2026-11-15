@@ -1,0 +1,163 @@
+{
+  "card": "modal",
+  "updated_at": "2026-11-15T01:05:34.391Z",
+  "urls": {
+    "https://modal.com/docs/reference/modal.config": {
+      "hash": "e900e5d24b92657a6e950672a4b98568bf1e012aed671db0c3cc667291fb87dd",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:27.697Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://modal.com/docs/sdk/py/latest/Client.md": {
+      "hash": "c4246ef7b2472ac1298a2a3df082b15328a6784b71a0c868cd970642a2b4d5f5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:28.697Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/guide/service-users": {
+      "hash": "badff58dd097b3be886039577b5cd9d647af2358b4a4acff6c897b8de6d177b8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:29.697Z",
+      "quotes_found": 6,
+      "quotes_total": 6
+    },
+    "https://modal.com/docs/guide/continuous-deployment": {
+      "hash": "69b1d9c6ab659795cc3d5ed8f16e90c2d106de613e3068b6184fea41078f976a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:30.697Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/guide/workspaces": {
+      "hash": "0948e0f94b3e8b046e959e26aac06459cdd6baf5d58e1989a7d04b6c2b9a9cd5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:31.721Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/cli/latest/workspace.md": {
+      "hash": "92fc27449c490bd19af2c27119cb10c6fa36cd23b085b26874b4a34c9ed807c8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:32.722Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://modal.com/docs/guide/oidc-integration": {
+      "hash": "1329561cab100af79b954f2af972c4d3523913c2c452d1dedc732025a4be7728",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:33.722Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://modal.com/docs/guide/cloud-bucket-mounts": {
+      "hash": "a3469706a5c2c9421e85e5dcbf4b089b32b610f86cf50ff2974668c002ef9de8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:34.721Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://modal.com/docs/sdk/py/latest/CloudBucketMount.md": {
+      "hash": "70255553c47e9e211040eb2a07e46cbfcda35cd17be305c8b2be0b13c87f4e21",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:35.722Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/guide/private-registries": {
+      "hash": "1efd2e9b88e682da64938b60c93ab920697413ae1407cb4017fede7ac4baaf31",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:36.723Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://modal.com/docs/sdk/py/latest/Image.md": {
+      "hash": "c1e016777253adc5e6b335ff7071d3643ba294d13afe8d64b8d131da2d2bc32f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:37.723Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/guide/datadog-integration": {
+      "hash": "6742cc7b7694dce237fb3ed47a6abe06f1055c1c712168011d3ec175291fe4c1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:38.723Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/guide/otel-integration": {
+      "hash": "6f8fa7c13e4deec7ffec94663a464cb80bce67712834a37377db384165e395f1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:39.724Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/cli/latest/token.md": {
+      "hash": "9fc0e38a81b6f4e8ad4b3f75bfd383935131b2c57ee51d35f0dda355381d7b64",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:40.724Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/guide/audit-logs": {
+      "hash": "a9bf4056ac7dc23fec2bb3e893698946ed07318f558aaaf44ad703127be0a10f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:41.724Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/guide/rbac": {
+      "hash": "bbe930da653852200afe3de49ea3aafc57c86b497d5ee7e3ee38a53b8b26130c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:42.724Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://modal.com/docs/sdk/py/latest/types.md": {
+      "hash": "24e3590dbd19565acb9e39761b8debbbb64b5e4c68843d0440544ac693140774",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:43.724Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://modal.com/docs/sdk/py/latest/Workspace.md": {
+      "hash": "3f4064423844d1fb2d26d80ac193e6e869f77ba2f719e4f0fd5b04f0435d649c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:44.725Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  },
+  "last_assessment": {
+    "fingerprint": "c56148763075024623ce05fa42a74cba5f426d309bc3795c41483629b228abd3",
+    "outcome": "no_change",
+    "at": "2026-11-15T00:52:00.208Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "card": "vultr-object-storage",
+  "updated_at": "2026-11-15T01:05:45.393Z",
+  "urls": {
+    "https://docs.vultr.com/products/storage/object-storage/management/manage-credentials.md": {
+      "hash": "b3246651ea9c4acb40e38557785514b4ba3a8ec32f73625496c9a812fd7b6e6b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:55.073Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.vultr.com/products/storage/object-storage/faq.md": {
+      "hash": "62b706302ae805400966b31b4a1ccf1aef896cde544d47b366092a1eed2572b1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:56.074Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.vultr.com/api/": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:04:39.967Z",
+      "quotes_found": 0,
+      "quotes_total": 4
+    },
+    "https://docs.vultr.com/platform/iam/policies/iam-policy-actions-map/storage-actions.md": {
+      "hash": "484bd3ee071c8bdb2c6b462aa6047cb6020c019388d915026a1b27965997d69f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:57.075Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/how-to-migrate-amazon-s3-storage-to-vultr-object-storage.md": {
+      "hash": "2aa2417d79ff9a1aadb1ba86bdca1f7c3020f021c43581a5ff6947a9b91a68f5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:58.077Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

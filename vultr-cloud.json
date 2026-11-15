@@ -1,0 +1,144 @@
+{
+  "card": "vultr-cloud",
+  "updated_at": "2026-11-15T01:05:45.389Z",
+  "urls": {
+    "https://www.vultr.com/api/": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:04:39.967Z",
+      "quotes_found": 0,
+      "quotes_total": 7
+    },
+    "https://docs.vultr.com/platform/iam/service-user/how-to-create-a-service-user.md": {
+      "hash": "e62d9cea0c9db96ba3c55d22ed8e5d2ca331dc205c0037cce02a3c98dc2e5c2f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:40.064Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.vultr.com/platform/iam/roles/assumed-roles/how-to-assume-a-role.md": {
+      "hash": "a17030fac57c60793a9300b4165e1665cfc58bd211d1ef0e2594d31bc7ea7aca",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:41.064Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.vultr.com/platform/iam/product-integrations/container-registry-auth/temporary-credentials.md": {
+      "hash": "29265096cd0176133ab28e924beedef99120a17f6bc9d8cb6e7080c2d109b499",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:42.064Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/iam/product-integrations/container-registry-auth/credential-lifecycle.md": {
+      "hash": "1b7736c50bdb917adc5eaceb46ba0615a3ca14f4866b7f78d04dd210998e2cda",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:43.066Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/iam/product-integrations/container-registry-auth/vke-and-cicd.md": {
+      "hash": "938ed71e82a61da3aaa811235b6d8b3f69b59d0cea679ea855eb5d8a55f7cb77",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:44.066Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.vultr.com/platform/iam/product-integrations/instance-and-bare-metal-auth/obtain-identity-token.md": {
+      "hash": "94367ebe8fd35e1dae46d60cdabd6a1499c84dee8301b83b8f616e1f8e7d5699",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:45.066Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/iam/oidc/oidc-issuers/how-to-create-an-oidc-issuer.md": {
+      "hash": "b53eef264b4c9aa71453982259ff345ec42cff11fa7d622342c8d11c0dd82865",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:46.066Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.vultr.com/platform/iam/roles/assumed-roles/how-to-assume-a-role-using-aws-sts-compatibility.md": {
+      "hash": "75cbc3ad22bb9bb6528600f99f4a70e492d1f2fa134acde017aaefcae7849735",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:47.066Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/iam/roles/role-trusts/how-to-create-a-role-trust.md": {
+      "hash": "d99365f00bde641df2b649414dcd72faff7c4348357afaa78d53cc6c173a7786",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:48.068Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.vultr.com/products/compute/kubernetes/management/connection.md": {
+      "hash": "8d140ff7725ce5cc3e05ffb63f529fec8f3b131079aa6c4a4190a877e0e6f2a0",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:49.067Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/products/orchestration/container-registry/dockerhub-proxy.md": {
+      "hash": "2ee6cf6cc1061e0d0267ecde9b7e015351062104ea2429768310eb9f8af2e545",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:50.068Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/iam/organizations/manage-user-api-access/how-to-create-an-api-key-for-a-user.md": {
+      "hash": "3e32c7c2c96ebd56fa16b7d0b30f3e9b0740a409d85957dce584f866eeeffdf6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:51.068Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/release-notes.md": {
+      "hash": "d1b72c458f322fafab1ae9cf37cef49571972db7b85f4def45568a13e4bde9c3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:52.068Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/other/api/other-user/rotate-api-key.md": {
+      "hash": "80f6d3c13117df614aea18f8959a73b84e6336f6fd728e75838c47aaf9f655ac",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:53.070Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.vultr.com/platform/iam/organizations/manage-user-api-access/how-to-manage-vultr-api-access-control-for-users.md": {
+      "hash": "2818e8b64719ade4d2310ebd358143530393f4a138c86c637e6dae771b948860",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:54.072Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

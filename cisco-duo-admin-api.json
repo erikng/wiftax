@@ -1,0 +1,110 @@
+{
+  "card": "cisco-duo-admin-api",
+  "updated_at": "2026-11-15T01:05:29.438Z",
+  "urls": {
+    "https://duo.com/docs/adminapi": {
+      "hash": "f11f7998c3b6c2f766d6be2aa00c97ed2c8c76d6f124e09da917961e227a812f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:04.202Z",
+      "quotes_found": 14,
+      "quotes_total": 14
+    },
+    "https://duo.com/docs/azuresync": {
+      "hash": "61439df36e583f9dadac62cdaeb85b3d399b1066e5217cb5fd2fc79725a922c9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:05.202Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/googlesync": {
+      "hash": "45a9ddb6af5498faaba9dc68b581d853ac0087c5779ed8d0b06bbfe086f8d0af",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:06.203Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/adsync": {
+      "hash": "ab7b90286dca96d03491c060ad91893a07a7c4de50fc68abada05dc94a539452",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:07.204Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://duo.com/docs/oktasync": {
+      "hash": "50eebaeab9d6139ce4d5f5f0fe25192d4c331bf9138868f494f29a606c9e5c74",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:08.203Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/trusted-endpoints-intune": {
+      "hash": "1db7cbdbbbd2fc40d99e8a8b78f1a179c8fa6e4352374cad92a327c1626c8ada",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:09.204Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://duo.com/docs/trusted-endpoints-jamf": {
+      "hash": "944e13088fcbea5aae3b0bc60128a809f5caf055fc850ebf2996ff8fbba27622",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:10.204Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/trusted-endpoints-crowdstrike-falcon": {
+      "hash": "18ce14950baee6e793664603f650320535a0d29b3373abf3ae24ec1f871037c2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:11.204Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/trusted-endpoints-cisco-amp": {
+      "hash": "1bad407a10037a418102d0521a711ea7b76ff70e8cd1711289db08c17c3a447a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:12.203Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/trusted-endpoints-meraki": {
+      "hash": "0156b7397adbe206422d7cbe8f9e04f80374a74c5d4eb46f610f26cc68068c2e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:13.204Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/trusted-endpoints-workspaceone": {
+      "hash": "26dc999a11bdb801ab7157d7a6f62ba1362263fe7511216ecb3c3f82501f0d43",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:14.205Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://duo.com/docs/protecting-applications": {
+      "hash": "cfee597ed8ecc72d80f204f90825b35f24e17fb42b472da7c229566b498d4f5a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:15.205Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

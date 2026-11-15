@@ -1,0 +1,954 @@
+{
+  "version": 1,
+  "date": "2026-11-15",
+  "started_at": "2026-11-15T00:52:00.208Z",
+  "finished_at": "2026-11-15T01:15:41.008Z",
+  "duration_s": 1421,
+  "dry_run": false,
+  "partial": false,
+  "sisyphus": {
+    "commit": "a7de074"
+  },
+  "model": "claude-opus-5-5",
+  "cards": 112,
+  "urls": 1644,
+  "urls_ok": 1550,
+  "receipts": 2742,
+  "receipts_found": 2434,
+  "drift": {
+    "cards": 57,
+    "urls": 127
+  },
+  "unreachable": {
+    "urls": 94,
+    "hosts": [
+      {
+        "host": "docs.cyberark.com",
+        "urls": 32,
+        "failure": "gone",
+        "max_streak": 1
+      },
+      {
+        "host": "docs.trendmicro.com",
+        "urls": 17,
+        "failure": "network",
+        "max_streak": 1
+      },
+      {
+        "host": "docs.cudocompute.com",
+        "urls": 15,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "docs.splunk.com",
+        "urls": 11,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "help.splunk.com",
+        "urls": 5,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "github.com",
+        "urls": 3,
+        "failure": "gone",
+        "max_streak": 1
+      },
+      {
+        "host": "www.sentinelone.com",
+        "urls": 2,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "blog.51sec.org",
+        "urls": 1,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "graphql-spec.runpod.io",
+        "urls": 1,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "raw.githubusercontent.com",
+        "urls": 1,
+        "failure": "gone",
+        "max_streak": 1
+      },
+      {
+        "host": "sc1.checkpoint.com",
+        "urls": 1,
+        "failure": "gone",
+        "max_streak": 1
+      },
+      {
+        "host": "support.expel.io",
+        "urls": 1,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "www.applytosupply.digitalmarketplace.service.gov.uk",
+        "urls": 1,
+        "failure": "gone",
+        "max_streak": 1
+      },
+      {
+        "host": "www.beyondtrust.com",
+        "urls": 1,
+        "failure": "blocked",
+        "max_streak": 1
+      },
+      {
+        "host": "www.elastic.co",
+        "urls": 1,
+        "failure": "gone",
+        "max_streak": 1
+      },
+      {
+        "host": "www.vultr.com",
+        "urls": 1,
+        "failure": "blocked",
+        "max_streak": 1
+      }
+    ]
+  },
+  "assessed": 57,
+  "notices": [
+    {
+      "card": "arcade-dev",
+      "title": "Notice of Assessment: Arcade.dev Platform",
+      "url": "https://github.com/wiftax/wiftax/pull/55",
+      "direction": "same"
+    },
+    {
+      "card": "baseten",
+      "title": "Notice of Assessment: Baseten Platform",
+      "url": "https://github.com/wiftax/wiftax/pull/56",
+      "direction": "same"
+    }
+  ],
+  "refresh": null,
+  "issues": [],
+  "unreachable_issues": {
+    "opened": [],
+    "updated": [],
+    "closed": []
+  },
+  "outcomes": [
+    {
+      "id": "abnormal-security",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "aembit-workload-iam",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "akeyless-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "beyondtrust-password-safe",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "checkpoint-infinity",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "cisco-duo-admin-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "crowdstrike-falcon-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "crusoe-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "cudo-compute",
+      "drifted": 0,
+      "unreachable": 15,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "cyberark-conjur-cloud",
+      "drifted": 0,
+      "unreachable": 20,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "cyberark-identity-platform",
+      "drifted": 0,
+      "unreachable": 12,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "cyera-data-security",
+      "drifted": 0,
+      "unreachable": 3,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "datadog-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "defakto-mint",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "delinea-secret-server",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "denvr-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "elastic-agent-fleet",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "elastic-cloud-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "elastic-cloud-enterprise",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "fluidstack",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "fortinet-fortigate",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "genesis-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "github-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "hashicorp-vault",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "hot-aisle",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "hyperbolic",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "island-enterprise-browser",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "lambda-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "nebius-ai-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "nscale-nks",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "nscale",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "nudge-security",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "obsidian-security",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "orca-security",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "paloalto-prisma-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "pingone-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "proofpoint-tap",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "qualys-cloud-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "rapid7-insight-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "sentinelone-singularity",
+      "drifted": 0,
+      "unreachable": 2,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "snowflake",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "snyk-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "splunk-cloud-platform",
+      "drifted": 0,
+      "unreachable": 16,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "sysdig-secure",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "teleport",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "temporal",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "tensorwave",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "tines",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "twilio-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "voltage-park-kubernetes",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "voltage-park",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "vultr-object-storage",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "wiz-platform",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "zluri-identity-governance",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "zscaler-oneapi",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "aws-iam",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The GitHub supported-patterns page (https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secr",
+      "error": false
+    },
+    {
+      "id": "azure-entra-workload-identity",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The page at https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns cha",
+      "error": false
+    },
+    {
+      "id": "c1-identity-platform",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The page at https://www.c1.ai/docs/developer/c1-api, checked 2026-11-15, now carries the Baton SDK API reference and no ",
+      "error": false
+    },
+    {
+      "id": "coreweave-api",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The GitHub supported-patterns page (https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secr",
+      "error": false
+    },
+    {
+      "id": "coreweave-cks",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The page cited for the leak_revocation check (https://docs.github.com/en/code-security/secret-scanning/introduction/supp",
+      "error": false
+    },
+    {
+      "id": "modal",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The page cited for the Artifact Registry key, https://modal.com/docs/sdk/py/latest/Image.md, no longer shows the cited s",
+      "error": false
+    },
+    {
+      "id": "sf-compute",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The page at https://sfcompute.com/changelog now shows only a sign-in form, so the cited sentence \"now correctly never ex",
+      "error": false
+    },
+    {
+      "id": "upwind",
+      "drifted": 15,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: All fifteen drifted URLs returned empty page text. The cited sentences could not be found, and neither could any replace",
+      "error": false
+    },
+    {
+      "id": "vanta",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The index at https://developer.vanta.com/llms.txt (checked 2026-11-15) no longer contains the sentence cited under the s",
+      "error": false
+    },
+    {
+      "id": "arcade-dev",
+      "drifted": 3,
+      "unreachable": 0,
+      "action": "opened https://github.com/wiftax/wiftax/pull/55",
+      "error": false
+    },
+    {
+      "id": "baseten",
+      "drifted": 4,
+      "unreachable": 0,
+      "action": "opened https://github.com/wiftax/wiftax/pull/56",
+      "error": false
+    },
+    {
+      "id": "material-security",
+      "drifted": 3,
+      "unreachable": 0,
+      "action": "PR failed: gh pr create: could not add label: 'card:material-security' not found",
+      "error": true
+    },
+    {
+      "id": "1password-secrets-automation",
+      "drifted": 8,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "anthropic-api",
+      "drifted": 6,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "axonius",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "britive-cloud-pam",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "chainguard-platform",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "cloudflare-api",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "coreweave-object-storage",
+      "drifted": 4,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "descope-agentic-identity-hub",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "digitalocean-api",
+      "drifted": 3,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "doppler-secrets",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "drata",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "elasticsearch",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "flagsmith",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "gitguardian-platform",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "google-cloud-iam",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "infisical-secrets",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "keycard-agent-identity",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "kibana",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "lumos-identity-platform",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "nebius-ai-studio",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "nightfall-dlp",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "okta-management-api",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "oleria-identity-governance",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "opal-security",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "p0-security",
+      "drifted": 4,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "paloalto-cortex-xsiam",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "panther-siem",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "paperspace",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "push-security",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "reco-saas-security",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "runpod",
+      "drifted": 3,
+      "unreachable": 1,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "sailpoint-identity-security-cloud",
+      "drifted": 4,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "semgrep-appsec-platform",
+      "drifted": 3,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "sf-compute-object-storage",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "socket-dev",
+      "drifted": 3,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "sola-security",
+      "drifted": 3,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "strongdm",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "tenable-vulnerability-management",
+      "drifted": 1,
+      "unreachable": 1,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "together-ai",
+      "drifted": 5,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "torq",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "trendmicro-vision-one",
+      "drifted": 1,
+      "unreachable": 17,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "vast-ai",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "veza",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "vultr-cloud",
+      "drifted": 1,
+      "unreachable": 1,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    },
+    {
+      "id": "zenity-ai-agent-security",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "refresh PR failed: gh pr create: could not add label: 'sisyphus-refresh' not found",
+      "error": true
+    }
+  ],
+  "open_prs": [
+    {
+      "number": 56,
+      "url": "https://github.com/wiftax/wiftax/pull/56",
+      "title": "Notice of Assessment: Baseten Platform"
+    },
+    {
+      "number": 55,
+      "url": "https://github.com/wiftax/wiftax/pull/55",
+      "title": "Notice of Assessment: Arcade.dev Platform"
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-15",
+      "cards": 112,
+      "urls": 1644,
+      "drift_cards": 57,
+      "unreachable_urls": 94,
+      "notices": 2,
+      "refreshed": 0
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "card": "nscale-nks",
+  "updated_at": "2026-11-15T01:05:34.434Z",
+  "urls": {
+    "https://docs.nscale.com/docs/platform-services/managed-kubernetes.md": {
+      "hash": "1aeff693d16d2fe545188dd7e20923267990227a10de17426d9ae57c323fa587",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:57.067Z",
+      "quotes_found": 8,
+      "quotes_total": 8
+    },
+    "https://raw.githubusercontent.com/nscaledev/openapi/main/nks-core/main/openapi.yaml": {
+      "hash": "cf74686da13d536aaad48af1057a63bea2af5b926d9376b96ec2be00ba20aa74",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:57.315Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.nscale.com/docs/cli/kubernetes.md": {
+      "hash": "879d4cdbd1cceacf3dfec15c036403a45a9d97abf6d188d34ca75bd26cc8bccb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:58.066Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://raw.githubusercontent.com/nscaledev/openapi/main/identity/latest/openapi.yaml": {
+      "hash": "e2fb5b98e4545dcfc2e5c69e6f2432a769e580f2b08dfc4d1041aa2d5faa8773",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:58.315Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://raw.githubusercontent.com/nscaledev/uni-identity/main/pkg/handler/serviceaccounts/client.go": {
+      "hash": "b6b4cfea0a5757a8d72fb9a6e654e344982cffc8c1a8a8faa0205bbe4ef5420c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:59.315Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.nscale.com/api-reference/service-accounts/rotate-service-account-token.md": {
+      "hash": "21cd7c3b8b985990ae50b39b95794f816856db991666e4ac191ce7caf90c3502",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:59.066Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.nscale.com/docs/manage/roles-and-groups.md": {
+      "hash": "667ea2f9fa8bc9ff790360ab0ef463b4c6a3496e05be8095f85840ab1ee70ce6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:00.066Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

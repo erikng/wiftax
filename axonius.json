@@ -1,0 +1,110 @@
+{
+  "card": "axonius",
+  "updated_at": "2026-11-15T01:05:29.159Z",
+  "urls": {
+    "https://docs.axonius.com/docs/axonius-rest-api": {
+      "hash": "df005ee714f03a76331425ac0ded818e7cb7dca6d3e7a5ecbbadeef7c9500cce",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:54.228Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.axonius.com/docs/manage-service-accounts": {
+      "hash": "9f1bde09136d3965f19eb554f38b6367686834b5cc0b4e65129f89c08d367d6a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:55.228Z",
+      "quotes_found": 11,
+      "quotes_total": 11
+    },
+    "https://docs.axonius.com/docs/managing-api-settings": {
+      "hash": "2f8ae812e4b9b95dfe5cf5aa3abe855988f322859f51c07ac3f1d9366edfb79e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:56.229Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/Axonius/axonius_api_client/master/axonius_api_client/auth/api_key.py": {
+      "hash": "241857054af0da1eca3aa7affbe32b154c2c7e1446e7fd7b9435bfb37a0ab77c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:57.047Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.axonius.com/docs/connect-an-mcp-client-with-your-axonius-login": {
+      "hash": "53ade83e6f6085cc7a5800570f0628db5e7a4d4335a0d895e74ee448ec2c5855",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:57.540Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.axonius.com/docs/connecting-the-aws-adapter-using-cf-organizations": {
+      "hash": "19c79123bfe96e76c364a801c44045deacaa6bcf46459abf9720077d77042086",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:58.540Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.axonius.com/docs/aws-parameters": {
+      "hash": "cbcb3126caa9ba8de67461c3b3805e94bf3424269369e5f60f2557847afcac7f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:59.540Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.axonius.com/docs/azure-deploying-the-adapter": {
+      "hash": "5b1119d87819fb5c99e6c5e8a7b7205bbbd2c62715b3530c0097c23f270f734d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:00.953Z",
+      "quotes_found": 1,
+      "quotes_total": 2
+    },
+    "https://docs.axonius.com/docs/connecting-gcp-in-axonius": {
+      "hash": "5143bc42f9f33f84ceba6600031bd30ed9e6bd6737c747c7cc6dca20e41c8b28",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:01.953Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.axonius.com/docs/gcp-initial-setup": {
+      "hash": "5adcacf001da1dae0fdd8f11649069f4650cfe85f882098283fe0748be474752",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:02.953Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.axonius.com/docs/github": {
+      "hash": "caa3238e96333617f3f1692de3f4210523a99b298613b4e9fb85940c4105c15d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:04.033Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.axonius.com/docs/okta": {
+      "hash": "6f8bf295ccb1bb3ce87229a442b9a2407d6c07cb1afd442b157269bc07ac2f84",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:05.034Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

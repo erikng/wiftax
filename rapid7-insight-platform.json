@@ -1,0 +1,182 @@
+{
+  "card": "rapid7-insight-platform",
+  "updated_at": "2026-11-15T01:05:35.212Z",
+  "urls": {
+    "https://docs.rapid7.com/insight/api-overview/": {
+      "hash": "97ce99be70916c8c60a284ad64a3dadcadede53a20238d8a19eb0130b645e01c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:45.891Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insight/managing-platform-api-keys/": {
+      "hash": "afc26caf05ce821d18dfe023856d424466b0408b131e8d88d08991fc9ada01a9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:46.891Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://docs.rapid7.com/insight/managing-multi-tenant-api-keys/": {
+      "hash": "bc9e4728e0a9ffc9375f45ef187234136291a99c65f5b11ea3274ea9abb67504",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:47.891Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.rapid7.com/insightAccount/en-us/api/v1/insightAccount-api-v1.json": {
+      "hash": "c8a2e1dd0a174234521cbb916275b809e383f33287950deca0c6775ea5df7104",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:47.477Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.rapid7.com/insightcloudsec/api-documentation/": {
+      "hash": "053931eb274f52b7a28b613f75843531d49af88efcddb114824cc1a71e8146ad",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:48.890Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.rapid7.com/insightcloudsec/github-actions-integration/": {
+      "hash": "5893b28bafc475cb843b8adedc73d501ea36f21cb02632597fd94f49e9a23071",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:49.891Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightcloudsec/saas-aws-cloud-setup-single-cloud/": {
+      "hash": "3ebd01d9f7b66c2f4179b864f718a04b061609a944a316145a5c5ee7b7473133",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:50.891Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.rapid7.com/insightcloudsec/aws-cloud-onboarding/": {
+      "hash": "434979e2c64f9ee1f24b76e4c1e8784028b802e1985b4cd7573dcda445321ec6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:51.892Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightcloudsec/manual-onboarding-azure-console/": {
+      "hash": "a27441c7a244fa32791f32ad0a1ee806ef8cf76e1870f9ccd2473214ea279fe4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:52.892Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightcloudsec/gcp-onboarding/": {
+      "hash": "a378369dd6ab7bf41307067658c2dbc55c8be767e08172036ea8c96346ddde12",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:53.893Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightcloudsec/oracle-cloud-onboarding/": {
+      "hash": "397d5da05ad6efee90b6a23385a97a6695cd8c2743fb61eddd52bb98ba6ada3e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:54.893Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightcloudsec/alibaba-cloud-onboarding/": {
+      "hash": "e0acdc210d330c5a152aac1b7f96746b7bf1c887bd2912808e7ab66c63b74142",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:55.894Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightidr/aws-cloudtrail-sqs/": {
+      "hash": "82f8ee68a019ca6b66184d017536f22b88e7de71b432f32fd6924d98861389a6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:56.894Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightidr/access-aws-resources-with-ec2-iam-roles/": {
+      "hash": "614787ecaeebf51080bc1a2982dd49502cad23e03d0a43697845f0aa6aab0c9f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:57.894Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightidr/microsoft-azure/": {
+      "hash": "2cb6dabe79adf883b0fd908370b150e83ca04b54c796f28a76e628bacfa938fa",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:58.895Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightidr/microsoft-office-365/": {
+      "hash": "3e662ed79b0e5aee2e9fab0ffb6605c35b5b528ead9e38a4cc68f5a98d8b62e9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:59.896Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightidr/google-cloud-platform/": {
+      "hash": "b0d7fb470e8430aa98eaf2bf96da6a053eca122821300b638c5859e3aecd4aab",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:00.897Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightidr/okta/": {
+      "hash": "6bc0fa6caa1a530734f8c50621095c2572ecab1b23e300c1d77dd5252c3c45fd",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:01.898Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightconnect/aws-security-hub/": {
+      "hash": "80ceaee064470f57edb86a5bb23d51e31b99c9a22d81df96f070b1e8cb13892c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:02.898Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.rapid7.com/insightconnect/connections/": {
+      "hash": "27f8acf8d679e7c3af32a6b269ea03d3b9ba7a56527d0f3ae5f019f74428ad46",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:03.899Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://discuss.rapid7.com/t/56971.json": {
+      "hash": "deafd92019ea3b5859f6382405c51a48b171f501b4cf31418e55ec3e9ba98060",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:57.528Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

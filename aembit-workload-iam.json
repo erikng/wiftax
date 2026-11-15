@@ -1,0 +1,182 @@
+{
+  "card": "aembit-workload-iam",
+  "updated_at": "2026-11-15T01:05:29.032Z",
+  "urls": {
+    "https://docs.aembit.io/dev-guide/api/cloud/": {
+      "hash": "865fbbf6f8645c56c4354c0b5d3c85be69b0cbd2984715762b8bb28b27d6b291",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:13.347Z",
+      "quotes_found": 6,
+      "quotes_total": 6
+    },
+    "https://docs.aembit.io/user-guide/access-policies/trust-providers/oidc-id-token-trust-provider/": {
+      "hash": "802320356ff1b210b78174729cc83673ff56468868add0100361e4fdd561ce9a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:14.347Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/dev-guide/api/edge/auth/oidc-id-token/": {
+      "hash": "4adb23af236e8c6f1643e44654031aa01d6814dbb9916d9dc30f235f9706848a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:15.347Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/credential-providers/aembit-access-token/": {
+      "hash": "83525e8aed7f1e64f5005f2d45510fdb65d2215e0ab75cad9fb305e382c87889",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:16.348Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://raw.githubusercontent.com/Aembit/terraform-provider-aembit/main/docs/index.md": {
+      "hash": "9eb1287c00c9cb9e59db490a52ab3e24793e04a1311b0aa99baed6b71b47ebb9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:14.492Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/deploy-install/about-agent-controller/": {
+      "hash": "38380652e1859c3bcfdbd90ea0f4a20521de387b5aed581e451d2ed8bc9d3502",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:17.349Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.aembit.io/user-guide/access-policies/credential-providers/aws-security-token-service-federation/": {
+      "hash": "49e9c92066b1bc4e52a649d3f78960b39b9fe89b7df93b1e8dd4fc6de499126d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:18.350Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/credential-providers/google-workload-identity-federation/": {
+      "hash": "16c60aa4143b3cbbde87d90f6c64693bcaeef3e8b5a0e3ca8252bf20ed09c40d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:19.351Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/credential-providers/azure-entra-workload-identity-federation/": {
+      "hash": "264ab22d5f91a1f95db7c466153a5cc6b275b5fa8fa00932fdb1db8ee7732ae8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:20.351Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/credential-providers/integrations/": {
+      "hash": "deb52b46e4ebd9999e0650408d82557ca80f02121a7c9a41130254e7beafeb37",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:21.352Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/server-workloads/guides/okta/": {
+      "hash": "fe68f160836bbdbebb3976250c7214287ac22d3a683b72f4960dedef608c5cf2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:22.353Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/server-workloads/guides/github-rest/": {
+      "hash": "1416039f03a926657daa4b15ab63c3e5efb5a4432c1862c55586006ae449d4c2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:23.354Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.aembit.io/user-guide/access-policies/server-workloads/guides/google-drive/": {
+      "hash": "7577d2b26b90d460163e6600f2358d28698080c147f3b9434e97fe116c5d1488",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:24.355Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/server-workloads/guides/slack/": {
+      "hash": "c4043f6498dcdeb40c1694736c2eb3feb9861f52e9cd1c8c1cccfbdbb5fdff1f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:25.355Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/server-workloads/guides/microsoft-graph/": {
+      "hash": "cc660e25390d8f9b9c46d919286180148d87a5cdfe7af11a8b5db1b1680d2a9a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:26.454Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/server-workloads/guides/salesforce-rest/": {
+      "hash": "95e7735a71bbda49902a8a3a925e1947aa6050053d5c0042258e30388d5518d9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:27.454Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/credential-providers/integrations/gitlab/": {
+      "hash": "61271c0cbdfd9bbbdb9311f7faaf5b75204fb2fd7bb5e5fd8795b9c6284281cb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:28.455Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/administration/discovery/integrations/wiz/": {
+      "hash": "d37597c472f9e5993e05d22fb76c3166530ff7473bfeccb8983778796859b758",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:29.454Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/credential-providers/api-key/": {
+      "hash": "a3d76e1d765c3547471ef841a06a89ff85d350087fe42e76108465096b87e2bb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:30.478Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/administration/log-streams/gcs-bucket/": {
+      "hash": "0deb44e15427c95a843197219661cf9691dbf6cf1328e611c4c1fd2b0ad658ec",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:31.477Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aembit.io/user-guide/access-policies/server-workloads/guides/snowflake/": {
+      "hash": "d9c3df235fd63065f26cf824f5cd9510eb79438d438a5f16c15402ac7af0deb6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:32.478Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

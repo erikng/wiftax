@@ -1,0 +1,206 @@
+{
+  "card": "snyk-platform",
+  "updated_at": "2026-11-15T01:05:44.911Z",
+  "urls": {
+    "https://docs.snyk.io/platform-administration/service-accounts/service-accounts-using-oauth-2.0.md": {
+      "hash": "3c0231819510ba07f5db6a23f7cb5fef5414817aac96be2292d9f3fcdbee147b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:37.361Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://558411700-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FIEEjSXQQu36y0vmFV8zf%2Fuploads%2Fgit-blob-688a641e25b6bd8b33a94ac151f6adba5ecd370f%2Foauth-api-spec.yaml?alt=media": {
+      "hash": "0bbd4db1bd9167d483de9d7e60cb08e129fddabf60c20dc330213118dbe4570d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:37.367Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/platform-administration/service-accounts/manage-service-accounts-using-the-snyk-api.md": {
+      "hash": "c38d664835238196fe8928ccd634c534b3ad078f8f53e5b94a9ce362545949d0",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:38.361Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.snyk.io/developer-tools/snyk-cli/authenticate-to-use-the-cli.md": {
+      "hash": "b821b3e8089be659f898eea8373b7df2de195340887918dd1ee98f555f6515c1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:39.369Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/snyk-cli/commands/auth.md": {
+      "hash": "86a495b4a83517e76948500d22d14b0e41de2a8700ec537046b5077979eeb679",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:40.368Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.snyk.io/developer-tools/integrations/snyk-ci-cd-integrations/github-actions-for-snyk-setup-and-checking-for-vulnerabilities.md": {
+      "hash": "0bc47bc7a88cf1d220beff63fb0fd4e62b95deffccdba6986151927071e2bc0f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:41.369Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/snyk-api/authentication-for-api.md": {
+      "hash": "b6a5fd9cc30c35197bdeb6ab0fef74ab7fcbc20ede65afa758f429171c8f3b4e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:42.370Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/scan-fix-and-prevent/scan-with-snyk/snyk-iac/cloud-platform-integrations/aws-integration/aws-integration-web-ui/step-2-create-the-snyk-iam-role.md": {
+      "hash": "6decb7f62101d7d57a7b43c7e9045ab48fbb58e2770b739a8d76a6aa9cb819ca",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:43.371Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/scan-fix-and-prevent/scan-with-snyk/snyk-iac/cloud-platform-integrations/azure-integration-for-cloud-configurations/azure-integration-web-ui/step-2-create-the-entra-id-app-registration.md": {
+      "hash": "1a2c33880e2814bb75b13b5d6e6dd7f4d84687de25dcfebd3a81e5a07fa81915",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:44.371Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/scan-fix-and-prevent/scan-with-snyk/snyk-iac/cloud-platform-integrations/google-cloud-integration/google-cloud-integration-web-ui/step-2-create-the-google-service-account-web-ui.md": {
+      "hash": "c41d82cd7dec25b430ff7f577286d47dc2bee771a4f3210274af78b3436c279f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:45.371Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/scan-fix-and-prevent/scan-with-snyk/snyk-container/container-registry-integrations/integrate-with-amazon-elastic-container-registry-ecr/add-more-organizations-to-your-aws-iam-role-for-snyk-authentication.md": {
+      "hash": "adf662d4e99fef7ad585a8448eafd36064fc0eee506ce9663c990e54e093de31",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:46.371Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/integrations/scm-integrations/organization-level-integrations/github-cloud-app.md": {
+      "hash": "6d0a0f784d5c518ff388f44447d4b9595b7b6b77304b503ff8a1f7474eb25765",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:47.371Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/integrations/scm-integrations/organization-level-integrations/bitbucket-cloud-app.md": {
+      "hash": "b1a5f6ac50f2aa712b72423c0fa3e04b57a4afec8fc01654f70aaf808416997e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:48.372Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/integrations/scm-integrations/organization-level-integrations/github-enterprise.md": {
+      "hash": "30856195f6e2c70a67f93a04ddee83b85149de8d27b50259ea4deaef6fdcaf2b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:49.373Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/integrations/scm-integrations/organization-level-integrations/gitlab.md": {
+      "hash": "77dde31d3a4af49ba0541882d338d74546342cbbdf6cf88d211e734ef7e9d544",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:50.372Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/integrations/scm-integrations/organization-level-integrations/azure-repositories-tfs.md": {
+      "hash": "03e4b50be9141ede5586603a704eaade27743c7248bf2caa59b4cdfbcba8a29a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:51.373Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/scan-fix-and-prevent/scan-with-snyk/snyk-container/container-registry-integrations/integrate-with-google-artifact-registry-gar.md": {
+      "hash": "b3ab276518f7b601baff5c78711341c8b2e2a99d12d442586dca16a2845ed4af",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:52.374Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/scan-fix-and-prevent/scan-with-snyk/snyk-container/container-registry-integrations/integrate-with-microsoft-azure-container-registry-acr/configure-integration-for-acr.md": {
+      "hash": "2b9ee157e2e39dbff64dd81eec47a9955064bf19f8c3556ddd70bdd6b2e42313",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:53.375Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/scan-fix-and-prevent/scan-with-snyk/snyk-container/container-registry-integrations/integrate-with-docker-hub/configure-the-integration-with-docker-hub.md": {
+      "hash": "100e2176b73be9d721457c0f128bfbf7279b22d16beb4df0f5ad4e00ff73cff6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:54.376Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/platform-administration/snyk-broker/classic-broker/prepare-snyk-broker-for-deployment/obtain-the-tokens-required-to-set-up-snyk-broker.md": {
+      "hash": "8cd72e29a4bc63ee8f422f0bed9bed3465c1e0cdbc468d85644b30df94dc15d2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:55.377Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/platform-administration/service-accounts/choose-a-service-account-type-to-use-with-snyk-apis.md": {
+      "hash": "1b6395f83fffec7cd93a4f436cf43ccf8ebe660dc6bd1e5a0cd0f2925a5ca796",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:56.377Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.snyk.io/developer-tools/snyk-api/authentication-for-api/personal-access-tokens-pats.md": {
+      "hash": "65f8a6931d4d24447853b435ed0f382cc00cf6d1f275576944f2d257eaf236d6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:57.377Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.snyk.io/platform-administration/service-accounts/service-accounts.md": {
+      "hash": "bcd4e78e1801dcd623e19dd9a52d04dc904c49380e2a0b2c2a368c1b78897726",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:58.378Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.snyk.io/llms.txt": {
+      "hash": "80591715d49dfdbc5a7b18a8b404d2961603bb88b60837142306a77529ba7456",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:59.379Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

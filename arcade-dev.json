@@ -1,0 +1,124 @@
+{
+  "card": "arcade-dev",
+  "updated_at": "2026-11-15T01:05:29.114Z",
+  "urls": {
+    "https://docs.arcade.dev/en/get-started/setup/api-keys": {
+      "hash": "43e1cd3b7efe737dc450e8db49877f850f764480dcce4b72cbfa40fe5790b2df",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:40.112Z",
+      "quotes_found": 4,
+      "quotes_total": 6
+    },
+    "https://api.arcade.dev/v1/swagger": {
+      "hash": "61c5201f517292f5e920b7d81f7fe4b4defcca255631609e8c34064b99ce9ae4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:40.358Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.arcade.dev/en/resources/faq": {
+      "hash": "3adcbd6c0e25ec2143eaf72a3f6452a08d78545f949fc027bbb8647c4914397e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:41.112Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/operate/governance/mcp-gateways": {
+      "hash": "3b8b522b02fac7b66836f6a3c0ffebfc4b592ab196e7dbbc863bb3ff19bffbde",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:42.113Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/operate/deploy/architecture": {
+      "hash": "f5b4f33b360115dd7099dfce2ae19b2d79785cb5cb208597be6931c2440003d2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:43.114Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/references/auth-providers/google": {
+      "hash": "c9827623c6663580656a94b2090532ce34e3a951d10e7a9c84c2cae3c4801c5f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:44.114Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.arcade.dev/en/references/auth-providers/microsoft": {
+      "hash": "dad0ae8230a4327f6bf95439dc5144dd0a555731e3d42303dfa5d0f4a4b7be77",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:45.115Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/operate/governance/remote-mcp-servers/aws": {
+      "hash": "89fb0478d5bb7146f6dd2090580014ab9a9e0e2624a9b9bcaf7e9693b416d254",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:46.116Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/references/auth-providers/github": {
+      "hash": "350725295caa471b4bf86ed7e1961f5776434f736b454a6665dff2ba28c42b87",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:47.116Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/references/auth-providers/slack": {
+      "hash": "14dab501f6ff602804c708c6802118b080fc042b440dacc10d9c2d0d1fd0f72f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:48.117Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/operate/governance/contextual-access/group-access": {
+      "hash": "72725477ef0dd68f2f725c2b786fcf35fca4e1de78d7c5393d717b0a7a246156",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:49.117Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/resources/integrations/development/datadog": {
+      "hash": "524c726fb5d1be9db35373e275c794ceb34065ec4db9bed000a015699ecd70c4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:50.116Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.arcade.dev/en/references/changelog": {
+      "hash": "a370f50aafbda09b08940740bf1e12edd3e52b1f5db1599afa7dbdda4cacc2ed",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:51.117Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  },
+  "last_assessment": {
+    "fingerprint": "cdec7b52ecf3df4d592eb82f23442df1dbd303d676ff7159b8c92e7bf9104e69",
+    "outcome": "notice",
+    "at": "2026-11-15T00:52:00.208Z",
+    "url": "https://github.com/wiftax/wiftax/pull/55"
+  }
+}

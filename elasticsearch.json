@@ -1,0 +1,150 @@
+{
+  "card": "elasticsearch",
+  "updated_at": "2026-11-15T01:05:31.731Z",
+  "urls": {
+    "https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/jwt": {
+      "hash": "f67102216e47f133f8499d5d11e0f5ddebadd8656e87f644c0868c09cedabeb1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:45.116Z",
+      "quotes_found": 5,
+      "quotes_total": 6
+    },
+    "https://www.elastic.co/docs/reference/elasticsearch/configuration-reference/security-settings": {
+      "hash": "a22b2c3769d7393c400a9e6b207383495d9b7bdb11d816833141c727e4b813ea",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:46.118Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/subscriptions": {
+      "hash": "1d5a16025de55f90429983dae1180a825b11a78a1089d57223ee0beb8fdd4865",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:47.118Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/deploy-manage/deploy/elastic-cloud/differences-from-other-elasticsearch-offerings": {
+      "hash": "83d251a29c30f316dea52d84b64351b02697c2ed0077ef70bd06780fa694ac59",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:48.119Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/s3-repository": {
+      "hash": "9ffa3718e13c41e42d383260e3084976b4115c2a8c8b08a12baa213cce40776d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:49.120Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/azure-repository": {
+      "hash": "aff6ad28c166ceb8b64d308da6a1118d4c7b6de4e971dc197afadd9f481ac2ce",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:50.120Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/google-cloud-storage-repository": {
+      "hash": "47f9dad59def1e51db87b6f9b2d9ac85428695514460ebbe9dc1baf69a3e235e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:51.122Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/ec-aws-custom-repository": {
+      "hash": "7b0f6de09d705b791123fbaacf076ca52a596df30ce7efaccc86513ad67ea356",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:32.110Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/ec-gcs-snapshotting": {
+      "hash": "780b457c720b37e5d2b1d258015b0b9e499e39b6f97390ada56f774d83611d68",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:33.111Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/ec-azure-snapshotting": {
+      "hash": "77971aa33be64d787473de697030019aa20418f9126f856774d2a11b13533a19",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:34.112Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-inference-put-amazonbedrock": {
+      "hash": "a4638fc2869bd7f9d021f730dc836e2ba1cf8620d13978166988b8bc06b208cc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:52.122Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-inference-put-googlevertexai": {
+      "hash": "5de35ea4174b7b07a7e90c4ef15ec70a30dabf687e2d7c474f5b68d504ccb8a5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:53.122Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-create-api-key": {
+      "hash": "4144b471fc9c308276f1b0775f15cf35612512db4760296a1d5b01585cbf64b1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:54.122Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://www.elastic.co/docs/deploy-manage/api-keys/elasticsearch-api-keys": {
+      "hash": "e46def6a4ee9a2cce16e08f16e6b9d83586b2ef9f8e47adbb7bdb6b65aa8a3a1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:55.122Z",
+      "quotes_found": 1,
+      "quotes_total": 2
+    },
+    "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-invalidate-api-key": {
+      "hash": "e176ec90d8e7552e39c753700331a48e79b95502fdabf1296eee4906ceeca4aa",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:56.123Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/deploy-manage/api-keys/serverless-project-api-keys": {
+      "hash": "8be6ea8ce1a4b297b269befdf31362382cb769fefcb3d9ac891b3933645c442b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:57.122Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-get-api-key": {
+      "hash": "dc27587d1887cc8342e267756b796ebb6ed9dc5582a34c326ec6ed22d0e79839",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:58.123Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    }
+  }
+}

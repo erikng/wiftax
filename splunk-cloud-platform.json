@@ -1,0 +1,222 @@
+{
+  "card": "splunk-cloud-platform",
+  "updated_at": "2026-11-15T01:05:44.988Z",
+  "urls": {
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/Setupauthenticationwithtokens": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:15.779Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/UseAuthTokens": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:16.780Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Config/ACSusage": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:17.781Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://admin.splunk.com/service/info/specs/v2/openapi.json": {
+      "hash": "e3718e3a3d605f3b432f675fcac207dcfba83d98637bdf36c43ee93344801c6a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:16.849Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Config/ManageAuthtokens": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:18.780Z",
+      "quotes_found": 0,
+      "quotes_total": 3
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Data/UsetheHTTPEventCollector": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:19.781Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Config/ManageHECtokens": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:20.781Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://help.splunk.com/en/data-management/ingest-data-from-cloud-sources/use-data-inputs/1.16/amazon-web-services-data/configure-aws-for-onboarding-from-a-single-account": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:17.851Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://help.splunk.com/en/data-management/ingest-data-from-cloud-sources/use-data-inputs/1.16/amazon-web-services-data/about-cloudformation-stack-templates": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:18.850Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://help.splunk.com/en/data-management/ingest-data-from-cloud-sources/use-data-inputs/1.16/amazon-web-services-data/prerequisites-for-onboarding-aws-data-sources": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:19.851Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://help.splunk.com/en/data-management/ingest-data-from-cloud-sources/use-data-inputs/1.16/microsoft-azure-data/onboarding-for-azure-data-in-data-manager": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:20.851Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://help.splunk.com/en/data-management/ingest-data-from-cloud-sources/use-data-inputs/1.16/google-cloud-platform-data/gcp-prerequisites-for-data-manager": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:21.851Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://splunk.github.io/splunk-add-on-for-amazon-web-services/ManageAwsAccounts/": {
+      "hash": "27f75887dbcc283888ac21718ff910dfac5075b5d9e80fff255b5be38fb9d1c4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:19.032Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://splunk.github.io/splunk-add-on-for-amazon-web-services/AutoDiscoveredAwsIAMRole/": {
+      "hash": "26ad50beb65f5ca8a49a9b246013cc8c511fc78690b3a968243f496e1141f4e8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:20.032Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://splunk.github.io/splunk-add-on-for-amazon-web-services/CreateAwsIAMRole/": {
+      "hash": "bbaf17089f99a03f551f6e2f2adb4cdbfa0c24a6c62d8e6af9ee8ef4388c009b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:21.034Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://splunk.github.io/splunk-add-on-for-google-cloud-platform/ConfigureGoogleCloudAccount/": {
+      "hash": "68c41460931b0db9ba925c6bf4eff8fa39b4047384f0da7fa775c508f89e1302",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:22.034Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://splunk.github.io/splunk-add-on-for-microsoft-cloud-services/Configureazureappaccount/": {
+      "hash": "40fb286eb217c82dabdbe76299b72d9c3d1583c10b0e5c1c220a7d0b0ff5fb58",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:23.035Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/CreateAuthTokens": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:21.781Z",
+      "quotes_found": 0,
+      "quotes_total": 4
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/EnableTokenAuth": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:22.782Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/Addandeditroles": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:23.782Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/Rolesandcapabilities": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:24.783Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.splunk.com/Documentation/SplunkCloud/latest/Security/ManageAuthTokens": {
+      "hash": null,
+      "status": 403,
+      "ok": false,
+      "failure": "blocked",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T01:02:25.782Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

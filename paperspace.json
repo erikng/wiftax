@@ -1,0 +1,102 @@
+{
+  "card": "paperspace",
+  "updated_at": "2026-11-15T01:05:35.120Z",
+  "urls": {
+    "https://docs.digitalocean.com/reference/paperspace/api-keys/index.html.md": {
+      "hash": "ee419771319391c4e017b21698b6f4a1f1b253d89136cf19391b62e69b7dfc10",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:08.723Z",
+      "quotes_found": 4,
+      "quotes_total": 5
+    },
+    "https://docs.digitalocean.com/reference/paperspace/api-reference/authentication/index.html.md": {
+      "hash": "02861a4f21fcde8a05f0b637e66c2f7d9aab0b638c5239211faa58842f8cae3b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:09.722Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/Paperspace/deploy-action/main/README.md": {
+      "hash": "d311077504ca11261c866496a3a9752c59a3bc48236899c0d16b8fa4dfadd1bf",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:09.699Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.digitalocean.com/products/paperspace/workflows/how-to/connect-to-github-app/index.html.md": {
+      "hash": "bbc0061ae93cd4b23c50ca9c9349c6a59b597f4a294c87ff6721fa616f40249e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:10.723Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.digitalocean.com/products/paperspace/notebooks/how-to/add-storage-providers/index.html.md": {
+      "hash": "be95287b20becb26c05f832c38d52fefa2af477406ea2fddc791e2299d291439",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:11.722Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.digitalocean.com/products/paperspace/notebooks/how-to/connect-data-sources/index.html.md": {
+      "hash": "bca1e52ae68e6e268d9f69211fd791d260f3ac6504af0586a80250fef7e89816",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:12.722Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.digitalocean.com/reference/paperspace/api-reference/storage/index.html.md": {
+      "hash": "2ba57fd98fd8d2fbc90837e9723a25b443ebc690b258e0cfbbf347554b5ee963",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:13.723Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.digitalocean.com/reference/paperspace/api-reference/container-registries/index.html.md": {
+      "hash": "f06a43fc96db4842764d00b2b1279532c8796c3f289d0d296ae15acc7c8503d7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:14.723Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.digitalocean.com/reference/paperspace/api-reference/teams/index.html.md": {
+      "hash": "cb41eb30d5be221afc7c61a35c6ff12ffee8e6b474f38293b35e6022c73bf7b6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:15.722Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    },
+    "https://docs.digitalocean.com/products/paperspace/accounts-and-teams/manage-teams/index.html.md": {
+      "hash": "e033315eefd36af42e63479a14798cb608eacee8f2e5763a0c4d23d18bd00a1b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:16.722Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.digitalocean.com/reference/paperspace/core/install/index.html.md": {
+      "hash": "a6e9a6d546ac25bc84d6b77949db2ab76c9cdc6d2fe0b0adffb4c8c2b007025b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:17.722Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

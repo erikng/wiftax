@@ -1,0 +1,174 @@
+{
+  "card": "okta-management-api",
+  "updated_at": "2026-11-15T01:05:34.578Z",
+  "urls": {
+    "https://developer.okta.com/docs/guides/implement-oauth-for-okta-serviceapp/main/": {
+      "hash": "37a6d9e78e20a077b6aff6bc4b4cbe9fb7839bed0a2fd44bbcbc86ce232a61a6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:07.761Z",
+      "quotes_found": 6,
+      "quotes_total": 6
+    },
+    "https://developer.okta.com/docs/guides/implement-oauth-for-okta/main/": {
+      "hash": "5872d658df6d3ed3f34aea92df21d816a5875757ae93debd7b647da046917db2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:08.761Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.okta.com/docs/guides/create-an-api-token/main/": {
+      "hash": "4d76282187864ab09934ba44d53e3217c9ecee8600a8a3723937390082f4d116",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:09.762Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://developer.okta.com/docs/guides/dpop/oktaresourceserver/main/": {
+      "hash": "2957206b4dc7c678d6789d33922afb7641638a76d9e318656d197a9bc9326597",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:10.762Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.okta.com/docs/guides/set-up-token-exchange/main/": {
+      "hash": "452f139200d98d964fa1eb174094cf63c1cd13132bb37fdc62075204868e60a3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:11.762Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.okta.com/docs/guides/ai-agent-token-exchange/main/": {
+      "hash": "169adb451ce4e06009ac7071e0e552ac3dc6569022f3da31780ee9671db363ca",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:12.762Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/okta/terraform-provider-okta/master/docs/index.md": {
+      "hash": "3c2033cd11bc9f5e80eeebc125b4a47e088f26d3b3bfbdefec0c8dcb4597ddb4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:09.748Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.okta.com/blog/product-innovation/opa-workload-identity-automation/": {
+      "hash": "fb9641ed3124f87a0dcd4758da2d297fe27f77eec2aaffef91f743274372abb5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:08.825Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/wf/en-us/content/topics/workflows/connector-reference/awss3/overviews/authorization.htm": {
+      "hash": "9daede9402ddcfdc8527e4a293b863eb27c2cf7987ceb089542d4eb2e3d5c8a6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:09.442Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/wf/en-us/content/topics/workflows/connector-reference/awssso/overviews/authorization.htm": {
+      "hash": "4a594880ebda0501b2c4e5c8f891998f4878db5419fcdfe29eea7559026a7c3d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:10.443Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/wf/en-us/content/topics/workflows/connector-reference/azuread/overviews/authorization.htm": {
+      "hash": "209245d89beb0f8827af216beb0c78f023c08ec3db4a41d9e178701065447392",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:11.443Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/wf/en-us/content/topics/workflows/connector-reference/googlecloudfunctions/overviews/authorization.htm": {
+      "hash": "b776ec0b735389aadd8d6cd312fd3b9328a3baf7cb3964c00fd238a2644b7499",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:12.444Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/en-us/content/topics/reports/log-streaming/add-aws-eb-log-stream.htm": {
+      "hash": "b8152c540014a877357999caacac26b5bc37acade150db5529b1bd29a2e700bb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:13.444Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/en-us/content/topics/deploymentguides/aws/aws-configure-aws-app.htm": {
+      "hash": "e0efeeeffa41d1bba8b9ce996d14ca1bd256acaf89960ec31429b7b71a966935",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:14.444Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-for-Amazon-Web-Service.html": {
+      "hash": "990b0fe1408d7101f5e67e85eac7b0c32cc03fd7e973521601ae08981eff2f55",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:10.526Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/wf/en-us/content/topics/workflows/connector-reference/awslambda/overviews/authorization.htm": {
+      "hash": "d18ed888ecb5ceaf967ed8cbac7ff606d394f7e7c55cae058de4ba43110bfe38",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:15.445Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.aws.amazon.com/singlesignon/latest/userguide/gs-okta.md": {
+      "hash": "613e2d17dc19b9e874e8c75b3b67b1700490da8bfa9191ab7368903a7219a8e6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:10.828Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/en-us/content/topics/reports/log-streaming/add-splunk-log-stream.htm": {
+      "hash": "0805e3042d167f44fa7996f01e36712707bb8a988b82b8a84e585b541ea46d87",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:16.445Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.okta.com/en-us/content/topics/security/api.htm": {
+      "hash": "a82017483651136017e6d34f4dd2202534f54f48c97050e5206e3b8e7eb05aa5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:17.458Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://raw.githubusercontent.com/okta/okta-management-openapi-spec/master/dist/current/management-minimal.yaml": {
+      "hash": "ab2288c49956cc673b712d3c4561c5d01ff389c672d12b38b7f6cf348d08a948",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:11.836Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

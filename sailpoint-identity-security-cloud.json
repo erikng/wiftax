@@ -1,0 +1,134 @@
+{
+  "card": "sailpoint-identity-security-cloud",
+  "updated_at": "2026-11-15T01:05:35.385Z",
+  "urls": {
+    "https://developer.sailpoint.com/docs/api/authentication": {
+      "hash": "831e80e4433b1235caef9301f94d409a4ee82fdee6ac1b4fd7d738b8f9740b82",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:14.185Z",
+      "quotes_found": 6,
+      "quotes_total": 6
+    },
+    "https://documentation.sailpoint.com/saas/help/common/api_keys.html": {
+      "hash": "67d44c4344fdf5ac107acc2b41686825e8233c8784ed01a359abad0343968a02",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:14.291Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://developer.sailpoint.com/docs/tools/sdk/python/personal-access-tokens/models/create-personal-access-token-request.md": {
+      "hash": "06ecc119de4e523db252f05684ceb39222178152ef117f48ec5169e3ee001f68",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:15.184Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/saas/aws/help/saas_connectivity/aws/manual_configuration.html": {
+      "hash": "dcdb9ba03f8695f1b948425c96f50db5c57a30a8ab7bcdbbeb936d2614e263bd",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:15.291Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://documentation.sailpoint.com/connectors/aws/help/integrating_aws/connection_settings.html": {
+      "hash": "5a04be47f5c23e53d86441401c6037723858574c4000322d2d5b1f0074090b7f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:16.290Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/saas/msentraid/help/saas_connectivity/microsoft_entra_id/prerequisites.html": {
+      "hash": "e826bf53349d622f8e6b2e24c3246fad8b1ed06f56ef6f9f6b85446a718ab189",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:17.290Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/microsoft/entra_id/help/integrating_entra_id/connection_settings.html": {
+      "hash": "8afb54c6cc0ead9345b73e7edcedc77b0c172b8b5dd7efab70dcf6e7d6e54910",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:18.291Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/saas/googleworkspace/help/saas_connectivity/google_workspace/prerequisites.html": {
+      "hash": "735a40acd5c0fc1c360af52239d1a23af1f359bb34ce521acd21ad4fea98fb24",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:19.292Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/saas/googleworkspace/help/saas_connectivity/google_workspace/connection_settings.html": {
+      "hash": "b7bd380e445d7913bad83c79979908a5a13dcff39f0c128a86241764842a03ca",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:20.292Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/saas/github/help/saas_connectivity/github/connection_settings.html": {
+      "hash": "dd8f2caec4a030926ac904c38487ba0ebdc921bec641fe7ad7e14aa8be1ea70c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:21.293Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/saas/okta/help/saas_connectivity/okta/authenticate_with_an_api_token.html": {
+      "hash": "ab0979d3b6281003f6390579ffa1358c3c45e4b47039cd338df8219d949827d7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:22.293Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://documentation.sailpoint.com/connectors/saas/salesforce/help/saas_connectivity/salesforce/connection_settings.html": {
+      "hash": "a9d9490faf3efd056754ae85fc2e0fd9f4c1f3758666c239a4385b90cdfe634c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:23.294Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://developer.sailpoint.com/docs/tools/sdk/python/personal-access-tokens/models/get-personal-access-token-response.md": {
+      "hash": "0dc19726906444a148f5252ee25f269e18e3de8692eb6f5ae19f6a9a4fa623a7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:17.568Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developer.sailpoint.com/docs/tools/sdk/python/oauth-clients/methods/o-auth-clients.md": {
+      "hash": "617461903222bcafd911524f95fa574aa4cf1eb488e19e88e9e419377db4d1df",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:18.568Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.sailpoint.com/docs/api/authorization": {
+      "hash": "d260d6bdd583ba996f7e65e4cc69ce0eaa47fd0ccf561b3c12583084cbfc43a8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:19.568Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

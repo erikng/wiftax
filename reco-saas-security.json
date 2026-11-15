@@ -1,0 +1,126 @@
+{
+  "card": "reco-saas-security",
+  "updated_at": "2026-11-15T01:05:35.259Z",
+  "urls": {
+    "https://web.archive.org/web/20250105152050/https://docs.reco.ai/en/articles/10285332-reco-onboarding-guide": {
+      "hash": "5ccd42c266726f84d74f7022472799d7a26f23953ad717036b6a7000d845b94e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:13.594Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.blinkops.com/docs/integrations/reco": {
+      "hash": "f5a0539cd96647926dc54dde34a0d302050403076a1a5034862667919dbfbaba",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:58.552Z",
+      "quotes_found": 6,
+      "quotes_total": 6
+    },
+    "https://readme.reco.ai/docs/creating-and-managing-custom-roles-rbac": {
+      "hash": "8899503745e5981a4e47baf90137d367bfaf450d2b2d67103960e4187e3663d8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:59.246Z",
+      "quotes_found": 0,
+      "quotes_total": 2
+    },
+    "https://web.archive.org/web/20250105151109/https://docs.reco.ai/en/articles/8672500-onboarding-guide-google-workspace": {
+      "hash": "3368f35e8b426c1d6474fb7bbe48fdde51ed9eff53300d5f0a954aefc3c0dd65",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:15.093Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105151129/https://docs.reco.ai/en/articles/8828435-onboarding-guide-microsoft-ad": {
+      "hash": "45362afafd675c4f464f7212adf5ae543a75dfde1bb8a17f55c29e74378092ef",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:16.093Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105152019/https://docs.reco.ai/en/articles/10153612-onboarding-guide-github": {
+      "hash": "373952e0c76e275443ba479b39cfd922b093b6e9ba42c25d02370b65343dbc6a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:01.664Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105151214/https://docs.reco.ai/en/articles/8766084-onboarding-guide-slack-enterprise": {
+      "hash": "5e323ea9879220308b11091275e68bc1ada12140d7dc348032249d5f35ef761c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:02.665Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105151206/https://docs.reco.ai/en/articles/6928334-onboarding-guide-salesforce": {
+      "hash": "b539ca409bcc9c823aacece09d9c1c8f54fb22085bdd18380910104b68e6a0c3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:03.665Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105151814/https://docs.reco.ai/en/articles/9847699-integration-guide-reco-s3-bring-your-own-bucket": {
+      "hash": "74679a2d9784ed940fee8dc74fa9ddb386eff2f4dc8e84955b4e4ab33acf10a5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:04.666Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20240919131748/https://docs.reco.ai/en/articles/8890934-okta-onboarding-guide": {
+      "hash": "44a21fc5507d8ccef7d90e235122cbf2168d1bc22fda3dd12bea6efbb87ad880",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:05.666Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://web.archive.org/web/20250105152014/https://docs.reco.ai/en/articles/10153598-onboarding-guide-github-enterprise": {
+      "hash": "882bb63212c14219d0809d3a515ae7176e5703e9683c15462608d2c77160904e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:06.666Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105151355/https://docs.reco.ai/en/articles/9351989-onboarding-guide-microsoft-with-your-app": {
+      "hash": "7772db99e1008dc48885f096a978248d3b123166733dae9116e770d63fb7011a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:07.666Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105151445/https://docs.reco.ai/en/articles/9543752-onboarding-guide-datadog": {
+      "hash": "2cb8c01bf0e3f62b87527bfcad50645be234e9780041f996e4a2cae1fe019fe1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:08.667Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250105151224/https://docs.reco.ai/en/articles/7851638-onboarding-guide-wiz": {
+      "hash": "82ee9bf012c6965fdffcd77335a493e90fde6a88d95cca79be75df91d41d070c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:09.667Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

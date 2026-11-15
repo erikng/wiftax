@@ -1,0 +1,142 @@
+{
+  "card": "drata",
+  "updated_at": "2026-11-15T01:05:31.329Z",
+  "urls": {
+    "https://help.drata.com/en/articles/13521519-set-up-oauth-for-the-drata-api": {
+      "hash": "f50a25c15e68f211cb9138265c114e27b2120cf16feb350eb98f5a624859572d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:00.783Z",
+      "quotes_found": 7,
+      "quotes_total": 7
+    },
+    "https://developers.drata.com/page-data/openapi/reference/v2/overview/page-data.json": {
+      "hash": "24f97c58e48363b4b0037c67e6dd0a934cd721f736414a39bd4683c9c2ae4301",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:00.947Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://help.drata.com/en/articles/6695964-drata-public-api": {
+      "hash": "5dabea3352c5c183c45a3c626aec42894a6024f11052d256ead835ffcc893db8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:01.784Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://developers.drata.com/developer-portal/v2/mcp-server/": {
+      "hash": "1c6a149f747e0abf83cccfb12bcbb0c46dda764b618cf9ea064acd219ba0f03a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:01.946Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/5048935-aws-integration-guide-infrastructure-user-access-review": {
+      "hash": "04f6b08f170dcc320de915d2acc7b22c74cac7b1e36e171a063c1b57108de63f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:02.784Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.drata.com/en/articles/13455825-understanding-aws-permissions-and-how-drata-integrates-with-aws-concept-guide": {
+      "hash": "d7ab3faa5ff4c76945c36a3b2c399882fc85e679aeec4ca829d4eec2da2e6558",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:03.783Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/4994112-gcp-integration-guide-manual": {
+      "hash": "6e91079e0b2722fde834b36abd3fea89a5cabf88102d988739535770bd3fdbfc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:04.784Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/4663373-gcp-integration-guide-script-setup": {
+      "hash": "42b1fa5502b58737d0ace145fc61253df72213b7774eb6f51a21d0a80011fd80",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:05.785Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/5032404-azure-integration-guide": {
+      "hash": "4bd332e2c3670f803dc3b52e5bc9763f037725f6f9f8f9aa90cec76b4a061672",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:06.785Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.drata.com/en/articles/4663377-github-integration-guide": {
+      "hash": "76d554c99a8f885d95ac97cf0e972de930d30ad03ef4f41a04ca5421701a0c37",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:07.785Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/5188769-gitlab-integration-guide": {
+      "hash": "4999cd89214de248f0340bd2606260fb5501eb94b572faf29be4ab8aa1d1eebc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:08.786Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/5608136-okta-integration-guide-identity-management-provider": {
+      "hash": "44560cb3df315d5b986ac22a0840dd77456a0be89d4495f8f9d33e8aee9debd5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:09.787Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/6994385-jumpcloud-idp-integration-guide": {
+      "hash": "c470e95c2bd5ffdfa2cd97d081ad9e500831aedf1427cc64aa53e13077d128d0",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:10.787Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/5455086-cloudflare-integration-guide-infrastructure-and-uar": {
+      "hash": "0e4f91f12a48ada0f3caf219b18232a17fb3de4629bf4ec3ad5808fd699ba1ba",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:11.787Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.drata.com/en/articles/8987822-snowflake-integration-guide": {
+      "hash": "77955529e1b3b4f61a54b6bf1c9593f61d6d8385abe0d81cccfebffea4d83697",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:12.788Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developers.drata.com/openapi/reference/v2/overview/": {
+      "hash": "56b1a27be4b9eaaa0f9b283ed70c162b8aa9f227981adc70033a292fa6f85a99",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:56:06.658Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

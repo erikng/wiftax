@@ -1,0 +1,166 @@
+{
+  "card": "teleport",
+  "updated_at": "2026-11-15T01:05:45.134Z",
+  "urls": {
+    "https://goteleport.com/docs/reference/deployment/join-methods/": {
+      "hash": "127db751a001aeb1c92cb3ec3df455ac8ed94f6837385f5267a7b0e056fe49ba",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:38.313Z",
+      "quotes_found": 11,
+      "quotes_total": 11
+    },
+    "https://goteleport.com/docs/machine-workload-identity/deployment/generic-oidc.md": {
+      "hash": "87bc746a0d2f933bb4ede85243dcf2f3d6fa20b3f7b695ff1c8455c3bad79732",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:39.339Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/machine-workload-identity/introduction.md": {
+      "hash": "9c304bf4c31bf39bd8c3175d1c15f30947e089f503245bfb495a53d44b8970d4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:40.339Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://goteleport.com/docs/reference/infrastructure-as-code/terraform-provider.md": {
+      "hash": "de23dd787137de41d7b616dbe74f59fbb0fcd35386817fff416976032f154df1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:41.339Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://goteleport.com/docs/feature-matrix.md": {
+      "hash": "f2de18213fc92d1a58edbd32bd222ef039b934a178e3be0ef8bd77ce1efe360b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:42.431Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/enroll-resources/application-access/cloud-apis/awsoidc-integration.md": {
+      "hash": "abf926b57eb75b8c4b8fe1c1f4093c5e4f8dd78f91404175180ff0310c67c1e5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:43.432Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://goteleport.com/docs/zero-trust-access/management/external-audit-storage.md": {
+      "hash": "6e53a72b10a6e59f6bb35e0d7466850f8d747d4d2fe3b354663e0b78b414115c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:44.433Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/identity-governance/integrations/entra-id.md": {
+      "hash": "e4b50768bad2967a483c155578c6b02a66a45074c86f9652cfd7ec5ff732fe38",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:45.434Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://goteleport.com/docs/enroll-resources/auto-discovery/servers/azure-vm-discovery/azure-vm-discovery-manual.md": {
+      "hash": "6912f80e994dadac3bb5af04df4b143326f3927fcd2c9b01b2237ac49b0c4190",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:46.434Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/enroll-resources/auto-discovery/servers/gcp-discovery.md": {
+      "hash": "a78bdb8760506136a967813cdae816b88aeb91b7a8647871e15450f849fbe9f4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:47.435Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/enroll-resources/auto-discovery/kubernetes/gke-discovery.md": {
+      "hash": "ddd9adf2f0bee378cc8b69c89a073e79fc00fdac34d66732b174d12341396040",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:48.436Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/identity-security/integrations/gitlab.md": {
+      "hash": "11db09f3ad636700bd619ccf71a60683048454ac4137256304f0fdcc99991b2a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:49.437Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/identity-security/integrations/okta.md": {
+      "hash": "f32dc04e3b3325933a86261c4dc00365e26685d8492485beff93feebce0472eb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:50.438Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/zero-trust-access/device-trust/intune-integration.md": {
+      "hash": "7e360b0e86aa6699b0cc27ca96aa4f8fa5d42a2dec50e80b473e4c606e2a378f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:51.438Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/identity-security/integrations/github.md": {
+      "hash": "93462bd9021adba94f13e83c1473ea9d883541a59d797f7d84265ed9c5cf39b6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:52.439Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/identity-governance/access-requests/plugins/pagerduty.md": {
+      "hash": "7c5f24af40ba9cd11657b90927535eb5650d72c6c9dfa2b9d40512e701029607",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:53.439Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/reference/infrastructure-as-code/terraform-provider/resources/provision_token.md": {
+      "hash": "9c570bff1218a9e38244c018e01b1e81fc441d7dc0c0fd1195d5b11358aeb97a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:54.439Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/installation/agents/join-token.md": {
+      "hash": "8a1285978a9961ab5f98ee7fcf1e5fbbdf61bf4faa9ceb927062869c81f47fdb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:55.439Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://goteleport.com/docs/reference/infrastructure-as-code/teleport-resources/bot-instance.md": {
+      "hash": "cee1f644a245cefcbe96b90b7a8edfeba00a9ccadcf93985956d0e3f282ce84d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:56.440Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

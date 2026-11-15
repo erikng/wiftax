@@ -1,0 +1,230 @@
+{
+  "card": "socket-dev",
+  "updated_at": "2026-11-15T01:05:44.926Z",
+  "urls": {
+    "https://docs.socket.dev/reference/authentication.md": {
+      "hash": "5d232aaaded99ba8860c37310c4b997a1aecea75481bc24b3e0e0e594a392527",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:52.550Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.socket.dev/docs/api-keys.md": {
+      "hash": "832ea114fc62c91dff4c2e4279a5cb6fcbad53a285e681aebcd3110f0a939daa",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:53.551Z",
+      "quotes_found": 3,
+      "quotes_total": 4
+    },
+    "https://docs.socket.dev/docs/create-socket-api-key-for-cicd.md": {
+      "hash": "67b48afde3e078513196f9b701a9a2df5017b1938dc2d9ae606d35d36d62b81f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:54.551Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/socket-for-github-actions.md": {
+      "hash": "4d75d0f6ff5f23231404e282dcd440bae68affa6dd10164cf0f0fa013ad79f99",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:55.551Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/socket-in-your-gitlab-pipeline.md": {
+      "hash": "46ed9f301395e544a7a34e83d51557dc503b3de5e924ff4d2234481dfaefca70",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:56.551Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/socket-login.md": {
+      "hash": "2ac38817c3849ccc07abe670ad3a2956d6eaac63b57f6a00ca062f2944ffa624",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:57.551Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/socket-firewall-enterprise-registry-mode-codeartifact-configuration.md": {
+      "hash": "8d814f50e618b931a909785d47d13a75373a62ff55b7ba58efeb031ee0739f1b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:58.551Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://api.socket.dev/v1/openapi.json": {
+      "hash": "499c71457c880e33ecf6a3b2af2218be2d98a7b7113191e8b014129657c09c58",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:55.740Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/remote-socket-mcp.md": {
+      "hash": "5918590b3298be55ef7036fdffbc2bd2fab7168ff8c8e508baffbbff179e8b8b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:59.551Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/socket-for-github-installation.md": {
+      "hash": "7cf8389aea0b31936ae3f5ba17c10facb0ec09f24242e5a85edc8426aab4f8e4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:00.552Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/permissions.md": {
+      "hash": "82c07474ca8de226cd59a483b07941848ea7163b8355969409c976932a622987",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:01.552Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/jira-integration.md": {
+      "hash": "87f9596f56c38fad5151d533bbf980cbfe822802ef7d9d7c88069ec87be18ad6",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:02.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/linear-integration.md": {
+      "hash": "00f9014340d715593ef86e24be85da78f5d5fce2ad926d3ee8daa69e1f5c9dac",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:03.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/asana-integration.md": {
+      "hash": "beed9053791aca792641d2cf4de145a56356b297aa9da0ec377fd111e2e768bb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:04.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/clickup-integration.md": {
+      "hash": "55b55ac4aef97225f38cc69e68aaba3e9fb5c33586343d4911ba9c0c3f8521f5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:05.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/vanta-integration.md": {
+      "hash": "fa54fb65013d44b1d376e22a91cda30439f89894dafc163a7c5d05a57e873bf2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:06.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/socket-for-origin.md": {
+      "hash": "39474676ff5a5d02735b80fe4d579e89add10252a71f9e590d1216d587434d12",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:07.554Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/slack-alerts.md": {
+      "hash": "4d3b35d77b61df2b5b79b88b32622edce2e70f891192650ae34179190d6a6f35",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:08.554Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/notifications.md": {
+      "hash": "c48d9800cd5879f5fd861e62b0598c9bc263478d0f55ac8312c30c070712e776",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:09.555Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/socket-firewall-enterprise-registry-mode-artifactory-configuration.md": {
+      "hash": "e223374bc84e2366e92d152113a15f597272723336101820c74875ce81f5309c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:10.556Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/docs/integrations.md": {
+      "hash": "eb9ef9f6294a446b5f9938f49974771e090912ad9ac7ffb7cbd2af276c44d7d3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:11.557Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/reference/postapitoken.md": {
+      "hash": "783dd488ebdfdd6ae7fb3a877efc17aadef48cc030929383fbcd09f8109de765",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:12.557Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.socket.dev/reference/postapitokensrotate.md": {
+      "hash": "d52237c06dc5cae3b8710b301223cac7dc5dd43286d9969232172758d81aaa38",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:13.557Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/reference/postapitokensrevoke.md": {
+      "hash": "d7e29d6940ecb73c1fca2e0c0ac1f324309c7c6702df0cfecd567c1d6b19c375",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:14.558Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/reference/creating-and-managing-api-tokens.md": {
+      "hash": "7628f9b628d45f403de537a00dba26dc595f4f664d15a4849bbe6a6b5571b351",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:15.557Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://api.socket.dev/v0/openapi": {
+      "hash": "c0cf21d147200ea2ff238d975ceb746089dc650daa36d739b03b2667c44eac58",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:08.741Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.socket.dev/reference/getapitokens.md": {
+      "hash": "78607d088abd12e2057eae858bf2cb4ff77eacfb07076c1397d94b5c06e382ea",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:02:16.558Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

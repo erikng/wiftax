@@ -1,0 +1,158 @@
+{
+  "card": "zluri-identity-governance",
+  "updated_at": "2026-11-15T01:05:46.542Z",
+  "urls": {
+    "https://developers.zluri.com/reference/authentication-1": {
+      "hash": "5b530783f6a68d929fd70d0bed88f78387e9a56fb0a12202f0f3b2f3f6e63abc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:05.815Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://developers.zluri.com/reference/introduction": {
+      "hash": "7ce3defc3c6bdd72a9e62c94ac0c9fd3cd736ce1faa4106ca61652823517a680",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:06.814Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developers.zluri.com/docs/prerequisites": {
+      "hash": "0836aaa10803b752c4babc2964dba4ff25893cda69b6b1987a8404da17a48e74",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:07.814Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.zluri.com/docs/connect-microsoft-active-directory-to-zluri": {
+      "hash": "27b220602c260574cca61b48e6fc98df9a2668d2e1e9b3e04766cfc5ce4fd647",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:06.809Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/windows-agent-deployment-manual": {
+      "hash": "d696c626c128f250b048e6d264c0a9e5079e1f20e431b0271d1fcda2379f6016",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:07.810Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/aws-management-console-connect": {
+      "hash": "9ab9063d8dede4f6a77f96e125b243b72bd988a3e981563287ba507e9de010ce",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:08.909Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/aws-identity-center-connect": {
+      "hash": "0e2cb99e57c9f34682e35ad927a8180824ed1af26676f3ca96d9e0f97b3508b9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:09.978Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/gcp-connect": {
+      "hash": "d2a83ec9a2bc6f4bc8cb19ed6318351b6ae584d8afd6038086c712bb506529be",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:11.066Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connect-azure-ad-to-zluri-oauth": {
+      "hash": "ebe1e6252d74f7f56fc0c637608c3584d375df8df92c7e754ccbe396f6464a00",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:12.065Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connect-azure-ad-m2m": {
+      "hash": "37ad0c089ec66fd7330c6e5429ed5bb88f1c2116965741ec60a99b3442b2f520",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:13.201Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connect-google-workspace-to-zluri-oauth": {
+      "hash": "3c49e58e6035a203d38dbffb90917b2759cbfb8700424988971750feb827344c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:14.340Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connect-github-to-zluri": {
+      "hash": "82c57fb96161464f5dd35e389c72cd2ccb616bf3346ee3c64e9aa60b48571aed",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:15.403Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connect-github-enterprise": {
+      "hash": "07e310713cac66e0fada89f65c57be38e96cab3cba76a04f86e35ba2a44057ab",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:16.549Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connecting-okta-to-zluri": {
+      "hash": "1eb6fb5b30c523502ffaefaffa8f5d391b936040ea1a423c7f416f94aa938340",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:17.549Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connect-okta-m2m": {
+      "hash": "99dc383169fba98891b4ce0c8321ba7d0c1a8471bf3d59235053d49a113edf63",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:18.549Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connect-salesforce-form-based-new": {
+      "hash": "a777465a6f754c7ecdfc91b141909b80554d26d3e941f988131520f16dca36b8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:19.550Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.zluri.com/docs/connecting-slack-to-zluri": {
+      "hash": "fe68b323750704f3b43c59565fc3a3057ff4bfe13ae1602f253ae78fb90ec402",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:20.549Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developers.zluri.com/reference/rate-limits": {
+      "hash": "84ddbc87ae3cbad8815fa78c6d19ed79b9914c34f8bdc7f8faaf9e17469c36d1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:05:14.325Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

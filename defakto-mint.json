@@ -1,0 +1,110 @@
+{
+  "card": "defakto-mint",
+  "updated_at": "2026-11-15T01:05:30.521Z",
+  "urls": {
+    "https://d.defakto.security/iam/service-accounts": {
+      "hash": "0ee2938e0cb7515e625201efaa3c825d9d00f5c7b0b307b1c8514b898d6e4018",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:12.550Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://d.defakto.security/iam/wif-issuers": {
+      "hash": "797386ae3383e672a3bf75e94316ab016635fe224012f197ad3ab8908b2dcb05",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:13.550Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://d.defakto.security/iam/terraform-wif": {
+      "hash": "ebd90f08fdf78d0926e2579a2bbe28afb513be2045033ed47969e8ab120073af",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:14.551Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://d.defakto.security/cli/spirlctl/service-accounts": {
+      "hash": "b79f0f513965588714a76d6ecc74fea448b81539ee2ce47f766c1d53e3a0782e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:15.552Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://d.defakto.security/cli/spirlctl/login-logout": {
+      "hash": "15413870b68c09b2f506619751b89fbffb6180af2c72aedaf052774452df0851",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:16.552Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://d.defakto.security/mint/configuration/server-configuration/trust-domain-server-attestation": {
+      "hash": "6db9786d4af9454f5401adfb3ddff0f5b755e4b07e36c9a33e67406163d7b3dc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:17.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://d.defakto.security/mint/integration/tutorial-aws-federation": {
+      "hash": "37952cb86c1513a776460aaf8ad2b66e80c38f1e5c89f182d4ddc71b221f7730",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:18.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://d.defakto.security/mint/integration/gcp/tutorial-gcp-federation": {
+      "hash": "5d5f979f29b0d6283fef81d44e63f0aafed137e85c7e853126af2886872f90d4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:19.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://d.defakto.security/mint/integration/azure/tutorial-azure-federation": {
+      "hash": "e42d861d5abdb6bca8f4094ba24b25d48b4fa40a91689c2f77d0cf26c31d0ec7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:20.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://d.defakto.security/mint/configuration/svid-issuance/key-manager/key-manager-aws-kms": {
+      "hash": "705dc4adce7480463a9d03675e0adc5a293f20fef2d98a6c516a7df90b109d70",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:21.552Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://d.defakto.security/ledger/integrations/openai": {
+      "hash": "89c91a4df21917d46b203f21c5860ed0239c67c32f739ad11fcfe504450b9138",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:22.552Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://d.defakto.security/iam/roles": {
+      "hash": "0079ba7cb879fd1a74e3c042efb210cb4511161d4df0104219801a912d87ab24",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:55:23.553Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    }
+  }
+}

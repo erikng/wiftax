@@ -1,0 +1,102 @@
+{
+  "card": "fluidstack",
+  "updated_at": "2026-11-15T01:05:31.940Z",
+  "urls": {
+    "https://web.archive.org/web/20260711055141/https://docs.fluidstack.io/kubernetes/access-clusters": {
+      "hash": "800cc93a09738b8b25f69dc3b8080b73a4a0e25065e21dfec8d53ef4b75989df",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:03.258Z",
+      "quotes_found": 7,
+      "quotes_total": 7
+    },
+    "https://web.archive.org/web/20260214010414/https://docs.fluidstack.io/cli-reference/fluidctl": {
+      "hash": "b852f5b1130c87d8049561771a6f861d9133e36902522a4040116f1d49ef419c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:04.259Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20260711060054/https://docs.fluidstack.io/cli-reference/auth/fluidctl_auth": {
+      "hash": "646c9f777875efa73c11bf5e3b3f48c4a4f94d185a090cd789263a87d0a9a897",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:05.259Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20260711043734id_/https://docs.fluidstack.io/redocusaurus/management-api.yaml": {
+      "hash": "4d36e1a72aafacbe6cfadd385b0a12a8c76a83f06b012f5862aeb074de0664a9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:06.259Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20260711055850/https://docs.fluidstack.io/projects/manage-projects": {
+      "hash": "a2546e79cb806b2866db1b2ab28b9fafa6b51057dfbcb51f69fc89d1333f279e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:07.260Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20260608212616/https://docs.fluidstack.io/lighthouse/authorization": {
+      "hash": "7f78490a9087655a0ed889df7f46eed8e400288e05b88a122f15050257ce89b8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:08.261Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://web.archive.org/web/20260711045002/https://docs.fluidstack.io/getting-started/sso": {
+      "hash": "8282d63aaf0c6102d20650e4d82de75ceb545f030a72c0a5f7c56fb5312be804",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:09.260Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20260711060333/https://docs.fluidstack.io/api-reference/infrastructure-api": {
+      "hash": "05276ba1bc0b310b04831143837c9fa74969f623a6d6ef9dccc6d28ff51fd5d1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:10.266Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20260214005219/https://docs.fluidstack.io/api-reference/management-api": {
+      "hash": "b133db837d45b60356e455782f1cfa9c5c529a449647ca0301fbd6ac0d20031b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:11.266Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20250325074300/https://docs.fluidstack.io/atlas/surge": {
+      "hash": "aee6b5a327e4cf8f1ee0a7b99332ff380c5f960af47b7fd89e2a86eca279804e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:12.265Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://web.archive.org/web/20260711051636/https://docs.fluidstack.io/kubernetes/manage-users": {
+      "hash": "a4903c2a826ec8e99f577a1dd5d7f3d8b4613ce18cb325954557d541a6740c27",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:57:13.265Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

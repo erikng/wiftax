@@ -1,0 +1,110 @@
+{
+  "card": "crowdstrike-falcon-api",
+  "updated_at": "2026-11-15T01:05:29.798Z",
+  "urls": {
+    "https://developer.crowdstrike.com/llms.txt": {
+      "hash": "22bb78c0213404de5d26c6ca44393c092b5a1352864a239dbcff8c86d844b75f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:22.607Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developer.crowdstrike.com/api-reference/collections/oauth2.md": {
+      "hash": "ef40fc49cf2bfde7909c2737b320f76e08e864bf7cb844d6a0e937a06729ab0e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:23.606Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://raw.githubusercontent.com/CrowdStrike/terraform-provider-crowdstrike/main/docs/index.md": {
+      "hash": "9a02d531150710543de7c1a78980db4b4b75c7cb244483d489ce1e7ee7851796",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:23.947Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.crowdstrike.com/sdks/powershell/authentication.md": {
+      "hash": "6d2e6701f8c1a1c1f4a494ec259829ac668575bbe402a7f0ba0b333ba0bed029",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:24.607Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.crowdstrike.com/cac/terraform/provider/falcon-cloud-security/resources/cloud-aws-account.md": {
+      "hash": "62af10ebae271c8b1f478192ec56f4b5dbe3417c5309cb5f4dacb5769446b862",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:25.607Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developer.crowdstrike.com/cac/terraform/provider/falcon-cloud-security/resources/cloud-azure-tenant.md": {
+      "hash": "8d0294a8e4b79cff77bce60c88ceb03e9ead6f8e17531fe8183d81f35939929a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:26.607Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.crowdstrike.com/cac/terraform/modules/gcp-cloud-registration.md": {
+      "hash": "c92dd38f8afc6f5ab4fac7f1e3959e5a1c9b551360d30787633b46c32aa05620",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:27.608Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developer.crowdstrike.com/cac/terraform/modules/oci-cloud-registration.md": {
+      "hash": "ef607504cd0dd6aaf8c8613ba7200d7add135f3f37078e60a18b19a38f2542a5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:28.608Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developer.crowdstrike.com/api-reference/collections/cloud-oci-registration.md": {
+      "hash": "9d765f3f30af7e8e8681be94fe320d30df6c7ee6fbd90abfea28e3a0b71d9370",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:29.607Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developer.crowdstrike.com/cac/terraform/provider/falcon-container-image/resources/container-registry.md": {
+      "hash": "573541111e7e75f29c48eb525eb81591f21e22a977e0330d22ac2e04703a4aca",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:30.607Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://developer.crowdstrike.com/api-reference/collections/api-clients.md": {
+      "hash": "a046e6c9c24d5284f16cff52808d426201a7995892081de71a564d5894021981",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:31.608Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://developer.crowdstrike.com/cac/terraform/modules/aws-cloud-registration.md": {
+      "hash": "2bc09fd912e15c438392de97f7008f4a64d58eb6324b11342e0cfbd6c24fec64",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:32.608Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "card": "veza",
+  "updated_at": "2026-11-15T01:05:45.345Z",
+  "urls": {
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/developers/api/authentication.md": {
+      "hash": "486b18038e5715833562ef86415379da87502c554407477debf9ad3187053e59",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:26.908Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/developers/api/authentication/api-tokens.md": {
+      "hash": "6d38afb4b62be28659afb01612302bdcedc5547d7838e3fe35c242cf692647e8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:27.908Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/developers/api/authentication/oauth2-clients.md": {
+      "hash": "609b556f60a14142333a1837f977a3b6dd7ab4c29c5cddf91c7b6b2f83aa0f41",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:28.908Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/developers/api/authentication/oauth-scopes.md": {
+      "hash": "125b849b92b4df392af6178e8ccc1406b90fd4dd47e0c854d747ee9785c2a35c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:29.909Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/security/security-faq-2.md": {
+      "hash": "8080936fb8508cc69e4f8a91478bbf11c41c7c7e7c05715db948e46fb6e6b7db",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:30.909Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/connectivity/insight-point.md": {
+      "hash": "f8c9ca1343cd2ca8ee7f592a5f31b9db5f60c7472beb40671cb5aa3a4faa0242",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:31.909Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/integrations/aws.md": {
+      "hash": "40da4f041c4aa784f4a4ba86be053fa407dc383dabbefa17aa9f0606db6c4d64",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:32.910Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/integrations/google.md": {
+      "hash": "5b065c0dce275f4af1c2aa50a1f6cd3f59e2ac896d56ef3c0cf24e0107f81fbc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:33.910Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/integrations/azure.md": {
+      "hash": "2d17f79a9916bedc970c8b68ae674203e4b1150aeb330462a037201f4ad16945",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:34.910Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/integrations/okta.md": {
+      "hash": "e4babd16c2abcfb81c11869884a90f764e528d504f312ba1391348984d8cfd72",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:35.911Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/integrations/snowflake.md": {
+      "hash": "da92a18a092615a16203dd9ec0c6dced540d05f98708f31154d04ea523a8067e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:36.912Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/integrations/snowflake/export-to-snowflake.md": {
+      "hash": "e7483571ac757e870ea35e978e2e5f8522ccad6b08bb3c0682c86c04e1eb8008",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:37.913Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/integrations/github.md": {
+      "hash": "d68f25a8f133bf1bb278ea43c3fc3b400756f2d51f582742c3177430cfd09bf7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:38.913Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/administration/administration/customer-managed-encryption-keys/customer-provided-keys-setup.md": {
+      "hash": "a32e3c3e72146adfd0b4c5ba0237f1c28c3de620256756e1716758abe9866762",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:39.913Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/integrations/connectivity/secrets-vaults.md": {
+      "hash": "d9f19cef8227b167033d1ff9c64c8b71a357ff81fb8c98fbb5b605ce78ff717d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:40.914Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/developers/api/users-teams/team-api-keys.md": {
+      "hash": "a3e874551c36240e721bead2cfa5edf2de50dc6253222fb60057eefbf4a2ab74",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:41.915Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://docs.veza.com/4yItIzMvkpAvMVFAamTf/administration/administration/users/teams.md": {
+      "hash": "9511bdc46993909c09be3b70cb325515002825cec7b6f5b46071fa88702b607d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:42.915Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

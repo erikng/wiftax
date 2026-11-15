@@ -1,0 +1,184 @@
+{
+  "card": "checkpoint-infinity",
+  "updated_at": "2026-11-15T01:05:29.425Z",
+  "urls": {
+    "https://docs.cgn.portal.checkpoint.com/reference/authentication.md": {
+      "hash": "dd36b6b9074ce32d96084227e197368e65df048142e41656e75df548332d9828",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:57.832Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://raw.githubusercontent.com/dome9/dome9-sdk-go/master/dome9/client/client.go": {
+      "hash": "9e0335a7cf162123a042820fc113ef533575f6202aca036ad086620fa251a87b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:58.265Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/dome9/terraform-provider-dome9/master/website/docs/index.html.markdown": {
+      "hash": "254ebde10bec4065e9bdb83a29520cd39335b71fb5d2f199d4be687462eb4b10",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:59.266Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/CloudGuard_Dome9/Documentation/Assets/AWS/OnboardAWS.htm": {
+      "hash": "84db80d59479de597c03258da331ac38e1fc4976247ca39d54096f803d0b72da",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:58.628Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/API.htm": {
+      "hash": "417c413dbb56c2811613c026e322f95f2902fb69a642f62d620c64e64a67f33a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:59.628Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/Infinity-Portal-Admin-Guide/Content/Topics-Infinity-Portal/API-Keys.htm": {
+      "hash": null,
+      "status": 404,
+      "ok": false,
+      "failure": "gone",
+      "fail_streak": 1,
+      "checked_at": "2026-11-15T00:54:00.628Z",
+      "quotes_found": 0,
+      "quotes_total": 7
+    },
+    "https://docs.cgn.portal.checkpoint.com/reference/cloudaccounts_post_post_v2cloudaccounts.md": {
+      "hash": "02c41284d19fae4c81d987afa906a9e6d4f5e602f8a9d0a8dc9e61dc9cc1edd3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:59.565Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/Assets/AWS/Troubleshooting-AWS-Onboarding.htm": {
+      "hash": "929749db25e3383b9acb1a1ab5ba6a0d01c74ecee16501e8a2cb62a62915d351",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:01.629Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/Assets/AWS/Organization-Onboarding-AWS.htm": {
+      "hash": "6c37e196cf0ee46c0d9ed846f3a3a179be31d7ed49f34acb17ce40b4753ab847",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:02.629Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/Getting-Started/Onboarding-Azure-single-account.htm": {
+      "hash": "d915dac6cd3059998f2f0f624b44de90f387bcdb0756ee1f7cd9ac6402827fc7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:03.630Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.cgn.portal.checkpoint.com/reference/azurecloudaccount_post_post_v2azurecloudaccount.md": {
+      "hash": "dd4d805cc3dbe2d4ac767fb464c45e86d1adcc8ccb5b43e58ed99eb392a1c597",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:00.827Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/Assets/Azure/Onboarding-Azure-Organizations.htm": {
+      "hash": "d4f490c3be8794542653e6205ad3d7f6cd541341c692257a1272a06050c2ec22",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:04.630Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/Getting-Started/Onboarding-GCP-project.htm": {
+      "hash": "46d91a20646c43507d6c0a1c83d2f48b7ebdaa3436542027ebcfb5840777e4f5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:05.630Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.cgn.portal.checkpoint.com/reference/googlecloudaccount_post_post_v2googlecloudaccount.md": {
+      "hash": "38ab6f4ba31b4037e4bb284863c99fa1004ec08d73468373e2aac289c4a8d85f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:01.867Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/Assets/GCP/Google-Cloud-Platform.htm": {
+      "hash": "988ff8610fb363d5949044ac346d7055f3f97a70bfe19d16324fbcc4c06a0d2c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:06.630Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.cgn.portal.checkpoint.com/reference/alibabacloudaccount_post_post_v2alibabacloudaccount.md": {
+      "hash": "efe3ffef4ef89fc563cdb6c58917c9d005100f46e66f49566dc794c57026736d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:02.867Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.cgn.portal.checkpoint.com/reference/serviceaccount_postserviceaccount_post_v2service-account.md": {
+      "hash": "20713a907cb66d2e67960bcf26e60db8f8c070e5f2fdee7c45be4f4ca52af26a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:03.867Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.cgn.portal.checkpoint.com/reference/serviceaccount_generatesecretforserviceaccount_post_v2service-accountgenerate-key.md": {
+      "hash": "f5a33180176e5798e8af5a1788183a549c21ee6d9f9773559b00a53b6c6e5bbe",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:05.074Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.cgn.portal.checkpoint.com/llms.txt": {
+      "hash": "577f010004c400bd994dbc36ef670987687e374f0cf4296b838d8c907f5f46b3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:06.074Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://sc1.checkpoint.com/documents/Infinity_Portal/WebAdminGuides/EN/CloudGuard-PM-Admin-Guide/Documentation/Settings/Users-Roles.htm": {
+      "hash": "9c1d2882abdbb53392852f153390296fbb0226c566ea1c73dfcc7a9bf477119e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:07.630Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.cgn.portal.checkpoint.com/reference/serviceaccount_getserviceaccounts_get_v2service-account.md": {
+      "hash": "2d092b58fdf52cd333c11b8e20b1ce67ec50e44708c17810c8b445beb6c89012",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:07.074Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

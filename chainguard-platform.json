@@ -1,0 +1,126 @@
+{
+  "card": "chainguard-platform",
+  "updated_at": "2026-11-15T01:05:29.340Z",
+  "urls": {
+    "https://edu.chainguard.dev/platform/administration/assumable-ids/assumable-ids.md": {
+      "hash": "c4cc24e3a9520259711cbd3e7b111a1db094ddb254ada4c73e56bff72387deb4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:51.698Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://raw.githubusercontent.com/chainguard-dev/terraform-provider-chainguard/main/docs/resources/identity.md": {
+      "hash": "1fc8d8b99901ce70421a938ae50621d203d2d88f8fa55e8f8dfb6ed9e8d4ef74",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:52.265Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://edu.chainguard.dev/chainguard/containers/registry/authenticating.md": {
+      "hash": "d3054c6d8f9738aa49436204b01532fbc512927e1f3ce9eb96dc54894bf81634",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:52.724Z",
+      "quotes_found": 7,
+      "quotes_total": 7
+    },
+    "https://edu.chainguard.dev/platform/administration/assumable-ids/identity-examples/aws-identity-oidc.md": {
+      "hash": "6cdc7dcf9536a2952367e6f1d6f1caa2ce955edc4f78dd7822cb539d8cf15a47",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:53.723Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://edu.chainguard.dev/platform/administration/assumable-ids/identity-examples/kubernetes-identity.md": {
+      "hash": "177e3462129eda69abe6ad9353c6e45087a36971a28a72b758d0f2de77e39439",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:54.723Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://edu.chainguard.dev/api-v1.json": {
+      "hash": "fec197aee5e8f353b2b64f5dc25eb25e3fc0b2bc5485a90c9c879873f0044d47",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:55.723Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://edu.chainguard.dev/chainguard/containers/registry/pull-through-guides/ecr-pull-through.md": {
+      "hash": "762f007082e1dad0eaf57f43fd6d68a27ddf71df801eb90533f9a55a48b675f8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:56.724Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://edu.chainguard.dev/platform/administration/cloudevents/events-example.md": {
+      "hash": "7c5fee858d8e3419be2c2a5626013261b2186ccf54dd87349a900cb3f8aa927f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:57.724Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://edu.chainguard.dev/platform/administration/cloudevents/image-copy-gcr.md": {
+      "hash": "03dfdce06acdded1f080a449d3fb53c0f9f124c1ef2c2c1aee0c2affa637d105",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:58.724Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://edu.chainguard.dev/chainguard/checks/identity-and-trust.md": {
+      "hash": "9ff41813edd734b1de4adbde42a7ea2d9714a5df77e043c7dd3e4d128f001cef",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:53:59.724Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://edu.chainguard.dev/chainguard/guardener/github/app-connections.md": {
+      "hash": "231ec35322f52b5b39ee2caaf7ae2d75c87c2c0a9aa177a3ddbf667665150349",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:00.725Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://edu.chainguard.dev/platform/chainctl/chainctl-docs/chainctl_iam_account-associations_set_aws.md": {
+      "hash": "df26805784d2ccfcbfdb8890d91322f756080a38b628dfdb20183bd0d7b79bb0",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:01.724Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://edu.chainguard.dev/platform/chainctl/chainctl-docs/chainctl_auth_pull-token_create.md": {
+      "hash": "4e1bd5c2c6eb7ea648586cddb6b26d1406f1d5b870adccda972dd9a1aa4795b9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:02.725Z",
+      "quotes_found": 1,
+      "quotes_total": 2
+    },
+    "https://edu.chainguard.dev/platform/administration/iam-organizations/roles-role-bindings/roles-role-bindings.md": {
+      "hash": "68f51312cee4ee3de0126404211a88a48fe4a89d34b59e3f27366969d8ce9e08",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:54:03.725Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

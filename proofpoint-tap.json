@@ -1,0 +1,118 @@
+{
+  "card": "proofpoint-tap",
+  "updated_at": "2026-11-15T01:05:35.136Z",
+  "urls": {
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation": {
+      "hash": "49b376b7d1337b1f43ed5a398efab747341de1303a32f46c99486a8032fa3e3f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:22.187Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/SIEM_API": {
+      "hash": "850b556e35a47d1c51c4e5d1b5d5d53abd50b0837aa879135fd847e92b72055b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:23.187Z",
+      "quotes_found": 5,
+      "quotes_total": 5
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/People_API": {
+      "hash": "65192bef039856d1a4cad3640c8d372eeb21f5a8c5263d3e95941bab438b1433",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:24.188Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/Forensics_API": {
+      "hash": "459f0cfd9110a17cbfb8586a7d96217d8e52a2cd83519f1600384d311c833af5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:25.188Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/Campaign_API": {
+      "hash": "e7081cd3dd28709cfb101271c7fe0718a25a04bac86706a752bc7114549467e9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:26.188Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/URL_Decoder_API": {
+      "hash": "1afdb57ae8332ab5d1c8da80d47effd7386bf9545adc3d7105c7fcc5094a3b71",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:27.187Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/Reports_API": {
+      "hash": "7b7e30955d59855b39bbb46b461ab438c25dafee66605ed856b0e97a1b55ffe9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:28.218Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/API_Documentation/Email_Bomb_Events_API": {
+      "hash": "8982379103cd5cabd2850169de99329dec23e3856f7f852bca46a68a16258836",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:29.218Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.proofpoint.com/us/products/advanced-threat-protection/targeted-attack-protection": {
+      "hash": "2d314d77f98e62f655a180be0bbb5ec618ea455e7bfca5db571d392291134164",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:26.079Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.proofpoint.com/Essentials/Product_Documentation/Account_Management/Integrations/Microsoft_365_Integration_MX": {
+      "hash": "386f1006a1c347d6de10b0d36c01534f6219cce083b1c8ea3730dde0b6c6b6f4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:30.218Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://www.proofpoint.com/us/resources/white-papers/understanding-core-email-protection-api-and-adaptive-email-dlp": {
+      "hash": "b6d6c720fae3647440226a25f995a850964b5f3a30fbe25b0afb23bc160fbda4",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:27.079Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.proofpoint.com/Threat_Insight_Dashboard/Concepts/Managing_Service_Credentials": {
+      "hash": "c8224ceb0cb0ecc53201c06d273492c15170370a7793f190c28181ce6ad1a562",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:31.217Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    },
+    "https://posthog.com/docs/cdp/sources/proofpoint-tap.md": {
+      "hash": "92e73cfe460751c71cd69534f150764dbe09560faa744e0d6010f490d4ef74a5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:27.556Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

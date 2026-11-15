@@ -1,0 +1,198 @@
+{
+  "card": "qualys-cloud-platform",
+  "updated_at": "2026-11-15T01:05:35.204Z",
+  "urls": {
+    "https://docs.qualys.com/en/oauth/oauth-phase2/oauth/oauth_oidc.htm": {
+      "hash": "a089b5c95400b1a829bac6864adfae28972f0bf2e832dec2c93b6413b1a38aa7",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:30.765Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.qualys.com/en/oauth/oauth-phase2/oauth/onboard_oauth.htm": {
+      "hash": "9d7a4cc964b87b844f661889eb053bcafb3057feb605933ead9b3b3dbdc0ad31",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:31.765Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.qualys.com/en/oauth/oauth-phase2/oauth/custom_claim.htm": {
+      "hash": "37d602bbd262bbf436f95d45afc29e147749a8d1cc630d9b6babb8e95784cb06",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:32.764Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/oauth/oauth-phase2/oauth/use_oauth.htm": {
+      "hash": "dc8f02dd7921c9f97c4799742f93b2a0d0fd8649295169e5af66801a15004ea1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:33.765Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/oauth/oauth-phase2/oauth/support_matrix.htm": {
+      "hash": "d370d7ffb1110bc5dcac582cb1cf62f5b794777969583482f59f0607e083634e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:34.764Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/vm/qweb-all-api/get_started/authentication.htm": {
+      "hash": "c26723fb058fe4924b7f2acb1b06cf38af9766dfed0798711989ebbf4be6f374",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:35.765Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/csam/api/get_started/API_Authentication.htm": {
+      "hash": "b52a30bd54ec066eb86b4d152c526e9b704a194f0aa989efafdc98e50c346579",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:36.765Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.qualys.com/en/oauth/oauth-phase2/oauth_ui/generate_authentication_token.htm": {
+      "hash": "57132ad5c7dc8e38a7f13fbdc879278208e49ef7311d14e64ed1ab99690e3caa",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:37.765Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/conn/latest/aws/aws_connector.htm": {
+      "hash": "2d1f91a6e9dbdb68ec629b3be97f47c915e965cc5ca9f35b013021f837f39d31",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:38.765Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.qualys.com/en/cloudview/latest/onboarding/azure_onboarding.htm": {
+      "hash": "a8cc1efd43e709562c27d28ff3fa27b25cb83d47e961dbe49aa79a9997bf58cb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:39.766Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/conn/latest/azure/azure_auth_details.htm": {
+      "hash": "fc0c2bd396f0ee78f6168d29760e0663af9f264b47ca6a506e2f27744ce38d4a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:40.767Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.qualys.com/en/conn/latest/gcp/gcp_config_download.htm": {
+      "hash": "82b0d838c9624ce55ce16c49cf8990b98355272670d16dab8cc597c2828996d5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:41.767Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/etm/latest/mergedProjects/etm_connectors/authentication/wif_authentication.htm": {
+      "hash": "7c0f6f477d400565358b2c2d2de06424dad52b6ff12934939e07bf02dc3bdc5b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:42.767Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.qualys.com/en/conn/release-notes/connector/release_2_19.htm": {
+      "hash": "7d26421bf13b44c6470745b585e5857c7c53cc86fd400a6ea6ab52d54a32268a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:43.767Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/conn/latest/oci/oci_connectors.htm": {
+      "hash": "c25755855b0447f9ec100d8e105a53c66f741f9fbf1e35569ae63d2740bd9257",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:44.768Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/vmdr/latest/setup/win_security.htm": {
+      "hash": "62a7a7871f7fd68efab110dfc47fd796df6505ef7b54314a3274835f0961d06e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:45.768Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.qualys.com/en/vm/qweb-all-api/mergedProjects/qapi-user/users_mgmt/change_password.htm": {
+      "hash": "ab1c35a106b79258c6b33e9c778739325a6708310e77034fbec8c1e3828bed4e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:46.769Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/vm/qweb-all-api/faqs/how_to_chnge_qualys_userpwd_api.htm": {
+      "hash": "8320ca9b8abd22df1ce9ed23c3510e607ebbbf4ddd5a712fc3cfcf646f53da17",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:47.769Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/vm/qweb-all-api/mergedProjects/qapi-user/users/add_user.htm": {
+      "hash": "0c7cda526d2685ce9024c3b34595e008d80e64e2fc8a0a3724a3426c62f2019e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:48.769Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/vm/qweb-all-api/mergedProjects/qapi-user/users/params_users.htm": {
+      "hash": "1a3c248e9cda8cd2f32e74a2760e5005f748b7a8c98c9aa61a289150ef2981ce",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:49.770Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/oauth/oauth-phase2/oauth_ui/ui_authentication_steps.htm": {
+      "hash": "bf56d4088d784a3d02cbd20ee6cb6f8869c4687651c239564d645bdb7f83f76d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:50.771Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/vm/qweb-all-api/mergedProjects/qapi-user/users/list_users.htm": {
+      "hash": "876e8d6ccee453cab1be10f3d99f36d0c3cc636f3eff7b0ba307bc3d03514a14",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:51.771Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.qualys.com/en/vmdr/latest/activity_log/activity_log.htm": {
+      "hash": "5c2d5f1cdfce307645f8df12f8d395f53323bdc072585107222596cf86f7cf42",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:00:52.771Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

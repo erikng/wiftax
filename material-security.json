@@ -1,0 +1,110 @@
+{
+  "card": "material-security",
+  "updated_at": "2026-11-15T01:05:34.380Z",
+  "urls": {
+    "https://docs.material.security/reference/api-v1/authentication": {
+      "hash": "10a328e218f59fa567ff89b51c1df5788ea43ff6a48764417d8e9ae17aec6bbc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:23.370Z",
+      "quotes_found": 5,
+      "quotes_total": 6
+    },
+    "https://docs.material.security/reference/material-mcp-server": {
+      "hash": "c5db9bebdd5dd75290bec1d1213b9586ec184335234bfb63c4d20559dd1357de",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:24.371Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://docs.material.security/working-with-issues/explorer/file-search": {
+      "hash": "71b9f9b5266db1eb417ff44e86549d92157f3d4469f97b8da9a278e0503d53df",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:25.370Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/email-protections/email-threats/detections/material-email-threat-detections/calendar-invite-attacks": {
+      "hash": "23aaa8105ed67ea85af37550a558939aafe4afd4980872f79f31d61e783195a8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:26.370Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/getting-started/deployment-guides/your-first-30-days/1-connect-and-sync": {
+      "hash": "549bd4586ea950920ac65ea0c8bd91e7fedfcc9936761daab126c19b4345a6de",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:27.370Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/integrations/integration-fundamentals/identity-integrations": {
+      "hash": "f4407457925a8365ed27c07cd1398962cd98c3f72027ec9a10d89fc824243b91",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:28.370Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/integrations/integration-fundamentals/identity-integrations/okta-ssf": {
+      "hash": "e7231854be8217539b720106dc1c504de89d51daf2dcc334b46eafbac1013b85",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:29.370Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/integrations/integration-fundamentals/messaging-and-ticketing-integrations": {
+      "hash": "49477e3e316cb0930701cd7ff7f014b8c9e435ce4efbfe56c60ec57905f21bcc",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:30.371Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/integrations/integration-fundamentals/siem-integrations/crowdstrike-ng-siem": {
+      "hash": "e2e3019f1124fa1935c1d3d4cb63f93b4f36f92f3e29cad4c02942d4fb2dee81",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:31.373Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://material.security/products/deployment-and-security": {
+      "hash": "c6f5c979d813ed1e4452c3d5e55cb763c84e30917d3456c87ce5944c60477842",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:26.704Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/reference/api-v1": {
+      "hash": "af116f1c4243e957ea650800cbc110c2c8bdc5f65d38fe0af7df7647a94c4c64",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:32.373Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.material.security/administration/admin-roles/permissions-matrices": {
+      "hash": "40e11c91928fec88ca6d719a156e19ff761a76b1db565dbf5fdf2c6386ced020",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:33.373Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

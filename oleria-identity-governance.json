@@ -1,0 +1,110 @@
+{
+  "card": "oleria-identity-governance",
+  "updated_at": "2026-11-15T01:05:35.019Z",
+  "urls": {
+    "https://docs.oleria.com/developer-docs/api-reference/generate-token": {
+      "hash": "cc00d9f695830f6266586241c34441a2bde1d65b774ea3f3875b16d947e3fa11",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:12.122Z",
+      "quotes_found": 7,
+      "quotes_total": 7
+    },
+    "https://docs.oleria.com/developer-docs/api-reference/overview": {
+      "hash": "70db2f6305cf8a1ab752be26cf81d442d2effa9b47b5936d30980dc211ce9a3a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:13.122Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/aws-iam-and-s3": {
+      "hash": "74e9785bd727ccb77a97d14c363e8a6abf19368aff87ee3dd29fb7b132e7edf1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:14.123Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/microsoft-entra-id": {
+      "hash": "d6ade6cad969f652e2c3a78c9dad7179863ded8cc7395548faf85e64757f48f1",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:15.124Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/google-workspace": {
+      "hash": "8f5d721cd145486238b8ae15d70131ed6fdb8dc2dd11f1ece96d63b6b9f4adae",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:16.125Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/github": {
+      "hash": "b15058c169ac89f08ebaf63f9eca31f0f0250f5f718b2cfb69923aaeea3e3ac2",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:17.125Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/salesforce": {
+      "hash": "d41f644d98ce1beb0becedb4ad1aee2576c8ffd8e59b58583d0ae5f035111ce8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:18.125Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/gcp": {
+      "hash": "040f96b679b6c2b1de2c6c31b1be8885acf29e56ef6163e9254f5c9be23d02de",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:19.125Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/azure": {
+      "hash": "bb8961dcb204d4eeb8ee8837ac9936c0087876c6e8b2569fb49f688019ace0e9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:20.125Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/okta": {
+      "hash": "00346f7444723c60a798583dc1840caa6b048c5281320d8b66c0fc883666f63c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:21.126Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/integrations/slack": {
+      "hash": "64b8e534f69b057b1c58a85a473fecf2e823125f9307dd0a9af33b33dc76842f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:22.126Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.oleria.com/api-reference/accounts/disable": {
+      "hash": "b367ca33963f6a8e5cef2cc2f472ae8ebd96b5c36d847f75e91fa1e4b9eb49c8",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:23.126Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    }
+  }
+}

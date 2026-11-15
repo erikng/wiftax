@@ -1,0 +1,110 @@
+{
+  "card": "nudge-security",
+  "updated_at": "2026-11-15T01:05:34.493Z",
+  "urls": {
+    "https://help.nudgesecurity.com/en/articles/8890697-getting-started-with-the-nudge-security-api": {
+      "hash": "5f6ec903b6d7ed7f63c6d4249fc4e4d3bb854bdf7388bb47b8bd189ea6ee3e23",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:02.210Z",
+      "quotes_found": 6,
+      "quotes_total": 6
+    },
+    "https://nudgesecurity.readme.io/reference/post_api-1-0-apps-search.md": {
+      "hash": "7349fe59f5b519f6d688706cd08fb531f68d892af6d30336b58b4c3dadaa726f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:02.401Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.nudgesecurity.com/en/articles/7153593-configure-access-to-google-workspace": {
+      "hash": "217274eaab4e0ff6d5910d8626874d190b6839cbc397402c25ccb44b0b6e97a9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:03.210Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.nudgesecurity.com/en/articles/7135200-configure-access-to-microsoft-entra-id": {
+      "hash": "500068482183fb17a4522c0fcc9447dd66be966a14175e77f466525dad44a9a0",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:04.211Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.nudgesecurity.com/en/articles/8312724-configuring-nudge-integration-for-slack": {
+      "hash": "42eccc3829356c8b6d186acf748c8052c669c3d9d4a77bdebcc35cf8f2d3bf59",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:05.211Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.nudgesecurity.com/en/articles/10088118-configure-the-okta-connected-app": {
+      "hash": "2988dec07098f2b5a533cb8cdb458959198051baa0a6a972c3ecce52f4a88583",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:06.211Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://help.nudgesecurity.com/en/articles/7257318-configure-okta-sso-analysis-in-nudge-security": {
+      "hash": "2e1950367157fba46208b68d07a10d8fd623936d64dd0db70f28bf9d6ae3e4f9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:07.211Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.nudgesecurity.com/en/articles/14710380-connect-your-apps-and-configure-settings": {
+      "hash": "01ffbe047f0107b925a31e152b00915fddeeb968249749341967b8f927538c69",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:08.211Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.nudgesecurity.com/connected-app/github": {
+      "hash": "7ea7fa78c4ad3dd8471edd5aaab6fbd0768e3c864dd15936a1a7f2bcceca28fa",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:04.462Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.nudgesecurity.com/en/articles/15519903-configure-the-jira-integration": {
+      "hash": "4a323e2c513953d95fb0675a5b1d545d6427977f7121d0d00e31cf9e64c11337",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:09.212Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://nudgesecurity.readme.io/llms.txt": {
+      "hash": "e005c3cd61cf093dfcb7fe41e393b0f314624c8a07503ea24e59cbb47e7449fb",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:05.200Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://help.nudgesecurity.com/en/articles/15182243-manage-users-and-roles": {
+      "hash": "1f8c3c634b44ab74b1298ca9b663cacc7d4a79315bf6f1c5ab5f2233c9227658",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:10.213Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "card": "torq",
+  "updated_at": "2026-11-15T01:05:45.253Z",
+  "urls": {
+    "https://learn.torq.io/apidocs/authentication": {
+      "hash": "ecd3998666ef415f6241bd6df048ac83b96a9f4d70c9f165a79a8a78f6a7c536",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:24.090Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://learn.torq.io/apidocs/overview.md": {
+      "hash": "6f64c1a05e8d65b36f08219d01c3c36f3cff54bc13c430bcc08aef4527405d45",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:25.112Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9145827-create-a-torq-api-key-enable-programmatic-access.md": {
+      "hash": "4e251b7c0e3f09fc2c9f280c97e7c4bcdbea670d660269f612d056cb07282645",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:25.156Z",
+      "quotes_found": 1,
+      "quotes_total": 5
+    },
+    "https://kb.torq.io/en/articles/14498016-torq-api-key-rotation-full-replacement-vs-expiration-update.md": {
+      "hash": "8be55417900d697333a0e6ee94d4fb3dbffff885c31a44f06bf0ec810d40daa3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:26.156Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://kb.torq.io/en/articles/9138309-amazon-web-services-aws.md": {
+      "hash": "a674a2094a0ebeaf00467073fa131b64f686b44d332747ffd7978420c69b4dfd",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:27.157Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://kb.torq.io/en/articles/9024670-assume-different-roles-via-the-sts-assume-role-command-in-aws-cli-steps.md": {
+      "hash": "711616693b5fd955d484f09332ad1a30262c623d56f8c990fa7694198c8fe9aa",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:28.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/11079835-aws-sigv4-authorization-utilize-aws-calls-in-http-steps.md": {
+      "hash": "148c0e657aa77397cf2b6ea9ccdc3d816c5c56ec88cc45208e0b16c67421a032",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:29.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9297304-google-cloud-platform-gcp.md": {
+      "hash": "a6f10d1c897552b4d8822dba3da4f5809b4dfa6cd1beba9fe995e176a0ddc85b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:30.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9138424-azure.md": {
+      "hash": "8f1351a4b8f5afad30adf3a074ae3d92c6a2d616629cc7d5ddadedcf448f4a3b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:31.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/10287213-microsoft-365.md": {
+      "hash": "cc98e0902c841c3370483b7a2898374fc172e618b7643774bdc2720088f10753",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:32.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9138305-microsoft-365-delegated-access.md": {
+      "hash": "9b5c4796095510bf1fe4a68143554c392ae991f7c34a569d5e1f890f3f59a538",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:33.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9138337-slack-bot.md": {
+      "hash": "6fa67943d2456f08ae3e9ded299b8f1baa6caada577425fc6231d35d9df4e45c",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:34.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9138417-github.md": {
+      "hash": "6d709c715f796f07bf2c91b23a612178a31bc9ee54226611358ed35930c1d039",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:35.159Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9139783-okta.md": {
+      "hash": "031e56adcef13cb1e7c38ee7bdcb3ab0ffc645caac6e8e6d02ccb7ed0ca0d017",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:36.159Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://kb.torq.io/en/articles/9140088-hashicorp-vault-approle.md": {
+      "hash": "4ac9bdc9106a454a5b6d89c88c63ada8b98544df6d90e2e4d45b53c8ac481e19",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:37.158Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://learn.torq.io/apidocs/list-api-keys.md": {
+      "hash": "5d4294cae9ef5db5f02357d11463cda1554ea69164ba5a38880ff8fff2615062",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:31.098Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://kb.torq.io/en/articles/9145806-torq-roles-and-scopes-manage-access-and-permissions.md": {
+      "hash": "f948929631f7d33c39de473ae342406d22f2fdd786c47ac954d30877454b9f9a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:03:38.159Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

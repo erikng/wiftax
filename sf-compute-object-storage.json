@@ -1,0 +1,22 @@
+{
+  "card": "sf-compute-object-storage",
+  "updated_at": "2026-11-15T01:05:44.883Z",
+  "urls": {
+    "https://docs.sfcompute.com/preview/object-storage.md": {
+      "hash": "ccf51768257488fd2a65f17ce8bed20703b9e238d61c88957421e85f69d3d9d3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:01:30.854Z",
+      "quotes_found": 8,
+      "quotes_total": 11
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

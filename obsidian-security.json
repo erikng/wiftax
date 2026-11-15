@@ -1,0 +1,70 @@
+{
+  "card": "obsidian-security",
+  "updated_at": "2026-11-15T01:05:34.497Z",
+  "urls": {
+    "https://docs.datadoghq.com/integrations/obsidian-security/": {
+      "hash": "7b1fe12fdf0bc6f417c424c8914324d5d79fdc7d60fe54c60355f5babb6461de",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:05.566Z",
+      "quotes_found": 7,
+      "quotes_total": 7
+    },
+    "https://docs.axonius.com/docs/obsidian-security": {
+      "hash": "5c9c8bbdf100d02c7d00e46c575b42306ed7c4d850d853848385050814cf54e3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:05.811Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://raw.githubusercontent.com/Obsidian-Security-Labs/obsec-codex-plugin/main/README.md": {
+      "hash": "3cdea609610e690a1b76cf7b756dd4a48c0793f3ce378842dd3f3a12e8cd3a32",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:06.272Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/Obsidian-Security-Labs/obsec-codex-plugin/main/runtime/server.mjs": {
+      "hash": "bbdbf382287a132af0fffbf618ba89493757e9dbec212d7fdec506079ffa5a70",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:07.748Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Solutions/Obsidian%20Datasharing/Data%20Connectors/ObsidianDatasharing_CCP/ObsidianDatasharing_ConnectorDefinition.json": {
+      "hash": "79d545da17818bf6f6f7f566ce084246618d08cdf71687a351a8142886af24c0",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:08.749Z",
+      "quotes_found": 3,
+      "quotes_total": 3
+    },
+    "https://www.obsidiansecurity.com/obsidian-integrations-hub": {
+      "hash": "d025a3a4a5d23fb802ac6bc07f84326830b2a66a8d9d96b5690e22eebc0cd886",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:07.203Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://www.obsidiansecurity.com/blog/obsidian-expands-connector-coverage": {
+      "hash": "a00ea10d3dc665ab51945c5ee20559ba218075b9e1b18caeb92422649dcb108b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:59:08.203Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

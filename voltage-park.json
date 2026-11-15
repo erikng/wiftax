@@ -1,0 +1,54 @@
+{
+  "card": "voltage-park",
+  "updated_at": "2026-11-15T01:05:45.382Z",
+  "urls": {
+    "https://support.voltagepark.com/article/api": {
+      "hash": "72de96727bc954e40b490e8d45fdc8f7739d2d455e2d6e88c6d4015f1d884f55",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:39.406Z",
+      "quotes_found": 8,
+      "quotes_total": 8
+    },
+    "https://cloud-api.voltagepark.com/api/v1/openapi.json": {
+      "hash": "066d3cf77096bb328ffe69638d8dd4704069c68eb692893fa9692ce1c068be6f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:36.811Z",
+      "quotes_found": 4,
+      "quotes_total": 4
+    },
+    "https://support.voltagepark.com/article/deploy-storage": {
+      "hash": "6989e9c7666ed2424f315b50d89833928ccd617ec1b5c5b45569d56ebf26a03d",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:40.406Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.voltagepark.com/article/example-deploying-gpt-oss-on-voltage-park": {
+      "hash": "04eaeadbfaebd766d6e9e361da3fb6ee10103ea6488f9cb87e051c609bdc42c9",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:41.407Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.voltagepark.com/article/account": {
+      "hash": "892b594e79ae78dcd9719f94e694f9b2fa8d6245480acbd7096709680e54b662",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T01:04:42.406Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}

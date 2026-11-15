@@ -1,0 +1,134 @@
+{
+  "card": "lumos-identity-platform",
+  "updated_at": "2026-11-15T01:05:34.372Z",
+  "urls": {
+    "https://developers.lumos.com/docs/quick-start.md": {
+      "hash": "654e3083e1dfa557d18ac98778f128f5183eca09a8a46b24faec7032aedc6dfe",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:18.450Z",
+      "quotes_found": 0,
+      "quotes_total": 5
+    },
+    "https://developers.lumos.com/docs/cli-authentication.md": {
+      "hash": "2c75a81bf95bf85919aa7ccc2bc3e62f0c4db1e30b0deaca6307d53a32992c43",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:19.450Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developers.lumos.com/docs/mcp-authsecurity-for-iam.md": {
+      "hash": "58cd99cddf959e351e28caf95fce97b973c1443377adc06cf640ef6382b7857b",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:20.450Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developers.lumos.com/docs/managing-integrations-via-terraform.md": {
+      "hash": "36e16bd1c375ec97263d53ee0c6bf0be98b8d126ee809ca5bb6b300b6f44939f",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:21.451Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://developers.lumos.com/docs/quick-start-guide.md": {
+      "hash": "a62eadf4954c0b5d05e4d5d1615d3e12ee8dad31bb8e373e2c9fdc0550a3579e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:22.452Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://support.lumos.com/articles/5045479970-connecting-aws-nhi": {
+      "hash": "97690713dcc2ed9b61a7b7dbbb3eeb62cbfe07c547c6d6e416dd5955c384c066",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:20.149Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.lumos.com/articles/2659423923-connecting-aws-iam-single-account": {
+      "hash": "09901ec086bc4085529077a06799d14efc31d2e1426c2fcfa333e4991b1730c3",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:21.149Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.lumos.com/articles/2270985801-connecting-lumos-to-google-cloud-platform-gcp": {
+      "hash": "1d3830183aa3f9031bdc871e2df68f9c187ff9cfd707836d6f987eb696e1f3b5",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:22.150Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.lumos.com/articles/1877502581-connecting-google-workspace": {
+      "hash": "85794fa96fd5ea23dd01e9a31fab921bef98f8df627af10112b94ed446cb6158",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:23.151Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.lumos.com/articles/8716465475-connecting-office365": {
+      "hash": "bc894d8da8394c67fd5fc2741545dbb6d1d7bb0568ccf7620cc7425f5137b582",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:24.150Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.lumos.com/articles/9692042005-connecting-github": {
+      "hash": "3ee76dae49ffc6ab77751104132d21c966f76e601bba59ca8ec10fef252a770a",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:25.152Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.lumos.com/articles/4590658080-connecting-okta": {
+      "hash": "22815984492a9c96a3e70b76c1df43885a93ad5ba91083c92c09db9bef541207",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:26.153Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://support.lumos.com/articles/4484298688-okta-integration-requirements": {
+      "hash": "150f7e4938db98d2a7d798485a0a92c5dbe77418c53c3d555fd073998fe7e094",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:27.154Z",
+      "quotes_found": 2,
+      "quotes_total": 2
+    },
+    "https://support.lumos.com/articles/4808482208-aws-iam-identity-center": {
+      "hash": "c71d4d4cc0af246e0ef8e9fda569e476fe22ad1fcd2530af1626e68fb4090c53",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:28.154Z",
+      "quotes_found": 1,
+      "quotes_total": 1
+    },
+    "https://developers.lumos.com/docs/managing-integrations-via-api.md": {
+      "hash": "09ac6c677b881ca62f69e3cd729fc17b34fa93fab6d5d523abbe5fb295fa2199",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:58:23.453Z",
+      "quotes_found": 0,
+      "quotes_total": 1
+    },
+    "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
+      "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
+      "status": 200,
+      "ok": true,
+      "checked_at": "2026-11-15T00:52:09.361Z",
+      "quotes_found": 0,
+      "quotes_total": 0
+    }
+  }
+}
