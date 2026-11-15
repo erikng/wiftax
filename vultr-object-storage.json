@@ -1,12 +1,12 @@
 {
   "card": "vultr-object-storage",
-  "updated_at": "2026-11-15T01:05:45.393Z",
+  "updated_at": "2026-11-15T01:52:37.762Z",
   "urls": {
     "https://docs.vultr.com/products/storage/object-storage/management/manage-credentials.md": {
       "hash": "b3246651ea9c4acb40e38557785514b4ba3a8ec32f73625496c9a812fd7b6e6b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:55.073Z",
+      "checked_at": "2026-11-15T01:51:48.046Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -14,7 +14,7 @@
       "hash": "62b706302ae805400966b31b4a1ccf1aef896cde544d47b366092a1eed2572b1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:56.074Z",
+      "checked_at": "2026-11-15T01:51:49.047Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -23,8 +23,8 @@
       "status": 403,
       "ok": false,
       "failure": "blocked",
-      "fail_streak": 1,
-      "checked_at": "2026-11-15T01:04:39.967Z",
+      "fail_streak": 2,
+      "checked_at": "2026-11-15T01:51:32.924Z",
       "quotes_found": 0,
       "quotes_total": 4
     },
@@ -32,7 +32,7 @@
       "hash": "484bd3ee071c8bdb2c6b462aa6047cb6020c019388d915026a1b27965997d69f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:57.075Z",
+      "checked_at": "2026-11-15T01:51:50.047Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -40,7 +40,7 @@
       "hash": "2aa2417d79ff9a1aadb1ba86bdca1f7c3020f021c43581a5ff6947a9b91a68f5",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:58.077Z",
+      "checked_at": "2026-11-15T01:51:51.048Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -48,7 +48,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

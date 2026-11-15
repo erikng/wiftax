@@ -1,12 +1,12 @@
 {
   "card": "twilio-api",
-  "updated_at": "2026-11-15T01:05:45.269Z",
+  "updated_at": "2026-11-15T01:52:37.645Z",
   "urls": {
     "https://www.twilio.com/en-us/changelog/oauth-public-beta": {
       "hash": "ad3bf03233a88813168c614b0aa96b6ae50b42a796022b9e0d2401ab60b15780",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:03:58.384Z",
+      "checked_at": "2026-11-15T01:50:52.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -14,7 +14,7 @@
       "hash": "c34e752dd68c8e26fea3610f9310717bc5d2235a4865550fcc1ea6c3b496abe1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:03:59.384Z",
+      "checked_at": "2026-11-15T01:50:53.176Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -22,7 +22,7 @@
       "hash": "cfe3be4e9337d6d325b799824c781d54da76c14892ef73da50dc62c177424aec",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:00.384Z",
+      "checked_at": "2026-11-15T01:50:54.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "1e160ebc1d99aaf41952438030158b26089c8ada254747cd97beae7bed0d49e3",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:01.384Z",
+      "checked_at": "2026-11-15T01:50:55.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "1db8ee8c41255df48aa462c4d4c60a11889dee65f61c6b0b1d58cf426c9e51f4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:02.383Z",
+      "checked_at": "2026-11-15T01:50:56.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "645a2ff0b362c5a1abcf2485f5c4b814f877075040ee6faa6c981be437966e0f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:03.384Z",
+      "checked_at": "2026-11-15T01:50:57.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "58c77e04f2041027ecee964ef41d1f7d63f8c5d4f268b34ed1d38ee4ca651596",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:04.383Z",
+      "checked_at": "2026-11-15T01:50:58.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "f72cbd4dde281cd8c7b148ac98d3e5377b74c154540b641ff8a51539564e8636",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:05.384Z",
+      "checked_at": "2026-11-15T01:50:59.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "4a69871f1f7091e5e86b16a45729f4ac2adfaa93b1d425ad9411c4352ee8290d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:06.384Z",
+      "checked_at": "2026-11-15T01:51:00.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "d37be3cd2e94489c35c09fe7447db802e8e6ed6fd3346e5c75821676db45f7a7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:07.384Z",
+      "checked_at": "2026-11-15T01:51:01.176Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 1,
       "quotes_total": 1
     }

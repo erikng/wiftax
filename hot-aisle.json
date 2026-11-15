@@ -1,12 +1,12 @@
 {
   "card": "hot-aisle",
-  "updated_at": "2026-11-15T01:05:32.855Z",
+  "updated_at": "2026-11-15T01:52:25.076Z",
   "urls": {
     "https://admin.hotaisle.app/api/docs/swagger.json": {
       "hash": "2fdbc8bbeb0160808e1db9b4fb36604a0b43af34c2de95d36b14588d70fa982a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:39.598Z",
+      "checked_at": "2026-11-15T01:44:34.691Z",
       "quotes_found": 9,
       "quotes_total": 9
     },
@@ -14,7 +14,7 @@
       "hash": "29420e9aafb28ed02ca1c2f273f3fcbe659bdb285737741f159074cafc69c2a9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:39.810Z",
+      "checked_at": "2026-11-15T01:44:34.890Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "fc2518bd46093787bb728b4b9923da633b79a03df467081063d2b6179222ed1c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:40.380Z",
+      "checked_at": "2026-11-15T01:44:35.744Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "3756c86c8120731411af5c256784d0277d3c0db7b06879dec074035bd2b46eef",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:40.487Z",
+      "checked_at": "2026-11-15T01:44:35.817Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -38,7 +38,7 @@
       "hash": "8ac37314080a57fdfa533cfcbe009bb871c7995a0fab3630e755c40ee4fdf6cd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:40.596Z",
+      "checked_at": "2026-11-15T01:44:35.871Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "b0feb9273a773b0e80ebd2212d2fe47aac8545a388ea4975b26e8ddc3c927abb",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:41.488Z",
+      "checked_at": "2026-11-15T01:44:36.816Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "f13114d1d0f8357f097bf42b34f2bcd2d162486317a81ff5f358e79bb3271aea",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:41.381Z",
+      "checked_at": "2026-11-15T01:44:36.745Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

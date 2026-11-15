@@ -1,12 +1,12 @@
 {
   "card": "push-security",
-  "updated_at": "2026-11-15T01:05:35.172Z",
+  "updated_at": "2026-11-15T01:52:27.380Z",
   "urls": {
     "https://pushsecurity.com/help/audience/engineering/rest-v1/": {
       "hash": "c2c3b39289f5374c2d39580f15d96cacb82c8ddc834e3468b8a4ef579389cce2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:27.651Z",
+      "checked_at": "2026-11-15T01:47:22.735Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -14,7 +14,7 @@
       "hash": "54d8c8e2db70c2a9e65fc671fdc2e2eb47d441653b4a9f7444f636fe27b211d1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:28.651Z",
+      "checked_at": "2026-11-15T01:47:23.847Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "148166278a1c788bb929f7db7e0a08c5ce6cf609045b71f284abea2b018eff72",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:29.651Z",
+      "checked_at": "2026-11-15T01:47:24.847Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "6684eb9c531921c989e0b1970e318ec0a8f58e49111fbe8dac1885b746b68863",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:30.652Z",
+      "checked_at": "2026-11-15T01:47:25.848Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -38,7 +38,7 @@
       "hash": "8026dc9f65cf716d44a9ca103a96fe371c9dcabe5950bc78b677cc05bd4607e5",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:31.652Z",
+      "checked_at": "2026-11-15T01:47:26.847Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "c99b43e330d7dec348e0093cd72c8aafca0023eb2748497c171108d45d486fc4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:32.651Z",
+      "checked_at": "2026-11-15T01:47:27.848Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "41bbf4a4df74e61a65f0e7adb991829c98a18dfff21e1ec0d44cdfc0b99536e1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:33.652Z",
+      "checked_at": "2026-11-15T01:47:28.848Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "ae713d8bb598e3d777cbc51d0b72ec3fdff1e1e6927476db705cfc9a6dbc76a4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:34.653Z",
+      "checked_at": "2026-11-15T01:47:29.848Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "7f08eee3670bb40e4254b3beed1ca0ccf1513c47326b91fb62da9e71bd0eb54a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:00:35.653Z",
+      "checked_at": "2026-11-15T01:47:30.848Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,9 +78,15 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 0,
       "quotes_total": 0
     }
+  },
+  "last_assessment": {
+    "fingerprint": "6ad6a18103b4d71217f82c3c2610c8a9b1b2d4484dbd4a0d113efaa8420eecce",
+    "outcome": "refresh",
+    "at": "2026-11-15T01:38:56.346Z",
+    "url": "https://github.com/wiftax/wiftax/pull/58"
   }
 }

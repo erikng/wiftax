@@ -1,12 +1,12 @@
 {
   "card": "nightfall-dlp",
-  "updated_at": "2026-11-15T01:05:34.424Z",
+  "updated_at": "2026-11-15T01:52:26.604Z",
   "urls": {
     "https://help.nightfall.ai/developer-api/introduction/authentication_security": {
       "hash": "ee6ea0306d9ac6c406305169bf3a92aa433c73aa7cdaac0538c0ce9f54fb568d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:58:54.177Z",
+      "checked_at": "2026-11-15T01:45:49.601Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -14,7 +14,7 @@
       "hash": "e7ef3aeba4f5502826ea429bf3ee1da98f161c34b4ea33071100e1af475798bd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:58:55.178Z",
+      "checked_at": "2026-11-15T01:45:50.602Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -22,7 +22,7 @@
       "hash": "4f5dd3e90da3e546bf9277b52915b925c63299c365454536e088dc0daa7c354b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:58:56.178Z",
+      "checked_at": "2026-11-15T01:45:51.603Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "155fa1a059738f832c3c446b63b193eb3eb652ec4a2e6320d4eebb4f332560aa",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:58:57.179Z",
+      "checked_at": "2026-11-15T01:45:52.604Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -38,7 +38,7 @@
       "hash": "ecfe0e639bc11e485195d93bb29b6e8fda05600e4c9d52f8c8082e0684d01d7d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:58:58.179Z",
+      "checked_at": "2026-11-15T01:45:53.604Z",
       "quotes_found": 3,
       "quotes_total": 4
     },
@@ -46,7 +46,7 @@
       "hash": "4218157be56afdf7ae55cc0ba5906ed6c651885e88172fd6e167315a65186fbd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:58:59.180Z",
+      "checked_at": "2026-11-15T01:45:54.605Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "ff1c0155c3dee130c88c33861e0c854522e9d283db12f3ccf31658661a3d1361",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:59:00.181Z",
+      "checked_at": "2026-11-15T01:45:55.605Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,9 +62,15 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 0,
       "quotes_total": 0
     }
+  },
+  "last_assessment": {
+    "fingerprint": "0615c0c2f635e6068bb0d6b7985fefd75e791e3e37a28724c5d6e009579834da",
+    "outcome": "refresh",
+    "at": "2026-11-15T01:38:56.346Z",
+    "url": "https://github.com/wiftax/wiftax/pull/58"
   }
 }

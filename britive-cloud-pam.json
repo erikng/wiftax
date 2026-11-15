@@ -1,12 +1,12 @@
 {
   "card": "britive-cloud-pam",
-  "updated_at": "2026-11-15T01:05:29.308Z",
+  "updated_at": "2026-11-15T01:52:21.543Z",
   "urls": {
     "https://docs.britive.com/docs/service-identities": {
       "hash": "99c41586565bb389813a2c420c63d65df466160ba0da0209e0adb93277bc5c1e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:26.767Z",
+      "checked_at": "2026-11-15T01:40:23.380Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -14,7 +14,7 @@
       "hash": "508e969b75a7ee8f36c3befe38df363ff876cbdf68acbff8112488a5ab0ff5f1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:27.769Z",
+      "checked_at": "2026-11-15T01:40:24.380Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -22,7 +22,7 @@
       "hash": "6fa6513b089d7755caf1e950b4de51583ce696c984032d0e9d6d56ea627492ba",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:28.865Z",
+      "checked_at": "2026-11-15T01:40:25.381Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "4be034fb2d43305ce2ac2195380773ffe9ed3512571fa373f80a31f11f1fee9b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:29.865Z",
+      "checked_at": "2026-11-15T01:40:26.381Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "bafb4009691ae777af1a902aaabeb978411e864de29981cf952d4581dc1d87fc",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:31.304Z",
+      "checked_at": "2026-11-15T01:40:27.381Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "073af3e57d9b178c81ca240cd6fe029264f1a6efca02dff65978671871299461",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:32.305Z",
+      "checked_at": "2026-11-15T01:40:28.381Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "630cd28947f0588b8a92cdb13c54c2ad769f25a4e65d23a769488f10e9412186",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:33.305Z",
+      "checked_at": "2026-11-15T01:40:29.381Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "6ad92bec97c34264c679a7c8982839897629365c1c3951ec06fc4b75adf601a0",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:34.305Z",
+      "checked_at": "2026-11-15T01:40:30.534Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "f40299ac7e588917378d0d66aecbf975a5ce40d98cd487febd2a35894c861872",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:35.306Z",
+      "checked_at": "2026-11-15T01:40:31.535Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "61941b935f696714ed4f92d6bf0feab00e9ddb620a81cbcb37d2c30503cb9676",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:36.307Z",
+      "checked_at": "2026-11-15T01:40:32.536Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "759eb08dab48f4569e5f45d66d67cf5bce36e10958b23528950d5b78ac3b9fd8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:37.308Z",
+      "checked_at": "2026-11-15T01:40:33.537Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "6f714cc9e734afd3f824f148a3548d26b9dc0492695bc40fa88b1cb9a9cd9626",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:38.308Z",
+      "checked_at": "2026-11-15T01:40:34.537Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,7 +102,7 @@
       "hash": "0156d553cf9b210551f32d7f8689ad831c05988cebf65010e595aefb665ac174",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:39.308Z",
+      "checked_at": "2026-11-15T01:40:35.538Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -110,7 +110,7 @@
       "hash": "1a7945060a79a6c3db6b0bb3c0c27f29caf171f79bcc64f2297796ec08b545ab",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:40.308Z",
+      "checked_at": "2026-11-15T01:40:36.539Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -118,7 +118,7 @@
       "hash": "7ee19219fc52423bc0192a9dd13f9506d6c45a2bd3cc486e258b3f8145be1bcf",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:41.308Z",
+      "checked_at": "2026-11-15T01:40:37.539Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -126,7 +126,7 @@
       "hash": "8c2b833eb1e978adaef0151a59ffbcdee0bcb2a10d978d82da13ff6a1ad036af",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:42.309Z",
+      "checked_at": "2026-11-15T01:40:38.540Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -134,7 +134,7 @@
       "hash": "668310d81de3c397f4dab5a92f6206fb03a081735cf945d2b0b10913e92805b3",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:43.309Z",
+      "checked_at": "2026-11-15T01:40:39.540Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -142,7 +142,7 @@
       "hash": "943e882acc02fc9aa7c8a2425d687c52bcc7ec566d90720be8a063857dff91dd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:44.310Z",
+      "checked_at": "2026-11-15T01:40:40.540Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -150,7 +150,7 @@
       "hash": "a44bf4d375ddf9baf4b298f54599fa8a6c88d6d53da63102a9ccc63c33a422d6",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:45.311Z",
+      "checked_at": "2026-11-15T01:40:41.541Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -158,7 +158,7 @@
       "hash": "4b08110f4483265576568063459c97dc0c8237f638d3fe194a7e3316f1d31be0",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:46.311Z",
+      "checked_at": "2026-11-15T01:40:42.541Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -166,7 +166,7 @@
       "hash": "eb9b9685d275ab641938b0909ebef2c6d54801edd7904de3c26ba8158bd6e118",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:47.312Z",
+      "checked_at": "2026-11-15T01:40:43.542Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -174,7 +174,7 @@
       "hash": "fdcb05e8285c688117a0331f94ac03946eb96cfea34352855ad570728dfc70b5",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:53:48.313Z",
+      "checked_at": "2026-11-15T01:40:44.542Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -182,9 +182,15 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 0,
       "quotes_total": 0
     }
+  },
+  "last_assessment": {
+    "fingerprint": "13f0f2dd4a3522ba357cae149a651ab41caedd776c51cbf0a3a87ea21a89d81c",
+    "outcome": "refresh",
+    "at": "2026-11-15T01:38:56.346Z",
+    "url": "https://github.com/wiftax/wiftax/pull/58"
   }
 }

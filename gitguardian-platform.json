@@ -1,12 +1,12 @@
 {
   "card": "gitguardian-platform",
-  "updated_at": "2026-11-15T01:05:32.084Z",
+  "updated_at": "2026-11-15T01:52:24.285Z",
   "urls": {
     "https://docs.gitguardian.com/api-docs/authentication": {
       "hash": "42a44b28dc684b41fcaf53a5e61101d7ee5cd1ddd8cacedff7bed3d11f0738be",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:18.053Z",
+      "checked_at": "2026-11-15T01:44:13.243Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -14,7 +14,7 @@
       "hash": "6022dfbb6db33da1df73a610003ea2dd538528fd63d7b6001af20504f22bb6da",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:19.053Z",
+      "checked_at": "2026-11-15T01:44:14.242Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "4c420e9dbc398fada2025bc07952bd7820646dd2d973e9ec07eb2c105cb97c98",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:20.053Z",
+      "checked_at": "2026-11-15T01:44:15.243Z",
       "quotes_found": 3,
       "quotes_total": 4
     },
@@ -30,7 +30,7 @@
       "hash": "58aa623b45b5f8e727bccddbe1cb769111bc4c691e73c37aaf1b722f3c377f2d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:18.797Z",
+      "checked_at": "2026-11-15T01:44:13.903Z",
       "quotes_found": 3,
       "quotes_total": 4
     },
@@ -38,7 +38,7 @@
       "hash": "dcf123221e3e6c07da7c39a45a2338b2e9eac71e5e6d228ed52292d660be233b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:21.102Z",
+      "checked_at": "2026-11-15T01:44:16.243Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "aad5616f9726179e44fbfe4ed061bb97d147367c630043c66956a7937cfe5682",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:22.102Z",
+      "checked_at": "2026-11-15T01:44:17.243Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "243346484c22bc0eea4a0d300f2b6b66fcd4e26923cf1920fc45b2444d2259b9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:23.102Z",
+      "checked_at": "2026-11-15T01:44:18.244Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "4f81414e9997309a8bf746c64bcb527df698dd7386e471687c2e4497d22dc848",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:24.102Z",
+      "checked_at": "2026-11-15T01:44:19.244Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "2d00a00d5b2991af50685ed316ff9d554049d9a3db33753b6bc7c7593581a670",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:25.103Z",
+      "checked_at": "2026-11-15T01:44:20.244Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "faf7bcbdce3ac4bfd3b6bb3e46172688443bab60500b996e3e3e64681a58f2eb",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:26.104Z",
+      "checked_at": "2026-11-15T01:44:21.245Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "3f4372044781914e46079ea9fa36f363bf99cb2d7312e246f9fdeef44c7514bf",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:27.105Z",
+      "checked_at": "2026-11-15T01:44:22.246Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "449821cec4b4a5372c75e073ecbd71ecc4a245ce463f97ad23a9a9baf16b9fe8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:28.106Z",
+      "checked_at": "2026-11-15T01:44:23.247Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,7 +102,7 @@
       "hash": "f440973783a452b856ae6b7e515c02e646fa1136993ed54fe9610f246e7ae3fb",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:29.105Z",
+      "checked_at": "2026-11-15T01:44:24.246Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -110,7 +110,7 @@
       "hash": "e6eebde9c006614ffb616a65988d4000a64cdba1db4f2eee9f0046ae8eeba2f4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:30.106Z",
+      "checked_at": "2026-11-15T01:44:25.247Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -118,7 +118,7 @@
       "hash": "e3ca504c4aada9eccf2e8a66363a9d0b14ff61c401249b28157cfad038d3c39c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:31.107Z",
+      "checked_at": "2026-11-15T01:44:26.246Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -126,7 +126,7 @@
       "hash": "ea35e8571d8cb706fa484e19d4be5452be44afbaea76d754233a76c3c86aa522",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:32.106Z",
+      "checked_at": "2026-11-15T01:44:27.247Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -134,7 +134,7 @@
       "hash": "3be3a7d75c669373d6669fb80d1a19f77da4d41348709449f095d23558488030",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:33.107Z",
+      "checked_at": "2026-11-15T01:44:28.247Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -142,7 +142,7 @@
       "hash": "cd310632df0c1ddda6d899adf48d906c1e63aa59c2f05e576cc260ad43a20810",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:34.107Z",
+      "checked_at": "2026-11-15T01:44:29.247Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -150,9 +150,15 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 1,
       "quotes_total": 1
     }
+  },
+  "last_assessment": {
+    "fingerprint": "eb761ea32c238b2efada09dfa1a6dc03d40d6eba3857baa105a396df694c6348",
+    "outcome": "refresh",
+    "at": "2026-11-15T01:38:56.346Z",
+    "url": "https://github.com/wiftax/wiftax/pull/58"
   }
 }

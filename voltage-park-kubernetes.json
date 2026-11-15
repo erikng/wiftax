@@ -1,20 +1,20 @@
 {
   "card": "voltage-park-kubernetes",
-  "updated_at": "2026-11-15T01:05:45.370Z",
+  "updated_at": "2026-11-15T01:52:37.739Z",
   "urls": {
     "https://support.voltagepark.com/article/add-on-managed-kubernetes": {
       "hash": "e049223b247d62b17a9f4cd40d078539ab5b980166b41ad7f00a4d267ef362ef",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:36.087Z",
+      "checked_at": "2026-11-15T01:51:28.902Z",
       "quotes_found": 9,
       "quotes_total": 9
     },
     "https://cloud-api.voltagepark.com/api/v1/openapi.json": {
-      "hash": "066d3cf77096bb328ffe69638d8dd4704069c68eb692893fa9692ce1c068be6f",
+      "hash": "fe6169a4a1d18ca65c7fd3a1dc77da69be3c2c56102fc83fbf4a6d147320ea95",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:36.811Z",
+      "checked_at": "2026-11-15T01:51:29.957Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -22,7 +22,7 @@
       "hash": "79ac8645e2be0a1ddd2423f0aa546d4eb0f4ac91f5fec828ac347e5fa3ac16d7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:37.081Z",
+      "checked_at": "2026-11-15T01:51:30.039Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "42e2e75c1c80afb4cad6883fdb6319ed0a7a3deec45ce29bada690d6213ffe1e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:37.405Z",
+      "checked_at": "2026-11-15T01:51:30.507Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "3bd4a568aab2e9fc42d5bc2951800c1f6bec997c12c821b2b32739d5cd0a777f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:04:38.406Z",
+      "checked_at": "2026-11-15T01:51:31.507Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

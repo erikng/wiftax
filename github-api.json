@@ -1,12 +1,12 @@
 {
   "card": "github-api",
-  "updated_at": "2026-11-15T01:05:32.786Z",
+  "updated_at": "2026-11-15T01:52:25.008Z",
   "urls": {
     "https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/generating-an-installation-access-token-for-a-github-app": {
       "hash": "8c55cc4ba5a3cec3f75038fbfbd2ae8368b4e605287b579a4f243056405c96b4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:27.228Z",
+      "checked_at": "2026-11-15T01:44:22.427Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -14,7 +14,7 @@
       "hash": "d02f90a81ba1092d246ba406d3897ee3d40e6f8f8a64c36f2d5bd5d0084fa163",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:28.228Z",
+      "checked_at": "2026-11-15T01:44:23.429Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "0bd403be512247c8e68f3f0deaeae2cbc24f24a5484e2d96da4094aa4aca2a0d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:29.228Z",
+      "checked_at": "2026-11-15T01:44:24.429Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -30,7 +30,7 @@
       "hash": "c63eca61c4edcb8033a7208ce9a21bd5bf523dab9eded6cce8d2285b41903fed",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:30.229Z",
+      "checked_at": "2026-11-15T01:44:25.429Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -38,7 +38,7 @@
       "hash": "2d41fea220541ec2705f8a32d9d563327ccda5dd66bcbc35473f1c8657676585",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:31.229Z",
+      "checked_at": "2026-11-15T01:44:26.430Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "b0ebc03524f83355eecfec9adc4aa800bd770953740ae95a406354d52f746749",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:32.229Z",
+      "checked_at": "2026-11-15T01:44:27.431Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -54,7 +54,7 @@
       "hash": "f511c74f1f66c0009d9002d7ad2095bfdb8638dc085a81092526661ead76690b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:33.228Z",
+      "checked_at": "2026-11-15T01:44:28.432Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "da4baeb8a3d96fcda59263ef3d0ce81257319ec82c6d326d4a37d558f234512a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:57:34.228Z",
+      "checked_at": "2026-11-15T01:44:29.434Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 1,
       "quotes_total": 1
     }

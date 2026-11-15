@@ -1,12 +1,12 @@
 {
   "card": "sola-security",
-  "updated_at": "2026-11-15T01:05:44.981Z",
+  "updated_at": "2026-11-15T01:52:37.346Z",
   "urls": {
     "https://docs.sola.security/getting-started/sola-ai/sola-mcp.md": {
       "hash": "bf16ffba63198290fa20dae80b918dbd74f8a29dd17cc079904554f2f8f77dd4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:09.734Z",
+      "checked_at": "2026-11-15T01:49:03.070Z",
       "quotes_found": 5,
       "quotes_total": 6
     },
@@ -14,7 +14,7 @@
       "hash": "f0375b47d69efdc8ab864fb7d188ffb836930d5e348d1c41672637072d9d636a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:09.998Z",
+      "checked_at": "2026-11-15T01:49:03.378Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "c78d344fb1a4e454129338f25f8a604cabf59d74dc834ac51e284b731b523c61",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:10.733Z",
+      "checked_at": "2026-11-15T01:49:04.070Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "38ee68632042576f52c0e764d6cb5adc4743b0d8630ed31f118c7add1549f55c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:11.734Z",
+      "checked_at": "2026-11-15T01:49:05.070Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -38,7 +38,7 @@
       "hash": "e9a65e15e0fb574162428b2951dc9b8002b39c128555fd1fbe5e97b468fb6bf4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:12.734Z",
+      "checked_at": "2026-11-15T01:49:06.070Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "7ca557f6b023c6c399ef24f73c577f716ca34781645e6a6f420f336fca8658a0",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:13.734Z",
+      "checked_at": "2026-11-15T01:49:07.071Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "ba02b47a36d1faf827d0c94dbe2cf74dc795fb67a820d3ab068c5e5d2c7f9925",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:14.734Z",
+      "checked_at": "2026-11-15T01:49:08.071Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "f6c8744f392386e71bda1db97e673a23c63485b24e22a56bbb57f5cd54e57ebc",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:15.734Z",
+      "checked_at": "2026-11-15T01:49:09.071Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "2dbe5a6ec7d40608a179b2254f562b654de3c5c98b042949a2f5f227b843a2e9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:16.734Z",
+      "checked_at": "2026-11-15T01:49:10.071Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "67ba65616a13de38d6264ee3969c7811e63cd1329828a055210346d3eeae2b21",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:17.735Z",
+      "checked_at": "2026-11-15T01:49:11.072Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "78dffb5c5a4732b8f9c72467c80a10c6a1e6330075c5fddb38607db15b728383",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:18.735Z",
+      "checked_at": "2026-11-15T01:49:12.072Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "43c8f9d85b34d07ac49ba8f994a5388010ddc3adec55b5ba72a2c6bac9a93601",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:19.736Z",
+      "checked_at": "2026-11-15T01:49:13.072Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,7 +102,7 @@
       "hash": "c1c786580e9b287f43d88caaafc7007e3317a98e55f50501cdc0dc0e24717889",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:02:20.736Z",
+      "checked_at": "2026-11-15T01:49:14.074Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -110,9 +110,15 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 1,
       "quotes_total": 1
     }
+  },
+  "last_assessment": {
+    "fingerprint": "3867cd6c80987a16cbf8ade4c54dff9be5bd1c7d695abbb1f3c2c080bbe02c42",
+    "outcome": "refresh",
+    "at": "2026-11-15T01:38:56.346Z",
+    "url": "https://github.com/wiftax/wiftax/pull/58"
   }
 }

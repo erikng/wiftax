@@ -1,12 +1,12 @@
 {
   "card": "zenity-ai-agent-security",
-  "updated_at": "2026-11-15T01:05:45.404Z",
+  "updated_at": "2026-11-15T01:52:37.774Z",
   "urls": {
     "https://raw.githubusercontent.com/zenitysec/boundaries-as-code-template/HEAD/README.md": {
       "hash": "e83c1050fe47c5ee7ee2cb812b2f194f06a6bea3be625156a57fa3666e8d7776",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:08.909Z",
+      "checked_at": "2026-11-15T01:52:01.828Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -14,7 +14,7 @@
       "hash": "f9a153c669bea2429e05866075b480e1c6e56f09af8b3ab7055532ff2010c724",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:09.978Z",
+      "checked_at": "2026-11-15T01:52:02.829Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "efcc00cba8ff11cd3f124faba59aa7bdd42ab3cad5c0ca7bcb7d33107f76c30a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:02.813Z",
+      "checked_at": "2026-11-15T01:51:55.878Z",
       "quotes_found": 0,
       "quotes_total": 4
     },
@@ -30,7 +30,7 @@
       "hash": "d78c3d4045249af08b233778666d65a83bdcea5d1e696d76e6f55d875f28701f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:03.746Z",
+      "checked_at": "2026-11-15T01:51:56.343Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "337f92d47221b0d2a774b5b3096dc7e18eca0cda9269b23f2504fdaa7e1834ad",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:04.746Z",
+      "checked_at": "2026-11-15T01:51:57.344Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "29ebc8f1bd80af82bd4537754a122f39bd63c830dfefcf122b926fdc520af286",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:05.748Z",
+      "checked_at": "2026-11-15T01:51:58.344Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "29ebc8f1bd80af82bd4537754a122f39bd63c830dfefcf122b926fdc520af286",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:06.748Z",
+      "checked_at": "2026-11-15T01:51:59.345Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "68936d5db8e70dd553e80ca59a46b42a8a81ba2e9c8c1e5b12fa272f328b9531",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:05:07.749Z",
+      "checked_at": "2026-11-15T01:52:00.345Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,9 +70,15 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T00:52:09.361Z",
+      "checked_at": "2026-11-15T01:39:05.495Z",
       "quotes_found": 0,
       "quotes_total": 0
     }
+  },
+  "last_assessment": {
+    "fingerprint": "f3a5af868cf7ae5a25d95aa82ac6ab4b1b2fdb6871dd25c8201a3f4ecd9eb422",
+    "outcome": "refresh",
+    "at": "2026-11-15T01:38:56.346Z",
+    "url": "https://github.com/wiftax/wiftax/pull/58"
   }
 }
