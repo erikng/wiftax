@@ -1,12 +1,12 @@
 {
   "card": "oleria-identity-governance",
-  "updated_at": "2026-11-15T01:52:27.232Z",
+  "updated_at": "2026-11-16T19:17:10.073Z",
   "urls": {
     "https://docs.oleria.com/developer-docs/api-reference/generate-token": {
       "hash": "cc00d9f695830f6266586241c34441a2bde1d65b774ea3f3875b16d947e3fa11",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:07.473Z",
+      "checked_at": "2026-11-16T19:11:01.158Z",
       "quotes_found": 7,
       "quotes_total": 7
     },
@@ -14,15 +14,15 @@
       "hash": "70db2f6305cf8a1ab752be26cf81d442d2effa9b47b5936d30980dc211ce9a3a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:08.473Z",
+      "checked_at": "2026-11-16T19:11:02.157Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.oleria.com/integrations/aws-iam-and-s3": {
-      "hash": "74e9785bd727ccb77a97d14c363e8a6abf19368aff87ee3dd29fb7b132e7edf1",
+      "hash": "269e30a8d02433890cb570ce16da83647106c14dc0bb67361c0141edf64956c5",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:09.474Z",
+      "checked_at": "2026-11-16T19:11:03.158Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "d6ade6cad969f652e2c3a78c9dad7179863ded8cc7395548faf85e64757f48f1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:10.474Z",
+      "checked_at": "2026-11-16T19:11:04.158Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "8f5d721cd145486238b8ae15d70131ed6fdb8dc2dd11f1ece96d63b6b9f4adae",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:11.475Z",
+      "checked_at": "2026-11-16T19:11:05.158Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "b15058c169ac89f08ebaf63f9eca31f0f0250f5f718b2cfb69923aaeea3e3ac2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:12.476Z",
+      "checked_at": "2026-11-16T19:11:06.159Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "d41f644d98ce1beb0becedb4ad1aee2576c8ffd8e59b58583d0ae5f035111ce8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:13.477Z",
+      "checked_at": "2026-11-16T19:11:07.160Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,23 +62,23 @@
       "hash": "040f96b679b6c2b1de2c6c31b1be8885acf29e56ef6163e9254f5c9be23d02de",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:14.477Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:11:08.161Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.oleria.com/integrations/azure": {
       "hash": "bb8961dcb204d4eeb8ee8837ac9936c0087876c6e8b2569fb49f688019ace0e9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:15.478Z",
-      "quotes_found": 0,
-      "quotes_total": 1
+      "checked_at": "2026-11-16T19:11:09.161Z",
+      "quotes_found": 2,
+      "quotes_total": 2
     },
     "https://docs.oleria.com/integrations/okta": {
       "hash": "00346f7444723c60a798583dc1840caa6b048c5281320d8b66c0fc883666f63c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:16.478Z",
+      "checked_at": "2026-11-16T19:11:10.161Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "64b8e534f69b057b1c58a85a473fecf2e823125f9307dd0a9af33b33dc76842f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:17.479Z",
+      "checked_at": "2026-11-16T19:11:11.161Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "b367ca33963f6a8e5cef2cc2f472ae8ebd96b5c36d847f75e91fa1e4b9eb49c8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:18.479Z",
+      "checked_at": "2026-11-16T19:11:12.162Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,7 +102,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 1,
       "quotes_total": 1
     }

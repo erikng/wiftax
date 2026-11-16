@@ -1,20 +1,20 @@
 {
   "card": "runpod",
-  "updated_at": "2026-11-15T01:52:27.467Z",
+  "updated_at": "2026-11-16T19:17:10.211Z",
   "urls": {
     "https://docs.runpod.io/api-reference-v2/overview.md": {
-      "hash": "ab0f05f3c3b213336d8ccd5dcd970a58d08076be6d1c5eb143a9f07fcfe15602",
+      "hash": "cf67727d55bee15f5d720cfecdd10e3ac851bf1639bd4b7c299bd8f4a43527ef",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:47:59.326Z",
-      "quotes_found": 1,
+      "checked_at": "2026-11-16T19:12:59.129Z",
+      "quotes_found": 2,
       "quotes_total": 2
     },
     "https://api.runpod.io/v2/openapi.json": {
       "hash": "a9b3c74cddf492378e907b04274f1467e6ac26d7d54c43dab84304e863e30be7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:47:59.467Z",
+      "checked_at": "2026-11-16T19:12:59.159Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -22,15 +22,15 @@
       "hash": "986a15de9c290011baada530c3bc3cca401477ee61a4e3f49d7d797bff36be10",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:00.327Z",
-      "quotes_found": 5,
+      "checked_at": "2026-11-16T19:13:00.127Z",
+      "quotes_found": 6,
       "quotes_total": 6
     },
     "https://docs.runpod.io/runpodctl/reference/runpodctl-config.md": {
       "hash": "2c92ce45694cf382c2b5e5824839efd81671cfd4519973a8ef3a84cd251ff478",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:01.327Z",
+      "checked_at": "2026-11-16T19:13:01.128Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "1fbd7ce771ad143a9b138c7af49dc5feaadffb9530f917c81b2e6ae2f14e1d0a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:02.328Z",
+      "checked_at": "2026-11-16T19:13:02.129Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "149d92d062056ad1041e3529bafc375bb8b47ef0544d453d77309aab27593513",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:03.328Z",
+      "checked_at": "2026-11-16T19:13:03.130Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -54,15 +54,15 @@
       "hash": "7dbac753ac061e9edbd333a1899ec0949759f6911a048d9dc285df80ed35b223",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:04.330Z",
+      "checked_at": "2026-11-16T19:13:04.130Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.runpod.io/llms-full.txt": {
-      "hash": "6767e9f292902b9754be35b74ee73d2a7e0a11da654fd452593ca9bae8154c85",
+      "hash": "c7f537831656f8e913dd95d5b466cf99691a9b2300938153b2ab31ed5f602ee9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:05.329Z",
+      "checked_at": "2026-11-16T19:13:05.131Z",
       "quotes_found": 0,
       "quotes_total": 0
     },
@@ -70,7 +70,7 @@
       "hash": "8a4ae567430698829c5d07de3a06c2c44a2c9f6d216c0f81e38adfa23685618c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:06.330Z",
+      "checked_at": "2026-11-16T19:13:06.132Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -78,7 +78,7 @@
       "hash": "acc28855a6cdfcc49d9ae29c5482cb9379799f993af04a1ddaa58451f04769b4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:07.330Z",
+      "checked_at": "2026-11-16T19:13:07.133Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "ca5ddb17f7583cdf7a08216f62971a5637fe5613cbb2b1c5a627712597b32d01",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:08.331Z",
+      "checked_at": "2026-11-16T19:13:08.133Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -94,7 +94,7 @@
       "hash": "e8087fb60c412f6a5dd31b74bfa8e2df87fdcf1035131764c9d4abb4d0c876bb",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:09.331Z",
+      "checked_at": "2026-11-16T19:13:09.135Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,8 +102,8 @@
       "hash": "8313a528d95d524f749135222ddf4415b9a4dabc65c0354d115d5391d0566093",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:10.331Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:13:10.135Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://graphql-spec.runpod.io/": {
@@ -111,16 +111,16 @@
       "status": 403,
       "ok": false,
       "failure": "blocked",
-      "fail_streak": 2,
-      "checked_at": "2026-11-15T01:48:04.913Z",
+      "fail_streak": 3,
+      "checked_at": "2026-11-16T19:13:04.177Z",
       "quotes_found": 0,
       "quotes_total": 3
     },
     "https://docs.runpod.io/release-notes.md": {
-      "hash": "33d9f64fc77198851269f63111571e6c37c608e36f39cb095fa95e9a1b596450",
+      "hash": "b184b2967dea1c2b8803c92f37376c04ab466ae7d23844732c79ab6234b13131",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:11.333Z",
+      "checked_at": "2026-11-16T19:13:11.135Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -128,15 +128,14 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 1,
       "quotes_total": 1
     }
   },
   "last_assessment": {
-    "fingerprint": "2e036ace82da1bf5395013964563b92377a37f38a643f2799cbca43c0a987850",
-    "outcome": "refresh",
-    "at": "2026-11-15T01:38:56.346Z",
-    "url": "https://github.com/wiftax/wiftax/pull/58"
+    "fingerprint": "5d02661af0a9a746f8380b762498c94d519be79510031886e8dad1b1cd0f966f",
+    "outcome": "no_change",
+    "at": "2026-11-16T19:03:37.140Z"
   }
 }

@@ -1,225 +1,162 @@
 {
   "version": 1,
-  "date": "2026-11-15",
-  "started_at": "2026-11-15T01:38:56.346Z",
-  "finished_at": "2026-11-15T02:02:07.773Z",
-  "duration_s": 1391,
+  "date": "2026-11-16",
+  "started_at": "2026-11-16T19:03:37.140Z",
+  "finished_at": "2026-11-16T19:21:18.264Z",
+  "duration_s": 1061,
   "dry_run": false,
   "partial": false,
   "sisyphus": {
-    "commit": "6653625"
+    "commit": "375d690"
   },
   "model": "claude-opus-5-5",
-  "cards": 112,
-  "urls": 1644,
-  "urls_ok": 1532,
-  "receipts": 2742,
-  "receipts_found": 2433,
+  "usage": {
+    "calls": 15,
+    "input_tokens": 122924,
+    "output_tokens": 59429,
+    "cache_read_tokens": 51656,
+    "cache_write_tokens": 18784,
+    "cost_usd": 1.78,
+    "unpriced_models": []
+  },
+  "moved_pages": [
+    {
+      "card": "elastic-agent-fleet",
+      "from": "https://www.elastic.co/docs/manage-data/ingest/managed-integrations/cloud-connector-deployment.md",
+      "to": "https://www.elastic.co/docs/reference/managed-integrations/federated-identity"
+    },
+    {
+      "card": "upwind",
+      "from": "https://docs.upwind.io/assets/js/e5ce9b41.4909e293.js",
+      "to": "https://docs.upwind.io/assets/js/e5ce9b41.3a14bd02.js"
+    }
+  ],
+  "cards": 113,
+  "urls": 1651,
+  "urls_ok": 1610,
+  "receipts": 2763,
+  "receipts_found": 2672,
   "drift": {
-    "cards": 50,
-    "urls": 102
+    "cards": 18,
+    "urls": 19
   },
   "unreachable": {
-    "urls": 112,
+    "urls": 41,
     "hosts": [
-      {
-        "host": "docs.cyberark.com",
-        "urls": 32,
-        "failure": "gone",
-        "max_streak": 2
-      },
-      {
-        "host": "docs.trendmicro.com",
-        "urls": 17,
-        "failure": "network",
-        "max_streak": 2
-      },
       {
         "host": "docs.cudocompute.com",
         "urls": 15,
         "failure": "blocked",
-        "max_streak": 2
-      },
-      {
-        "host": "docs.upwind.io",
-        "urls": 15,
-        "failure": "empty",
-        "max_streak": 1
+        "max_streak": 3
       },
       {
         "host": "docs.splunk.com",
         "urls": 11,
         "failure": "blocked",
-        "max_streak": 2
+        "max_streak": 3
       },
       {
         "host": "help.splunk.com",
         "urls": 5,
         "failure": "blocked",
-        "max_streak": 2
-      },
-      {
-        "host": "github.com",
-        "urls": 3,
-        "failure": "gone",
-        "max_streak": 2
-      },
-      {
-        "host": "raw.githubusercontent.com",
-        "urls": 2,
-        "failure": "empty, gone",
-        "max_streak": 2
+        "max_streak": 3
       },
       {
         "host": "www.sentinelone.com",
         "urls": 2,
         "failure": "blocked",
-        "max_streak": 2
+        "max_streak": 3
       },
       {
         "host": "blog.51sec.org",
         "urls": 1,
         "failure": "blocked",
-        "max_streak": 2
+        "max_streak": 3
       },
       {
         "host": "graphql-spec.runpod.io",
         "urls": 1,
         "failure": "blocked",
-        "max_streak": 2
+        "max_streak": 3
       },
       {
         "host": "readme.reco.ai",
         "urls": 1,
         "failure": "empty",
-        "max_streak": 1
-      },
-      {
-        "host": "sc1.checkpoint.com",
-        "urls": 1,
-        "failure": "gone",
         "max_streak": 2
       },
       {
         "host": "sfcompute.com",
         "urls": 1,
         "failure": "empty",
-        "max_streak": 1
+        "max_streak": 2
       },
       {
         "host": "support.expel.io",
         "urls": 1,
         "failure": "blocked",
-        "max_streak": 2
-      },
-      {
-        "host": "www.applytosupply.digitalmarketplace.service.gov.uk",
-        "urls": 1,
-        "failure": "gone",
-        "max_streak": 2
-      },
-      {
-        "host": "www.beyondtrust.com",
-        "urls": 1,
-        "failure": "blocked",
-        "max_streak": 2
-      },
-      {
-        "host": "www.elastic.co",
-        "urls": 1,
-        "failure": "gone",
-        "max_streak": 2
+        "max_streak": 3
       },
       {
         "host": "www.vultr.com",
         "urls": 1,
         "failure": "blocked",
-        "max_streak": 2
+        "max_streak": 3
       }
     ]
   },
-  "assessed": 45,
-  "notices": [
-    {
-      "card": "material-security",
-      "title": "Notice of Assessment: Material Security Platform",
-      "url": "https://github.com/wiftax/wiftax/pull/57",
-      "direction": "same"
-    }
-  ],
+  "assessed": 17,
+  "notices": [],
   "refresh": {
-    "url": "https://github.com/wiftax/wiftax/pull/58",
+    "url": "https://github.com/wiftax/wiftax/pull/84",
     "cards": [
-      "1password-secrets-automation",
-      "anthropic-api",
-      "axonius",
-      "britive-cloud-pam",
-      "chainguard-platform",
-      "cloudflare-api",
-      "coreweave-object-storage",
-      "descope-agentic-identity-hub",
-      "digitalocean-api",
+      "baseten",
+      "coreweave-forge",
       "doppler-secrets",
-      "drata",
-      "elasticsearch",
+      "elastic-agent-fleet",
       "flagsmith",
-      "gitguardian-platform",
-      "google-cloud-iam",
-      "infisical-secrets",
-      "keycard-agent-identity",
-      "kibana",
-      "lumos-identity-platform",
-      "nebius-ai-studio",
-      "nightfall-dlp",
-      "okta-management-api",
-      "oleria-identity-governance",
+      "nebius-ai-cloud",
       "opal-security",
-      "p0-security",
       "paloalto-cortex-xsiam",
-      "panther-siem",
-      "paperspace",
-      "push-security",
-      "runpod",
-      "sailpoint-identity-security-cloud",
-      "semgrep-appsec-platform",
-      "sf-compute-object-storage",
-      "socket-dev",
-      "sola-security",
-      "strongdm",
-      "tenable-vulnerability-management",
-      "together-ai",
-      "torq",
+      "proofpoint-tap",
       "trendmicro-vision-one",
-      "vast-ai",
-      "veza",
-      "vultr-cloud",
-      "zenity-ai-agent-security"
+      "upwind"
     ]
   },
   "issues": [],
   "unreachable_issues": {
     "opened": [
-      "https://github.com/wiftax/wiftax/issues/59",
-      "https://github.com/wiftax/wiftax/issues/60",
+      "https://github.com/wiftax/wiftax/issues/85",
+      "https://github.com/wiftax/wiftax/issues/86"
+    ],
+    "updated": [
       "https://github.com/wiftax/wiftax/issues/61",
       "https://github.com/wiftax/wiftax/issues/62",
       "https://github.com/wiftax/wiftax/issues/63",
-      "https://github.com/wiftax/wiftax/issues/64",
-      "https://github.com/wiftax/wiftax/issues/65",
       "https://github.com/wiftax/wiftax/issues/66",
       "https://github.com/wiftax/wiftax/issues/67",
       "https://github.com/wiftax/wiftax/issues/68",
-      "https://github.com/wiftax/wiftax/issues/69",
       "https://github.com/wiftax/wiftax/issues/70",
-      "https://github.com/wiftax/wiftax/issues/71",
-      "https://github.com/wiftax/wiftax/issues/72",
-      "https://github.com/wiftax/wiftax/issues/73",
       "https://github.com/wiftax/wiftax/issues/74"
     ],
-    "updated": [],
-    "closed": []
+    "closed": [
+      "https://github.com/wiftax/wiftax/issues/65",
+      "https://github.com/wiftax/wiftax/issues/72",
+      "https://github.com/wiftax/wiftax/issues/69",
+      "https://github.com/wiftax/wiftax/issues/59",
+      "https://github.com/wiftax/wiftax/issues/64",
+      "https://github.com/wiftax/wiftax/issues/71",
+      "https://github.com/wiftax/wiftax/issues/60"
+    ]
   },
   "outcomes": [
+    {
+      "id": "1password-secrets-automation",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
     {
       "id": "abnormal-security",
       "drifted": 0,
@@ -242,14 +179,21 @@
       "error": false
     },
     {
-      "id": "arcade-dev",
-      "drifted": 3,
+      "id": "anthropic-api",
+      "drifted": 0,
       "unreachable": 0,
-      "action": "skipped: a notice for this card is already open",
+      "action": "no drift",
       "error": false
     },
     {
       "id": "aws-iam",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "axonius",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -263,17 +207,17 @@
       "error": false
     },
     {
-      "id": "baseten",
-      "drifted": 4,
+      "id": "beyondtrust-password-safe",
+      "drifted": 0,
       "unreachable": 0,
-      "action": "skipped: a notice for this card is already open",
+      "action": "no drift",
       "error": false
     },
     {
-      "id": "beyondtrust-password-safe",
+      "id": "britive-cloud-pam",
       "drifted": 0,
-      "unreachable": 1,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
@@ -284,14 +228,28 @@
       "error": false
     },
     {
+      "id": "chainguard-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "checkpoint-infinity",
       "drifted": 0,
-      "unreachable": 1,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
       "id": "cisco-duo-admin-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "cloudflare-api",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -306,6 +264,13 @@
     },
     {
       "id": "coreweave-cks",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "coreweave-object-storage",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -335,22 +300,22 @@
     {
       "id": "cyberark-conjur-cloud",
       "drifted": 0,
-      "unreachable": 20,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
       "id": "cyberark-identity-platform",
       "drifted": 0,
-      "unreachable": 12,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
       "id": "cyera-data-security",
       "drifted": 0,
-      "unreachable": 3,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
@@ -382,10 +347,24 @@
       "error": false
     },
     {
+      "id": "descope-agentic-identity-hub",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "drata",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "elastic-agent-fleet",
       "drifted": 0,
-      "unreachable": 1,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
@@ -397,6 +376,13 @@
     },
     {
       "id": "elastic-cloud-enterprise",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "elasticsearch",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -424,7 +410,21 @@
       "error": false
     },
     {
+      "id": "gitguardian-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "github-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "google-cloud-iam",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -452,14 +452,49 @@
       "error": false
     },
     {
+      "id": "infisical-secrets",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "island-enterprise-browser",
       "drifted": 0,
-      "unreachable": 1,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "keycard-agent-identity",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "kibana",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
       "id": "lambda-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "lumos-identity-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "material-security",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -473,7 +508,14 @@
       "error": false
     },
     {
-      "id": "nebius-ai-cloud",
+      "id": "nebius-ai-studio",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "nightfall-dlp",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -508,14 +550,49 @@
       "error": false
     },
     {
+      "id": "okta-management-api",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "oleria-identity-governance",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "orca-security",
       "drifted": 0,
-      "unreachable": 2,
+      "unreachable": 1,
       "action": "no drift (some receipts unreachable)",
       "error": false
     },
     {
+      "id": "p0-security",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "paloalto-prisma-cloud",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "panther-siem",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "paperspace",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -529,7 +606,7 @@
       "error": false
     },
     {
-      "id": "proofpoint-tap",
+      "id": "push-security",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -557,10 +634,24 @@
       "error": false
     },
     {
+      "id": "semgrep-appsec-platform",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "sentinelone-singularity",
       "drifted": 0,
       "unreachable": 2,
       "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "sf-compute-object-storage",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
@@ -585,10 +676,31 @@
       "error": false
     },
     {
+      "id": "socket-dev",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "sola-security",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
       "id": "splunk-cloud-platform",
       "drifted": 0,
       "unreachable": 16,
       "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
+      "id": "strongdm",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
@@ -613,6 +725,13 @@
       "error": false
     },
     {
+      "id": "tenable-vulnerability-management",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
       "id": "tensorwave",
       "drifted": 0,
       "unreachable": 0,
@@ -621,6 +740,13 @@
     },
     {
       "id": "tines",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "torq",
       "drifted": 0,
       "unreachable": 0,
       "action": "no drift",
@@ -636,8 +762,8 @@
     {
       "id": "upwind",
       "drifted": 0,
-      "unreachable": 15,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
@@ -645,6 +771,20 @@
       "drifted": 1,
       "unreachable": 0,
       "action": "skipped: same drift already assessed on 2026-11-15 (no change)",
+      "error": false
+    },
+    {
+      "id": "vast-ai",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
+      "error": false
+    },
+    {
+      "id": "veza",
+      "drifted": 0,
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
@@ -662,6 +802,13 @@
       "error": false
     },
     {
+      "id": "vultr-cloud",
+      "drifted": 0,
+      "unreachable": 1,
+      "action": "no drift (some receipts unreachable)",
+      "error": false
+    },
+    {
       "id": "vultr-object-storage",
       "drifted": 0,
       "unreachable": 1,
@@ -671,8 +818,8 @@
     {
       "id": "wiz-platform",
       "drifted": 0,
-      "unreachable": 1,
-      "action": "no drift (some receipts unreachable)",
+      "unreachable": 0,
+      "action": "no drift",
       "error": false
     },
     {
@@ -690,341 +837,116 @@
       "error": false
     },
     {
-      "id": "material-security",
-      "drifted": 3,
-      "unreachable": 0,
-      "action": "opened https://github.com/wiftax/wiftax/pull/57",
-      "error": false
-    },
-    {
-      "id": "1password-secrets-automation",
-      "drifted": 8,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "anthropic-api",
-      "drifted": 6,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "axonius",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "britive-cloud-pam",
+      "id": "arcade-dev",
       "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "chainguard-platform",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "cloudflare-api",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "coreweave-object-storage",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "descope-agentic-identity-hub",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "drift noted, no change proposed: The page at https://docs.arcade.dev/en/references/changelog, fetched 2026-11-16, now serves the Arcade 1.13.0 preview re",
       "error": false
     },
     {
       "id": "digitalocean-api",
-      "drifted": 3,
+      "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "drift noted, no change proposed: The page cited for the last_used check (https://docs.digitalocean.com/reference/api/create-personal-access-token/index.h",
+      "error": false
+    },
+    {
+      "id": "runpod",
+      "drifted": 1,
+      "unreachable": 1,
+      "action": "drift noted, no change proposed: The page at https://docs.runpod.io/llms-full.txt changed, but no quote is cited on it. The excerpt supplied for 2026-11-",
+      "error": false
+    },
+    {
+      "id": "sailpoint-identity-security-cloud",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The page cited for the Entra ID client secret, https://documentation.sailpoint.com/connectors/saas/msentraid/help/saas_c",
+      "error": false
+    },
+    {
+      "id": "together-ai",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The OpenAPI spec cited in support of the rotation_api check (https://docs.together.ai/openapi.yaml, checked 2026-11-16) ",
+      "error": false
+    },
+    {
+      "id": "zenity-ai-agent-security",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "drift noted, no change proposed: The archive at https://get.zenity.io/releases/v0.1.0/zenityctl_0.1.0_darwin_arm64.tar.gz was fetched on 2026-11-16. It c",
+      "error": false
+    },
+    {
+      "id": "baseten",
+      "drifted": 2,
+      "unreachable": 0,
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
+      "error": false
+    },
+    {
+      "id": "coreweave-forge",
+      "drifted": 1,
+      "unreachable": 0,
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
       "id": "doppler-secrets",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "drata",
       "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "elasticsearch",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
       "id": "flagsmith",
       "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
-      "id": "gitguardian-platform",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "google-cloud-iam",
+      "id": "nebius-ai-cloud",
       "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "infisical-secrets",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "keycard-agent-identity",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "kibana",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "lumos-identity-platform",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "nebius-ai-studio",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "nightfall-dlp",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "okta-management-api",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "oleria-identity-governance",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
       "id": "opal-security",
-      "drifted": 2,
+      "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "p0-security",
-      "drifted": 4,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
       "id": "paloalto-cortex-xsiam",
       "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
-      "id": "panther-siem",
+      "id": "proofpoint-tap",
       "drifted": 1,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "paperspace",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "push-security",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "runpod",
-      "drifted": 3,
-      "unreachable": 1,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "sailpoint-identity-security-cloud",
-      "drifted": 4,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "semgrep-appsec-platform",
-      "drifted": 3,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "sf-compute-object-storage",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "socket-dev",
-      "drifted": 3,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "sola-security",
-      "drifted": 3,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "strongdm",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "tenable-vulnerability-management",
-      "drifted": 1,
-      "unreachable": 1,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "together-ai",
-      "drifted": 5,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "torq",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     },
     {
       "id": "trendmicro-vision-one",
       "drifted": 1,
-      "unreachable": 17,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "vast-ai",
-      "drifted": 2,
       "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "veza",
-      "drifted": 1,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "vultr-cloud",
-      "drifted": 1,
-      "unreachable": 1,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
-      "error": false
-    },
-    {
-      "id": "zenity-ai-agent-security",
-      "drifted": 2,
-      "unreachable": 0,
-      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/58",
+      "action": "in receipts refresh https://github.com/wiftax/wiftax/pull/84",
       "error": false
     }
   ],
   "open_prs": [
     {
-      "number": 58,
-      "url": "https://github.com/wiftax/wiftax/pull/58",
-      "title": "Receipts refreshed: 44 cards (2026-11-15)"
-    },
-    {
-      "number": 57,
-      "url": "https://github.com/wiftax/wiftax/pull/57",
-      "title": "Notice of Assessment: Material Security Platform"
-    },
-    {
-      "number": 56,
-      "url": "https://github.com/wiftax/wiftax/pull/56",
-      "title": "Notice of Assessment: Baseten Platform"
-    },
-    {
-      "number": 55,
-      "url": "https://github.com/wiftax/wiftax/pull/55",
-      "title": "Notice of Assessment: Arcade.dev Platform"
+      "number": 84,
+      "url": "https://github.com/wiftax/wiftax/pull/84",
+      "title": "Receipts refreshed: 11 cards (2026-11-16)"
     }
   ],
   "history": [
@@ -1045,6 +967,16 @@
       "unreachable_urls": 112,
       "notices": 1,
       "refreshed": 44
+    },
+    {
+      "date": "2026-11-16",
+      "cards": 113,
+      "urls": 1651,
+      "drift_cards": 18,
+      "unreachable_urls": 41,
+      "notices": 0,
+      "refreshed": 11,
+      "cost_usd": 1.78
     }
   ]
 }

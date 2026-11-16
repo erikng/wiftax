@@ -1,12 +1,12 @@
 {
   "card": "abnormal-security",
-  "updated_at": "2026-11-15T01:52:21.202Z",
+  "updated_at": "2026-11-16T19:17:05.863Z",
   "urls": {
     "https://api.swaggerhub.com/apis/abnormal-security/abx/1.6.0": {
       "hash": "3d072f69a323adf697e985125454c6fa37ed452b0de4df404017be5dcd63da46",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:06.211Z",
+      "checked_at": "2026-11-16T19:03:46.938Z",
       "quotes_found": 7,
       "quotes_total": 7
     },
@@ -14,15 +14,15 @@
       "hash": "39c1c35fba1ffbfd14ab337e7690bde88950ccdec5cce55cd5077425cbb11ebc",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:06.478Z",
+      "checked_at": "2026-11-16T19:03:47.351Z",
       "quotes_found": 5,
       "quotes_total": 5
     },
     "https://docs.expel.io/connect-your-technology/a-c-integrations/abnormal-ai-setup-for-workbench": {
-      "hash": "b4e007e375b68a77f6890d3981b2f6765f8fee8e56c35005758611664cf04ee9",
+      "hash": "280b8df4795e2de8066b61000811da98e5ae812b06548400bf2c8b7949845654",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:06.497Z",
+      "checked_at": "2026-11-16T19:03:47.390Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -30,7 +30,7 @@
       "hash": "f6bd8bd08da30b60f6f98e9db40bd4a52c0067cc6594d2691c632daafb25d505",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:06.806Z",
+      "checked_at": "2026-11-16T19:03:47.914Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "11addcbc63671a4211a8acc8cfcd83ef8ec467ed54c2fe0ecee954f801ae1857",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:07.478Z",
+      "checked_at": "2026-11-16T19:03:48.354Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "0922b7d8d35e09a2224e5dbd249ae057c4239f41540365828350925f7fe915d4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:08.478Z",
+      "checked_at": "2026-11-16T19:03:49.354Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "9c132ef5bb85b3aa251ecebf7e84d489a8355942fe33d319ad6548a1d541119f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:09.478Z",
+      "checked_at": "2026-11-16T19:03:50.354Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -62,7 +62,7 @@
       "hash": "e341c4092c533e2938dccd5c2ea01ea50ba8fbaeed9a9656acdbf2ef475bf78e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:10.478Z",
+      "checked_at": "2026-11-16T19:03:51.353Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "7654a716c62364458ff0ba9de2b082298b82fdf1cd1f5b9bef3841c22dae68db",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:11.479Z",
+      "checked_at": "2026-11-16T19:03:52.353Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "0f3f955604045ee42c7dd4321e29e68cbd6fbb7fa0b5c21d63094e83c454a9a6",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:12.479Z",
+      "checked_at": "2026-11-16T19:03:53.354Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

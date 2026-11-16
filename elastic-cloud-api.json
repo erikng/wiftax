@@ -1,12 +1,12 @@
 {
   "card": "elastic-cloud-api",
-  "updated_at": "2026-11-15T01:52:23.769Z",
+  "updated_at": "2026-11-16T19:17:07.656Z",
   "urls": {
     "https://www.elastic.co/docs/deploy-manage/api-keys/elastic-cloud-api-keys": {
-      "hash": "b17268ac6fa19354c5dc1988ced544aa9fe023254646bbc3830b46f9980d6407",
+      "hash": "36469b90b3d1d004f202ac7ba612ff2c161c102526d2a870a179f139e0be10ce",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:22.897Z",
+      "checked_at": "2026-11-16T19:08:13.111Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -14,7 +14,7 @@
       "hash": "fd5be431a4ac5b97c81d840c74c40c10b3c9bbd44dc5885da24414b3643dc370",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:23.897Z",
+      "checked_at": "2026-11-16T19:08:14.112Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "7e0deecf8a98f5c009307ab82083ee0c4db981d5f55abc169a092eca0bcd4d07",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:24.898Z",
+      "checked_at": "2026-11-16T19:08:15.112Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -30,7 +30,7 @@
       "hash": "a81c8f797288c0fe2e8ef511bceb95472af5ce95c4864f1843eae006cf6bec1a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:18.022Z",
+      "checked_at": "2026-11-16T19:08:08.605Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "2e811ef669143f585ec43df4e498eed050ccbed89203434507c26a48e96d0a50",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:25.898Z",
+      "checked_at": "2026-11-16T19:08:16.113Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,47 +46,47 @@
       "hash": "05dfcf7e491877e824bf8360c833e49fc5c21365bd9e9c05efdbd4987e9ddecb",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:26.899Z",
+      "checked_at": "2026-11-16T19:08:17.114Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
     "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/ec-aws-custom-repository": {
-      "hash": "7b0f6de09d705b791123fbaacf076ca52a596df30ce7efaccc86513ad67ea356",
+      "hash": "b503a9154cd9ea24ea07b81c2dd296ac08b03f73b331025c2c766f06c996ffbd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:27.899Z",
+      "checked_at": "2026-11-16T19:08:18.114Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/ec-gcs-snapshotting": {
-      "hash": "780b457c720b37e5d2b1d258015b0b9e499e39b6f97390ada56f774d83611d68",
+      "hash": "dd024067d43b0026da9594048a985bca1977d44acf400a45c65cc54ee0fde1da",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:28.899Z",
+      "checked_at": "2026-11-16T19:08:19.115Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/ec-azure-snapshotting": {
-      "hash": "77971aa33be64d787473de697030019aa20418f9126f856774d2a11b13533a19",
+      "hash": "09eae688f1b15c8720ebaa60c5a09a1d576b42c718d9e13e44144c32d9a3dbda",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:29.899Z",
+      "checked_at": "2026-11-16T19:08:20.115Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/deploy-manage/security/private-connectivity-aws": {
-      "hash": "5f71963db8d93de2b0960c0a96123cbe648d1e5140d93216584486687c91ae39",
+      "hash": "a01768e2eb7bd011923213b18065f87b60e4455548d86c38fa2fdbebdb9c81e8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:30.900Z",
+      "checked_at": "2026-11-16T19:08:21.116Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/deploy-manage/users-roles/cloud-organization/user-roles": {
-      "hash": "37e3027f6b17ab1ae7e9522cce0f98d570690eefec45093b4fe592fe7c072e11",
+      "hash": "4bb309d5b622890c8d79f861f64c9385f54125c88c4f9c399eb619cc436fa161",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:31.901Z",
+      "checked_at": "2026-11-16T19:08:22.116Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 1,
       "quotes_total": 1
     }

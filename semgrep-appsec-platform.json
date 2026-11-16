@@ -1,20 +1,20 @@
 {
   "card": "semgrep-appsec-platform",
-  "updated_at": "2026-11-15T01:52:27.615Z",
+  "updated_at": "2026-11-16T19:17:10.310Z",
   "urls": {
     "https://docs.semgrep.dev/deployment/tokens.md": {
       "hash": "b2a857f53a54a2c51b3212f1118ba75e4b38e9ddec9482172ac94acbfafdbec6",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:11.425Z",
-      "quotes_found": 6,
+      "checked_at": "2026-11-16T19:13:10.575Z",
+      "quotes_found": 7,
       "quotes_total": 7
     },
     "https://semgrep.dev/docs/semgrep-ci/ci-environment-variables": {
       "hash": "e21b4b6de42120874f0fbf3c761c52311e0b035ba69db365a3c082ee0d8a51fe",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:11.554Z",
+      "checked_at": "2026-11-16T19:13:10.882Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,7 +22,7 @@
       "hash": "e3ff6b9a0611e43a3b6b2b0410117d42f23cb94fcf6a76c6f44781e1ba0d56be",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:12.425Z",
+      "checked_at": "2026-11-16T19:13:11.575Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "06655abbf861db3d97d5ce855d45fe662937a90375c105883f97187e5ea6331e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:13.426Z",
+      "checked_at": "2026-11-16T19:13:12.577Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "89d89242fc277529371746074847ca4b33715e05303ba2386870b4f32734f285",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:14.426Z",
+      "checked_at": "2026-11-16T19:13:13.577Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "64a8019581151e93299ece3322408b95816834ed85c9d0c241e81612ce2243dc",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:12.553Z",
+      "checked_at": "2026-11-16T19:13:11.881Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "3ecdbb3d076c3cc79fcce8666c210f35a3116c16e2aff19ec43b391db2fc580c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:15.425Z",
+      "checked_at": "2026-11-16T19:13:14.577Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,15 +62,15 @@
       "hash": "f524a598f2cfe661fbcac5c45b13156b5a345797d11f1efbfba4664718ca8124",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:16.426Z",
-      "quotes_found": 2,
+      "checked_at": "2026-11-16T19:13:15.578Z",
+      "quotes_found": 3,
       "quotes_total": 3
     },
     "https://docs.semgrep.dev/deployment/prepare/scm-permissions.md": {
       "hash": "e417e6edcd1fcd5271510b3eee9f36cd7f02f41bb4954a8b0978e4e802b5e36e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:17.426Z",
+      "checked_at": "2026-11-16T19:13:16.578Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "521febd8fab4d0615d0671f47cae6cf48e6cdfcbd4ce30e30973f0d40c78985d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:18.427Z",
+      "checked_at": "2026-11-16T19:13:17.578Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "75f47774106f6b342903efb388e218e7f049a59d8e7ac1c88f813559799b9419",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:19.426Z",
+      "checked_at": "2026-11-16T19:13:18.579Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "02b1cc955cb67db9e7f20311420d1cbdaded5df9a0ed2dfc5417b8a3ade38834",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:20.511Z",
+      "checked_at": "2026-11-16T19:13:19.580Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,7 +102,7 @@
       "hash": "11afd5938b179c67316beb03be33a374a503d616785e13963bb300586a67d5e5",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:21.511Z",
+      "checked_at": "2026-11-16T19:13:20.581Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -110,7 +110,7 @@
       "hash": "86bc0260cd9747d9a53aade75defd148c5425e40841da8ff18e1859c395a4f61",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:22.512Z",
+      "checked_at": "2026-11-16T19:13:21.582Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -118,7 +118,7 @@
       "hash": "16ee83dc9d9c600197538e1a6a654537fdb34b2837924ddcafe14cb1e085ea48",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:23.513Z",
+      "checked_at": "2026-11-16T19:13:22.583Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -126,7 +126,7 @@
       "hash": "b99847046213bef9b8cb5a1dfaba0802fdcaf3db982ce68b19df7bd16f8095de",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:24.513Z",
+      "checked_at": "2026-11-16T19:13:23.583Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -134,15 +134,15 @@
       "hash": "7dd010aa1cd6c967c69836f8eb34f97f8855cc67bfb01a3ca47bf942c571a36e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:25.514Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:13:24.583Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.semgrep.dev/kb/semgrep-appsec-platform/api-404-token-scope.md": {
       "hash": "631953ff763224524ea2af087db7f5aeb11cf599e18622d085b8776ede5de955",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:26.513Z",
+      "checked_at": "2026-11-16T19:13:25.583Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -150,7 +150,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

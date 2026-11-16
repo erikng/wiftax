@@ -1,12 +1,12 @@
 {
   "card": "elastic-agent-fleet",
-  "updated_at": "2026-11-15T01:52:23.674Z",
+  "updated_at": "2026-11-16T19:17:07.591Z",
   "urls": {
     "https://www.elastic.co/docs/reference/fleet/fleet-enrollment-tokens": {
       "hash": "ad975fccb0142988a9ab3bd0d61109365acbbde86e65c171f9f70d154785f518",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:02.885Z",
+      "checked_at": "2026-11-16T19:07:53.104Z",
       "quotes_found": 6,
       "quotes_total": 6
     },
@@ -14,7 +14,7 @@
       "hash": "e05fe1626f42cb817cb3344fc545d7bb154aed99308e9a3cf46ac5955ae498b7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:03.885Z",
+      "checked_at": "2026-11-16T19:07:54.104Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -22,23 +22,23 @@
       "hash": "11fee01b4a8f61e0e0f4d8885af50635eb9dabf32ea9a18a175f4e57d0d62395",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:04.885Z",
+      "checked_at": "2026-11-16T19:07:55.105Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
     "https://www.elastic.co/docs/solutions/observability/apm/secret-token": {
-      "hash": "64648c38eb351e43953269676d65e7a60657e36b030971278e4074e57abdf273",
+      "hash": "c13c641d407b9395887ab10b6003ae3754a1f2bcd5ead0104588c668242c0eff",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:05.886Z",
+      "checked_at": "2026-11-16T19:07:56.105Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/solutions/observability/apm/api-keys": {
-      "hash": "2473fdf28b4713704839e966d2a108f77d760f10c74007f89389c9eed0b3f522",
+      "hash": "877eae080e3f5f00ad28702412f488b99ce2a068f0d87f206b9a01a08b0381f3",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:06.887Z",
+      "checked_at": "2026-11-16T19:07:57.105Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -46,7 +46,7 @@
       "hash": "06324813fd6e5b0950a04c76545952c70b526e444891bf477b108879c547f694",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:07.887Z",
+      "checked_at": "2026-11-16T19:07:58.106Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "ee59f5458b2330d25f8e0ff9fe0555ae1adf5426c790f02d8bf77471c6f01b9d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:08.888Z",
+      "checked_at": "2026-11-16T19:07:59.106Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -62,7 +62,7 @@
       "hash": "500212abf69d63f411be619c95ac2e8f5d33ac46ec169bbd2f26cd7679a67289",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:09.888Z",
+      "checked_at": "2026-11-16T19:08:00.107Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -70,7 +70,7 @@
       "hash": "7646c7207d72d83de1d5e07835cfe4498294a8622f0da5a4121aa3029fb2d773",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:10.888Z",
+      "checked_at": "2026-11-16T19:08:01.106Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -79,16 +79,16 @@
       "status": 404,
       "ok": false,
       "failure": "gone",
-      "fail_streak": 2,
-      "checked_at": "2026-11-15T01:43:11.889Z",
+      "fail_streak": 3,
+      "checked_at": "2026-11-16T19:08:02.107Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/solutions/security/cloud/get-started-with-cspm-for-aws": {
-      "hash": "c7da675748f232e85bc7d73af446f7c3ca06410316d054a96435c1237aa524ad",
+      "hash": "ecff1add09f8766ca663e75a275a8baa5c1e16c2e23c785f25bc20a90f0818db",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:12.890Z",
+      "checked_at": "2026-11-16T19:08:03.107Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -96,7 +96,7 @@
       "hash": "8b11e8ae37b1610525d06bd5765da0f79ca5f75a6bb7f288134f4b8086fb14ee",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:13.892Z",
+      "checked_at": "2026-11-16T19:08:04.108Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -104,7 +104,7 @@
       "hash": "934bff7505eb78b41fc19b96b3df912820cd067bb7f3f29eff772d12897fcc81",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:14.893Z",
+      "checked_at": "2026-11-16T19:08:05.108Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -112,15 +112,15 @@
       "hash": "1d7cddaddad0fc29f6d0d4c31a8850ef96df90f570437e26c37ea10ee7fd0634",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:15.893Z",
+      "checked_at": "2026-11-16T19:08:06.108Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://github.com/elastic/cloudbeat/blob/main/deploy/deployment-manager/deploy_service_account.sh": {
-      "hash": "cb5a6df5dc55c5051f26b7901d6a98a795db78ce5af0e5eb19db0ada76019aa7",
+      "hash": "d36fb80d68995bfa2e7cd868f01563009481be9b7c7a9ac7cdb86838b04b3cd9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:08.931Z",
+      "checked_at": "2026-11-16T19:07:59.398Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -128,7 +128,7 @@
       "hash": "a32065cbb567ca62fabb51cbcd7d7e16bb9c56d3f46ea41907d430c8a1eeb8a6",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:16.893Z",
+      "checked_at": "2026-11-16T19:08:07.109Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -136,7 +136,7 @@
       "hash": "68d8b361a4536d3b38a008bb92dac8856616b80ecb10b2a30c19d843869bf54e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:17.893Z",
+      "checked_at": "2026-11-16T19:08:08.110Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -144,7 +144,7 @@
       "hash": "510cfab1e8f850328a7b3aec37dc3a31e79e1feb71df5f8a81b99bcfd4337b21",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:18.895Z",
+      "checked_at": "2026-11-16T19:08:09.110Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -152,23 +152,23 @@
       "hash": "ef76dc533ffe5179333a5b4f226d1c671a0005b50c72097023a8a0329cf1d38b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:19.896Z",
+      "checked_at": "2026-11-16T19:08:10.111Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/reference/integrations/google_workspace": {
-      "hash": "fdd71e0a1b72d72b355f7e9811932599500d8de59e1e513bb51e984dd972953d",
+      "hash": "ab41c2919daa230e2eae2436d2b5edb57e32b8a2061721d491c7135a926e3caa",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:20.896Z",
+      "checked_at": "2026-11-16T19:08:11.110Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://www.elastic.co/docs/api/doc/kibana/operation/operation-post-fleet-enrollment-api-keys": {
-      "hash": "342999c0513767f683ff5248147172139090c706595934f92b4bd36e891c914c",
+      "hash": "605a88330c3eae6bbfd931cc1bc67e71d783ca84f7a82740f412df0058801d07",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:21.897Z",
+      "checked_at": "2026-11-16T19:08:12.110Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -176,7 +176,7 @@
       "hash": "df420093f1b727dc76ef721adf7560e44c787b4f7faa74ca4e9914139a5406f4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:43:15.037Z",
+      "checked_at": "2026-11-16T19:08:05.571Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -184,9 +184,15 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 1,
       "quotes_total": 1
     }
+  },
+  "last_assessment": {
+    "fingerprint": "538697395b90933dc918af50eb59892780b665328095d6142e5fd3a5e2848543",
+    "outcome": "refresh",
+    "at": "2026-11-16T19:03:37.140Z",
+    "url": "https://github.com/wiftax/wiftax/pull/84"
   }
 }

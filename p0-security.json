@@ -1,116 +1,116 @@
 {
   "card": "p0-security",
-  "updated_at": "2026-11-15T01:52:27.265Z",
+  "updated_at": "2026-11-16T19:17:10.092Z",
   "urls": {
     "https://docs.p0.dev/p0-api/authenticating-with-the-p0-api": {
-      "hash": "2daa73685ec17537a1127779dab99fcdf14a70c6f9d84a273999cc31123d16fd",
+      "hash": "0021abf752006f8baffb67974daf5c4ca22059a3be322497ed4147d0c314c43e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:26.920Z",
-      "quotes_found": 5,
+      "checked_at": "2026-11-16T19:11:21.523Z",
+      "quotes_found": 6,
       "quotes_total": 6
     },
     "https://docs.p0.dev/integrations/resource-integrations/ssh/self-hosted": {
-      "hash": "68030b73e33678fb5a4035ee0171531a9933fae75890c4aeaadcb5bfa1083252",
+      "hash": "539dff8c2cc606ebc31323c6e9975f64014cc8c0498284116b2aa50c6401f421",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:27.920Z",
+      "checked_at": "2026-11-16T19:11:22.524Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
     "https://docs.p0.dev/integrations/resource-integrations/aws/installation-methods": {
-      "hash": "6913966a6b7d09b05c46a104ceb6ec8d1a5ec144625e223c2c0790006b600340",
+      "hash": "9f67dd155a683d6ad64dca457818dd3990101faa13e64d1c2dfb307e73c74e24",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:28.920Z",
+      "checked_at": "2026-11-16T19:11:23.524Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/resource-integrations/google-cloud": {
-      "hash": "da8a02a7e66e157888f7ba1568d3312fed2c26792b3144e90ea9a1258ffc3819",
+      "hash": "7c4656e18bba4768088af87c89dda4323f5a24384acb298a5b89e2bb6d853b1e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:29.920Z",
+      "checked_at": "2026-11-16T19:11:24.525Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/resource-integrations/microsoft-azure/azure-app-registration": {
-      "hash": "2d21b841974bb434c2c426fb259941bca8caa258a322ab90e7e1afb289af282a",
+      "hash": "3f3ce8dfccf02d5e8a6bc6267e7c106a07fc60dd6ff5ab948dfc6292392062af",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:30.921Z",
+      "checked_at": "2026-11-16T19:11:25.526Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/directory-integrations/okta": {
-      "hash": "da59fb968c67166e701b0206fb390525e61f76dc5e4ef31796621603864dfd26",
+      "hash": "209c8a5e84bfacd142e3b4f113a1843be95851fb9c105a9f86b5de6b11c2ecbe",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:31.922Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:11:26.582Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/directory-integrations/google-workspace": {
-      "hash": "6b861a7b65244a86db8eb6c2c81f685871dae8b07bf003db4430c980663dcb36",
+      "hash": "11964c015cf291db0e9a41d338dc1da0263a469f948bfceee5301e6989af8fcb",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:32.923Z",
+      "checked_at": "2026-11-16T19:11:27.583Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/directory-integrations/microsoft-entra-id-legacy": {
-      "hash": "d98244901cdf0890e097874026d40e3b06a73e996952df9ec9be883a6d43a094",
+      "hash": "35e33ab6b1e55e7ab976c22857442ad2913a927fcc655a877a0148a7d48730d3",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:33.923Z",
+      "checked_at": "2026-11-16T19:11:28.583Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/resource-integrations/github": {
-      "hash": "e4fa2a2a1403c194830d11073498de3761958d7012da591eb1330686bc4adb91",
+      "hash": "7dfcdb6794919f83ebf8acbf514b934b0aaacd5b8862eef27d59f11e52d0fb67",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:34.924Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:11:29.584Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/resource-integrations/kubernetes": {
-      "hash": "98b9103052c26b7e1777499f6a437108a785587da6fef20a1d711c57c22d7242",
+      "hash": "3bea3a65929500d0eadb691de092bfc0c80e6536a0bc60b6cd689038f9f5126e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:35.925Z",
+      "checked_at": "2026-11-16T19:11:30.586Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/resource-integrations/cloudflare": {
-      "hash": "b6c172c908d7f47c507e1f52f22c0531ea4f96fe4e144e670a5dda30a733a032",
+      "hash": "6b40422fd1d110574725d979957ab824582819423a751118916eb9a8e7d45135",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:36.927Z",
+      "checked_at": "2026-11-16T19:11:31.586Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/resource-integrations/tailscale": {
-      "hash": "71badf06518ed40f04cf7636250f51cd84a30c8db14e08038964c0925da84f0f",
+      "hash": "eb8a88d3a3922e644994f2ed185891c445cf03d9150a6751b91448b06f9f0532",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:37.927Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:11:32.586Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/integrations/siem-integrations/datadog-setup": {
-      "hash": "de0d80942acae944990b099e52fed7b6e9db3fd15a0800c644b75f53f7f95bbf",
+      "hash": "ffb5dca1dc04ef9e53974cf7b0875518484a2fa72c93a1ddd15ab1d223ee754c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:38.928Z",
+      "checked_at": "2026-11-16T19:11:33.587Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.p0.dev/p0-management/management-api/api-key-management-api": {
-      "hash": "a855b929459900743d6efd5ff94c337901ca24dc5f848333696a164e7c031692",
+      "hash": "1ae2e28389851740f14af4642e276854df5742801fa7d3eb977750ce60603909",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:39.929Z",
+      "checked_at": "2026-11-16T19:11:34.588Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -118,7 +118,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 1,
       "quotes_total": 1
     }

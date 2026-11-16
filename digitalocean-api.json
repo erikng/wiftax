@@ -1,12 +1,12 @@
 {
   "card": "digitalocean-api",
-  "updated_at": "2026-11-15T01:52:23.483Z",
+  "updated_at": "2026-11-16T19:17:07.469Z",
   "urls": {
     "https://docs.digitalocean.com/reference/api/create-personal-access-token/": {
       "hash": "4e88f4b4277ffa31bf810f5dae9f31dfdb1bb92664d683af465fa445e492d3ca",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:37.986Z",
+      "checked_at": "2026-11-16T19:07:28.349Z",
       "quotes_found": 6,
       "quotes_total": 6
     },
@@ -14,7 +14,7 @@
       "hash": "b693702d2a9d99246cd4d27e11ce6ecf6378452565a4dd2b715bd487ba4ad7dd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:38.988Z",
+      "checked_at": "2026-11-16T19:07:29.350Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -22,15 +22,15 @@
       "hash": "740be8eb1786e3d36f98b9d95709aadd5729931c4c08f942f1322e620acfa893",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:39.988Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:07:30.351Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.digitalocean.com/products/spaces/how-to/manage-access/": {
       "hash": "a25f7b48c9b283ff543d0b1eefb71eb97061e7ea6ad96febb48566d9ebe50a7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:40.988Z",
+      "checked_at": "2026-11-16T19:07:31.352Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -38,7 +38,7 @@
       "hash": "9d749b06648bde2ebc94668f6dd20fb0fb972ee2bf3f39322debd316b3c1750b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:41.988Z",
+      "checked_at": "2026-11-16T19:07:32.352Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "0ba942e02e1ee5664be3d523e9845a79fb61d368655df40fdb1e643ceaf67831",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:42.988Z",
+      "checked_at": "2026-11-16T19:07:33.353Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "684446384626053b74df7a965f2753fe1fc7adbe25b15e79c75952c8d3cc050b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:40.857Z",
+      "checked_at": "2026-11-16T19:07:31.029Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,15 +62,15 @@
       "hash": "f492a76f19648019b9eeb694b284f5c31cd81eba0a82210c50de1386a65019ab",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:43.988Z",
-      "quotes_found": 2,
+      "checked_at": "2026-11-16T19:07:34.354Z",
+      "quotes_found": 3,
       "quotes_total": 3
     },
     "https://docs.digitalocean.com/products/app-platform/how-to/deploy-from-container-images/index.html.md": {
-      "hash": "364a97e3c9fab6e8925b57fee38610e3d3a0014acd84d7e0df92fed343969414",
+      "hash": "a7b7583d0546124b7ede1be5a17e37dde4388386798450d0eaf5f07b211c3038",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:44.988Z",
+      "checked_at": "2026-11-16T19:07:35.355Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -78,7 +78,7 @@
       "hash": "4a04bac0f1e2264a77652847803e7872647abd8c4ea492cb7a1017d4cdb64b3d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:45.989Z",
+      "checked_at": "2026-11-16T19:07:36.356Z",
       "quotes_found": 0,
       "quotes_total": 0
     },
@@ -86,7 +86,7 @@
       "hash": "7d5b4777dfd940cc3a41c5a84e7c6936e12c57b2b269af7a3d644bde19f33f86",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:46.989Z",
+      "checked_at": "2026-11-16T19:07:37.357Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "8889d10fcb6990dd166f46a826a0f4ea8ad7debf231831ef379d35dd274fa34f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:47.990Z",
+      "checked_at": "2026-11-16T19:07:38.358Z",
       "quotes_found": 0,
       "quotes_total": 0
     },
@@ -102,7 +102,7 @@
       "hash": "e849b43b2f78e3c9b6c39a230e5d6925ce06ea5e0d01f05bb4e552fc8e8f40ce",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:48.991Z",
+      "checked_at": "2026-11-16T19:07:39.358Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -110,7 +110,7 @@
       "hash": "4e1ff7680c37cce571f85b017ce845684ef1331282ee1af7f2a777af76ee0840",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:49.991Z",
+      "checked_at": "2026-11-16T19:07:40.359Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -118,7 +118,7 @@
       "hash": "4e88f4b4277ffa31bf810f5dae9f31dfdb1bb92664d683af465fa445e492d3ca",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:50.991Z",
+      "checked_at": "2026-11-16T19:07:41.359Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -126,15 +126,14 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 3,
       "quotes_total": 3
     }
   },
   "last_assessment": {
-    "fingerprint": "b95c5d8b3c839f29da43646b9765d4101fcd3678e30817f8739e903c67c61bb3",
-    "outcome": "refresh",
-    "at": "2026-11-15T01:38:56.346Z",
-    "url": "https://github.com/wiftax/wiftax/pull/58"
+    "fingerprint": "239c799e30884fd6bdb708085ed4a4da007357d39056d6a16f1a59cb5960d5b0",
+    "outcome": "no_change",
+    "at": "2026-11-16T19:03:37.140Z"
   }
 }

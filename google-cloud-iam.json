@@ -1,44 +1,44 @@
 {
   "card": "google-cloud-iam",
-  "updated_at": "2026-11-15T01:52:25.019Z",
+  "updated_at": "2026-11-16T19:17:08.515Z",
   "urls": {
     "https://docs.cloud.google.com/iam/docs/workload-identity-federation": {
-      "hash": "a229039ac0c08681eca41b5d374ed7f2a5995eee8deed73d18bbec49fd5fac86",
+      "hash": "7729dd9b6e4cdadfd9f653a6652d3b2fefca9d549c650ebf6066d7d9a55a02be",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:26.295Z",
-      "quotes_found": 1,
+      "checked_at": "2026-11-16T19:09:17.496Z",
+      "quotes_found": 3,
       "quotes_total": 3
     },
     "https://docs.cloud.google.com/iam/docs/workload-identity-federation-with-other-providers": {
-      "hash": "37c689742c8ed79774e9ca0622aeb7ad2da5afa4a414fc26939177722c63fad2",
+      "hash": "cb9f3881df522f14632d6cfbaa130e70d4be6f04c724b54418addf917858d6d2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:27.294Z",
+      "checked_at": "2026-11-16T19:09:18.496Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
     "https://docs.cloud.google.com/docs/authentication/get-id-token": {
-      "hash": "7ec770f73d813a5169b945af941040b92c69be8c1496a5584da7554e9247aa31",
+      "hash": "37a7409606854bef2246ff176f98159bf0393fb89238f9e3010ee0f8f3e39102",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:28.295Z",
+      "checked_at": "2026-11-16T19:09:19.495Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.cloud.google.com/iam/docs/create-short-lived-credentials-direct": {
-      "hash": "3eafa98b9acad89acfb395e84df1c386e37021948e95a2d383206b49a9203e7e",
+      "hash": "438cce9a67982e7626efb50441e8c3b9cfe499bf94a730d49dc8c454c97b3b7c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:29.302Z",
+      "checked_at": "2026-11-16T19:09:20.496Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.cloud.google.com/docs/authentication/token-types": {
-      "hash": "44faaded505fdc88c6a3ec869068f3e587edb2bd83a0f142631d63c3f64f4cd6",
+      "hash": "2c2982879b678d2cc7514123c52efb60a9461d3e87e0539fa065ce323ef89966",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:30.301Z",
+      "checked_at": "2026-11-16T19:09:21.497Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,15 +46,15 @@
       "hash": "afcc283b5c58f2fcc147b34a56a98cef21026f2a76883877e1a9c36aae3ff33a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:56.908Z",
+      "checked_at": "2026-11-16T19:04:37.796Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
     "https://docs.cloud.google.com/iam/docs/keys-create-delete": {
-      "hash": "9f560b6d2cde8e7e449e5e2fcc3471f6f0daae854e9b526ff21fc88ccdaf252b",
+      "hash": "9a53404fc77566fcd3fc2560639ba01041c7af50f39115b487701a87beb905cd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:31.301Z",
+      "checked_at": "2026-11-16T19:09:22.497Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -62,23 +62,23 @@
       "hash": "779baf3796e7f9d36b6746499a76ec8a7f935561fc962d91265fad3d636196d2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:32.301Z",
+      "checked_at": "2026-11-16T19:09:23.497Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
     "https://docs.cloud.google.com/iam/docs/best-practices-for-managing-service-account-keys": {
-      "hash": "d11a4890cfc9ed1f90e381f4939a2832d6325678d9404515d321f84193904a79",
+      "hash": "7ad278bc28c5f95af4fc8a73a8db9dc15a4697473f47f38b966c75f22fd67c23",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:33.301Z",
+      "checked_at": "2026-11-16T19:09:24.498Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
     "https://docs.cloud.google.com/iam/docs/overview": {
-      "hash": "60487837566e4afe67aeedb2927c752624c31b00e88fa78fcdc0fd6d126915ea",
+      "hash": "09186b285f6fd476a1c80de8a4386952c163513192c2e74a6fdb930a26d1dba2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:34.301Z",
+      "checked_at": "2026-11-16T19:09:25.498Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -86,7 +86,7 @@
       "hash": "743255254f74ae3b3a4da7aef0fb14e25d00e4d4feac8ff71742dd4c856d31a7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:44:35.302Z",
+      "checked_at": "2026-11-16T19:09:26.498Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

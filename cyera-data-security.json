@@ -1,20 +1,20 @@
 {
   "card": "cyera-data-security",
-  "updated_at": "2026-11-15T01:52:22.080Z",
+  "updated_at": "2026-11-16T19:17:06.456Z",
   "urls": {
     "https://docs.delinea.com/online-help/integrations/cyera/cyera-configuration.htm": {
       "hash": "5f8a341bdb15ba4e4567d17c1d471b281c15f09110c66ac75e2de7c8383b2b06",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:02.006Z",
-      "quotes_found": 4,
-      "quotes_total": 4
+      "checked_at": "2026-11-16T19:06:51.859Z",
+      "quotes_found": 5,
+      "quotes_total": 5
     },
     "https://www.elastic.co/docs/reference/integrations/cyera": {
       "hash": "88a451d8e9dc074cecddf2e582a83a6a5aed0f5fc9a9191f67543fdd7766e121",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:02.492Z",
+      "checked_at": "2026-11-16T19:06:52.285Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -22,25 +22,15 @@
       "hash": "286b8d20b9575dc5e70f5b16c878ed5427f1441ba5751c8d823e72d4e5c4d8c7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:02.769Z",
+      "checked_at": "2026-11-16T19:06:52.833Z",
       "quotes_found": 1,
       "quotes_total": 1
-    },
-    "https://github.com/cyeragit/ANONY_Terraform_Provider/blob/main/API_MAPPING.md": {
-      "hash": null,
-      "status": 404,
-      "ok": false,
-      "failure": "gone",
-      "fail_streak": 2,
-      "checked_at": "2026-11-15T01:42:02.885Z",
-      "quotes_found": 0,
-      "quotes_total": 3
     },
     "https://auth.cyera.io/.well-known/openid-configuration": {
       "hash": "a8fadf5f4392ccae514371cf4c6b5a5e0d4f423fe47a08116f53afefd2ad97f1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:03.014Z",
+      "checked_at": "2026-11-16T19:06:52.986Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -48,7 +38,7 @@
       "hash": "5867b583e39b2b6cb2535b661abea872a78ac058ec2a2529810e820968f846d2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:03.142Z",
+      "checked_at": "2026-11-16T19:06:53.014Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -56,43 +46,23 @@
       "hash": "5bf717aa5be8c532f31ba7d6a100e1fcaaaaf8566d193a5a7d39697081921bd0",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:04.142Z",
+      "checked_at": "2026-11-16T19:06:54.014Z",
       "quotes_found": 1,
-      "quotes_total": 1
-    },
-    "https://github.com/cyeragit/ANONY_Terraform_Provider/blob/main/README.md": {
-      "hash": null,
-      "status": 404,
-      "ok": false,
-      "failure": "gone",
-      "fail_streak": 2,
-      "checked_at": "2026-11-15T01:42:03.885Z",
-      "quotes_found": 0,
       "quotes_total": 1
     },
     "https://www.cyera.com/blog/reinventing-on-prem-data-discovery-and-classification-cyeras-connectorless-approach": {
       "hash": "44c59955b7551d2c01b378366b77921ee8fe477a1f2557cd0356cf9ca47bc108",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:42:05.143Z",
+      "checked_at": "2026-11-16T19:06:55.014Z",
       "quotes_found": 1,
-      "quotes_total": 1
-    },
-    "https://github.com/cyeragit/ANONY_Terraform_Provider/blob/main/CREDENTIALS.md": {
-      "hash": null,
-      "status": 404,
-      "ok": false,
-      "failure": "gone",
-      "fail_streak": 2,
-      "checked_at": "2026-11-15T01:42:04.886Z",
-      "quotes_found": 0,
       "quotes_total": 1
     },
     "https://docs.github.com/en/code-security/secret-scanning/introduction/supported-secret-scanning-patterns": {
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

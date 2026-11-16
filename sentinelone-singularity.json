@@ -1,12 +1,12 @@
 {
   "card": "sentinelone-singularity",
-  "updated_at": "2026-11-15T01:52:27.705Z",
+  "updated_at": "2026-11-16T19:17:10.375Z",
   "urls": {
     "https://raw.githubusercontent.com/Sentinel-One/ai-siem/main/plugins/s1-secops-skills/skills/mgmt-console-api/spec/swagger_2_1.json": {
       "hash": "cccd14a3df15e46b07f792d64d489bf6747fe7e29c47ce9baeeadcbf7e195856",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:19.445Z",
+      "checked_at": "2026-11-16T19:13:18.635Z",
       "quotes_found": 15,
       "quotes_total": 15
     },
@@ -14,7 +14,7 @@
       "hash": "59def82e0234b4a23a08c652808bcf305cdbb9737c6121948b22c4e17dab6855",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:20.511Z",
+      "checked_at": "2026-11-16T19:13:19.635Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -22,7 +22,7 @@
       "hash": "59f59b6f4524dc30298cf754f39e392688820fa51f99f9a20ab731963122b083",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:21.511Z",
+      "checked_at": "2026-11-16T19:13:20.635Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -31,8 +31,8 @@
       "status": 429,
       "ok": false,
       "failure": "blocked",
-      "fail_streak": 2,
-      "checked_at": "2026-11-15T01:48:25.755Z",
+      "fail_streak": 3,
+      "checked_at": "2026-11-16T19:13:24.891Z",
       "quotes_found": 0,
       "quotes_total": 2
     },
@@ -41,8 +41,8 @@
       "status": 429,
       "ok": false,
       "failure": "blocked",
-      "fail_streak": 2,
-      "checked_at": "2026-11-15T01:48:26.754Z",
+      "fail_streak": 3,
+      "checked_at": "2026-11-16T19:13:25.892Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -50,7 +50,7 @@
       "hash": "cb71137ae7c3a5d8e07a0cc2c8289b2993396b5354e673d10a89f8f782dab2d8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:22.512Z",
+      "checked_at": "2026-11-16T19:13:21.636Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -58,7 +58,7 @@
       "hash": "989a4a54d0fc77a325692896bba4a27ee6360c7b199a075de30f18f53e7659c9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:23.513Z",
+      "checked_at": "2026-11-16T19:13:22.636Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -66,7 +66,7 @@
       "hash": "c54dfa53e309c9dadc98a55c8854b92dffc4ab2423de8d54047683e028f1fd07",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:24.513Z",
+      "checked_at": "2026-11-16T19:13:23.637Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -74,7 +74,7 @@
       "hash": "3a4457ea48a05e735c205d88c2fffbffe60db7b79fc02a4b3f35d18b8d4d84c9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:25.514Z",
+      "checked_at": "2026-11-16T19:13:24.637Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -82,7 +82,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

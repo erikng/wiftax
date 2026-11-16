@@ -1,12 +1,12 @@
 {
   "card": "strongdm",
-  "updated_at": "2026-11-15T01:52:37.367Z",
+  "updated_at": "2026-11-16T19:17:16.698Z",
   "urls": {
     "https://docs.strongdm.com/references/api/api-keys.md": {
       "hash": "51a1363d99cddb96c43a46cf7b74b275d9176b2262d597dfa9a3480c5ae63f60",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:15.195Z",
+      "checked_at": "2026-11-16T19:14:15.050Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -14,15 +14,15 @@
       "hash": "4229bf4143514b85a011a8893b6a0ef1946f78e503a24024281be3095d29a23f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:16.195Z",
-      "quotes_found": 2,
+      "checked_at": "2026-11-16T19:14:16.050Z",
+      "quotes_found": 3,
       "quotes_total": 3
     },
     "https://docs.strongdm.com/admin/principals/service-accounts.md": {
       "hash": "4025bb3643a1fac4c023848027211713899409b3cdf50ca29eaaedf580d0dfbc",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:17.195Z",
+      "checked_at": "2026-11-16T19:14:17.050Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -30,7 +30,7 @@
       "hash": "f52d84f834a6cc1f605d251a4e9c40fdd012436cbb042a5824f8167f77fa4b49",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:18.196Z",
+      "checked_at": "2026-11-16T19:14:18.050Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -38,7 +38,7 @@
       "hash": "e56e840a543b5267274229b5fc8b90007e684ed60cca66a110a84f915e974d98",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:19.196Z",
+      "checked_at": "2026-11-16T19:14:19.051Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "be17881023fddc2b0ed805c35dda892d307d7ab66e16acd07af1a2b708b46a4c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:16.272Z",
+      "checked_at": "2026-11-16T19:14:16.481Z",
       "quotes_found": 5,
       "quotes_total": 5
     },
@@ -54,7 +54,7 @@
       "hash": "b312a02984ae984eeb7bf90f2f6513bc8dbeb9e5a7b4760e1681d9ed9ce1e87e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:20.196Z",
+      "checked_at": "2026-11-16T19:14:20.052Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -62,7 +62,7 @@
       "hash": "d0233b6f6c8f4b47a3d08dc34f6dd420e10dda7b91b9039e1df78218d8e18b57",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:21.196Z",
+      "checked_at": "2026-11-16T19:14:21.053Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "b51ffdbf79d84f5ec92864636b6f3f87b6ea27521faa933d700329fc74297ebd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:22.196Z",
+      "checked_at": "2026-11-16T19:14:22.052Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "bde99cbd4205c54055d4ba001fb5342f6b66fcbe68fbad1a2a6e2876ba10fff8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:23.197Z",
+      "checked_at": "2026-11-16T19:14:23.052Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,7 +86,7 @@
       "hash": "869f3528e754443507e70769da1ff94e1eeadb46df45afc5d35259b0a19340f5",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:24.198Z",
+      "checked_at": "2026-11-16T19:14:24.052Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "6f2680d405e4c3c9ff2556fa82a60e59c3291f95a42d648920872746f5292e1f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:25.199Z",
+      "checked_at": "2026-11-16T19:14:25.053Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,7 +102,7 @@
       "hash": "f65bb6219f29356c4ebaacfb3dbe2023cba1e9f63e08b5e5b8cc785685bdfa8b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:26.199Z",
+      "checked_at": "2026-11-16T19:14:26.053Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -110,7 +110,7 @@
       "hash": "85eb29bcb2158d6ca0d34e782d9db3e9ed1da8d748cfd51396ef42aa7ca6aa0a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:27.200Z",
+      "checked_at": "2026-11-16T19:14:27.052Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -118,7 +118,7 @@
       "hash": "e933f9a26ef14778ffcee066aa7c932a5dd8dac5bbac5fd33fc8ad32f192b2f9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:28.200Z",
+      "checked_at": "2026-11-16T19:14:28.052Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -126,7 +126,7 @@
       "hash": "ec7fbc2d11965d0bd391e4ef0f7a740749c2f114c5b52336863d43267931d2b2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:29.201Z",
+      "checked_at": "2026-11-16T19:14:29.052Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -134,7 +134,7 @@
       "hash": "f30a78119573624367f38b5f10c7b863196cf6beb67f57317ff9d3c651fccdd0",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:30.202Z",
+      "checked_at": "2026-11-16T19:14:30.052Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -142,7 +142,7 @@
       "hash": "5f21e96713e2cd71e4dac15c40ebd398b17076f057db77fdd0920c30ef4385d9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:23.326Z",
+      "checked_at": "2026-11-16T19:14:23.525Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -150,7 +150,7 @@
       "hash": "30ffcb4158bd5bbb3972eb7c41f66b1bf299e5be83966952230a3cd2e4f0bfb4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:49:31.202Z",
+      "checked_at": "2026-11-16T19:14:31.053Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -158,7 +158,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

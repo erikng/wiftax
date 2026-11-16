@@ -1,12 +1,12 @@
 {
   "card": "nightfall-dlp",
-  "updated_at": "2026-11-15T01:52:26.604Z",
+  "updated_at": "2026-11-16T19:17:09.655Z",
   "urls": {
     "https://help.nightfall.ai/developer-api/introduction/authentication_security": {
       "hash": "ee6ea0306d9ac6c406305169bf3a92aa433c73aa7cdaac0538c0ce9f54fb568d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:45:49.601Z",
+      "checked_at": "2026-11-16T19:10:42.420Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -14,39 +14,39 @@
       "hash": "e7ef3aeba4f5502826ea429bf3ee1da98f161c34b4ea33071100e1af475798bd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:45:50.602Z",
+      "checked_at": "2026-11-16T19:10:43.420Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
     "https://help.nightfall.ai/data-exfiltration-prevention/exfiltration_endpoint/install-nightfall-ai-agent-for-windows-os/nightfall-windows-agent-deployment-msi": {
-      "hash": "4f5dd3e90da3e546bf9277b52915b925c63299c365454536e088dc0daa7c354b",
+      "hash": "5d1f29495c16327128b6d2c6d99a3d6c28b5eb943474ea867ab9b83c42c6fe38",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:45:51.603Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:10:44.421Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://help.nightfall.ai/data-exfiltration-prevention/exfiltration_endpoint/policies/advanced_settings/automated_action/session-replay-and-bring-your-own-bucket": {
       "hash": "155fa1a059738f832c3c446b63b193eb3eb652ec4a2e6320d4eebb4f332560aa",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:45:52.604Z",
+      "checked_at": "2026-11-16T19:10:45.421Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
     "https://help.nightfall.ai/nightfall_integrations/saas-apps-authorization-authentication-and-best-practices": {
-      "hash": "ecfe0e639bc11e485195d93bb29b6e8fda05600e4c9d52f8c8082e0684d01d7d",
+      "hash": "a3a7a709cce23f386b93c05ba44e74dcb9dd12d3eb9bffa7ea65e1ee2d9b700f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:45:53.604Z",
-      "quotes_found": 3,
+      "checked_at": "2026-11-16T19:10:46.421Z",
+      "quotes_found": 4,
       "quotes_total": 4
     },
     "https://help.nightfall.ai/nightfall_settings/directory_sync/okta": {
       "hash": "4218157be56afdf7ae55cc0ba5906ed6c651885e88172fd6e167315a65186fbd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:45:54.605Z",
+      "checked_at": "2026-11-16T19:10:47.421Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "ff1c0155c3dee130c88c33861e0c854522e9d283db12f3ccf31658661a3d1361",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:45:55.605Z",
+      "checked_at": "2026-11-16T19:10:48.421Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

@@ -1,12 +1,12 @@
 {
   "card": "paloalto-prisma-cloud",
-  "updated_at": "2026-11-15T01:52:27.298Z",
+  "updated_at": "2026-11-16T19:17:10.110Z",
   "urls": {
     "https://pan.dev/prisma-cloud/api/cspm/app-login/": {
       "hash": "8ffdeaf065169ac6ad77cbd388fa0898d2d388c34118926fca5ab99d66273a94",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:42.422Z",
+      "checked_at": "2026-11-16T19:11:40.210Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -14,7 +14,7 @@
       "hash": "667daa5830337faa743db7f50758945f252fe342120f8a69029be600c4f4b87d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:42.559Z",
+      "checked_at": "2026-11-16T19:11:40.476Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -22,7 +22,7 @@
       "hash": "f260bc7f0b983f094c362a907954b5adc02132b9ec857f925081b92e3ad16e0c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:43.422Z",
+      "checked_at": "2026-11-16T19:11:41.209Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "3c578b2440efd75550b4bc6fb0ac08bcbc7475c7faed4d886b7b84bae586416d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:43.560Z",
+      "checked_at": "2026-11-16T19:11:41.477Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -38,7 +38,7 @@
       "hash": "77020cc83b85e3f5ad90b78894bd639b78320256e38e0cf25ed03283a5686e04",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:44.560Z",
+      "checked_at": "2026-11-16T19:11:42.477Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "b58b6d087e3964d91397b556e7f0b04435744f403d60959c176e2c435bb34a16",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:45.560Z",
+      "checked_at": "2026-11-16T19:11:43.478Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "d3c1ac649cc592754c8247b20b5042b93af3094a3497f841b959f5d115f6241f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:46.560Z",
+      "checked_at": "2026-11-16T19:11:44.479Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -62,7 +62,7 @@
       "hash": "4280fd5616d278119d8bbf39d91eb1b4abd2d032eafe6c038acc14f3751ce5d2",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:47.560Z",
+      "checked_at": "2026-11-16T19:11:45.479Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,7 +70,7 @@
       "hash": "1c0722ce5a5ebb2fabc78826e4cf6992536b3cb7cf3927c195934aaa7ccd66f1",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:48.560Z",
+      "checked_at": "2026-11-16T19:11:46.479Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -78,7 +78,7 @@
       "hash": "b4cfe7f62fb1201b2b0911141b8ca4547cb52248a4300b3693c06fc2d292eebd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:49.560Z",
+      "checked_at": "2026-11-16T19:11:47.480Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -86,7 +86,7 @@
       "hash": "5c9f61abec7b98d1231e95164e803a6660cce0d378a3ddeb32d0916249967754",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:50.560Z",
+      "checked_at": "2026-11-16T19:11:48.480Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -94,7 +94,7 @@
       "hash": "0acd07a048177afe774ed685a3acd54bc50b13a0ce99cd557588df1e3f61b79d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:51.561Z",
+      "checked_at": "2026-11-16T19:11:49.479Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -102,7 +102,7 @@
       "hash": "aa892ef675d0860a1ac6f8a6d373b081c59ad2be82490bda7bbccd404ac863c4",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:52.561Z",
+      "checked_at": "2026-11-16T19:11:50.480Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -110,7 +110,7 @@
       "hash": "4f43f6d944bd3113a9691b0037bc9b5c721748f4756dbf8352bfb07f9ab20b84",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:53.561Z",
+      "checked_at": "2026-11-16T19:11:51.480Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -118,7 +118,7 @@
       "hash": "07604030b2771fb504aa2c2a2114d8c5c89e2320569894b60b5fb0a2dd460b3b",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:54.562Z",
+      "checked_at": "2026-11-16T19:11:52.480Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -126,7 +126,7 @@
       "hash": "bc41769402df802a6b99c9cee9df2458df54a075d9a60d1a6a1b0952ee2f1a1a",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:55.563Z",
+      "checked_at": "2026-11-16T19:11:53.480Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -134,7 +134,7 @@
       "hash": "9d7ca1a5bcd4ff6f9599aaa43c4eff1bf21bb31218932397f36546b143e2229c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:56.564Z",
+      "checked_at": "2026-11-16T19:11:54.480Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -142,7 +142,7 @@
       "hash": "08be779d162f7f2f5380a4e1cd58d26792efecccef6834585998c1666afe4f30",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:57.564Z",
+      "checked_at": "2026-11-16T19:11:55.481Z",
       "quotes_found": 3,
       "quotes_total": 3
     },
@@ -150,7 +150,7 @@
       "hash": "c825b1b8ce2b833b06e5e217dd11628c3c9134a1c2ca7dcb5de838da492c1a79",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:50.612Z",
+      "checked_at": "2026-11-16T19:11:48.616Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -158,7 +158,7 @@
       "hash": "ab5a5ce5f5551aa40ddea6e24319a673bd292f8498252138e450d7143f0fc159",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:51.612Z",
+      "checked_at": "2026-11-16T19:11:49.616Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -166,7 +166,7 @@
       "hash": "5fe7c174d0984bbdb47f5c1aebc34a6bc533380680ae92a901e79311585db312",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:46:58.565Z",
+      "checked_at": "2026-11-16T19:11:56.481Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -174,7 +174,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

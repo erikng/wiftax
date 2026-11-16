@@ -1,20 +1,20 @@
 {
   "card": "voltage-park",
-  "updated_at": "2026-11-15T01:52:37.752Z",
+  "updated_at": "2026-11-16T19:17:16.953Z",
   "urls": {
     "https://support.voltagepark.com/article/api": {
       "hash": "72de96727bc954e40b490e8d45fdc8f7739d2d455e2d6e88c6d4015f1d884f55",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:51:32.508Z",
+      "checked_at": "2026-11-16T19:16:17.515Z",
       "quotes_found": 8,
       "quotes_total": 8
     },
     "https://cloud-api.voltagepark.com/api/v1/openapi.json": {
-      "hash": "fe6169a4a1d18ca65c7fd3a1dc77da69be3c2c56102fc83fbf4a6d147320ea95",
+      "hash": "6ab84747143c03c1ddb46c6ed309c60d63835e14f61e08a9392a519e8f290e5e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:51:29.957Z",
+      "checked_at": "2026-11-16T19:16:15.217Z",
       "quotes_found": 4,
       "quotes_total": 4
     },
@@ -22,7 +22,7 @@
       "hash": "6989e9c7666ed2424f315b50d89833928ccd617ec1b5c5b45569d56ebf26a03d",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:51:33.508Z",
+      "checked_at": "2026-11-16T19:16:18.515Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "04eaeadbfaebd766d6e9e361da3fb6ee10103ea6488f9cb87e051c609bdc42c9",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:51:34.508Z",
+      "checked_at": "2026-11-16T19:16:19.516Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -38,7 +38,7 @@
       "hash": "892b594e79ae78dcd9719f94e694f9b2fa8d6245480acbd7096709680e54b662",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:51:35.509Z",
+      "checked_at": "2026-11-16T19:16:20.516Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }

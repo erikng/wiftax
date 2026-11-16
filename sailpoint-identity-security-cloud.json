@@ -1,12 +1,12 @@
 {
   "card": "sailpoint-identity-security-cloud",
-  "updated_at": "2026-11-15T01:52:27.585Z",
+  "updated_at": "2026-11-16T19:17:10.290Z",
   "urls": {
     "https://developer.sailpoint.com/docs/api/authentication": {
       "hash": "831e80e4433b1235caef9301f94d409a4ee82fdee6ac1b4fd7d738b8f9740b82",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:05.512Z",
+      "checked_at": "2026-11-16T19:13:04.560Z",
       "quotes_found": 6,
       "quotes_total": 6
     },
@@ -14,7 +14,7 @@
       "hash": "67d44c4344fdf5ac107acc2b41686825e8233c8784ed01a359abad0343968a02",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:05.822Z",
+      "checked_at": "2026-11-16T19:13:04.975Z",
       "quotes_found": 5,
       "quotes_total": 5
     },
@@ -22,7 +22,7 @@
       "hash": "06ecc119de4e523db252f05684ceb39222178152ef117f48ec5169e3ee001f68",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:06.511Z",
+      "checked_at": "2026-11-16T19:13:05.560Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -30,7 +30,7 @@
       "hash": "dcdb9ba03f8695f1b948425c96f50db5c57a30a8ab7bcdbbeb936d2614e263bd",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:06.822Z",
+      "checked_at": "2026-11-16T19:13:05.976Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -38,7 +38,7 @@
       "hash": "5a04be47f5c23e53d86441401c6037723858574c4000322d2d5b1f0074090b7f",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:07.822Z",
+      "checked_at": "2026-11-16T19:13:06.977Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -46,7 +46,7 @@
       "hash": "e826bf53349d622f8e6b2e24c3246fad8b1ed06f56ef6f9f6b85446a718ab189",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:08.822Z",
+      "checked_at": "2026-11-16T19:13:07.977Z",
       "quotes_found": 0,
       "quotes_total": 1
     },
@@ -54,7 +54,7 @@
       "hash": "8afb54c6cc0ead9345b73e7edcedc77b0c172b8b5dd7efab70dcf6e7d6e54910",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:09.822Z",
+      "checked_at": "2026-11-16T19:13:08.977Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -62,7 +62,7 @@
       "hash": "735a40acd5c0fc1c360af52239d1a23af1f359bb34ce521acd21ad4fea98fb24",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:10.823Z",
+      "checked_at": "2026-11-16T19:13:09.978Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -70,15 +70,15 @@
       "hash": "b7bd380e445d7913bad83c79979908a5a13dcff39f0c128a86241764842a03ca",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:11.824Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:13:10.978Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://documentation.sailpoint.com/connectors/saas/github/help/saas_connectivity/github/connection_settings.html": {
       "hash": "dd8f2caec4a030926ac904c38487ba0ebdc921bec641fe7ad7e14aa8be1ea70c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:12.824Z",
+      "checked_at": "2026-11-16T19:13:11.979Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -86,23 +86,23 @@
       "hash": "ab0979d3b6281003f6390579ffa1358c3c45e4b47039cd338df8219d949827d7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:13.823Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:13:12.979Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://documentation.sailpoint.com/connectors/saas/salesforce/help/saas_connectivity/salesforce/connection_settings.html": {
       "hash": "a9d9490faf3efd056754ae85fc2e0fd9f4c1f3758666c239a4385b90cdfe634c",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:14.823Z",
-      "quotes_found": 0,
+      "checked_at": "2026-11-16T19:13:13.980Z",
+      "quotes_found": 1,
       "quotes_total": 1
     },
     "https://developer.sailpoint.com/docs/tools/sdk/python/personal-access-tokens/models/get-personal-access-token-response.md": {
       "hash": "0dc19726906444a148f5252ee25f269e18e3de8692eb6f5ae19f6a9a4fa623a7",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:10.458Z",
+      "checked_at": "2026-11-16T19:13:09.642Z",
       "quotes_found": 2,
       "quotes_total": 2
     },
@@ -110,7 +110,7 @@
       "hash": "617461903222bcafd911524f95fa574aa4cf1eb488e19e88e9e419377db4d1df",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:11.458Z",
+      "checked_at": "2026-11-16T19:13:10.642Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -118,7 +118,7 @@
       "hash": "d260d6bdd583ba996f7e65e4cc69ce0eaa47fd0ccf561b3c12583084cbfc43a8",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:48:12.459Z",
+      "checked_at": "2026-11-16T19:13:11.642Z",
       "quotes_found": 1,
       "quotes_total": 1
     },
@@ -126,15 +126,14 @@
       "hash": "2c72696bc6315a75aeac411bc96f1d3eabd2459f73fd8d5409f717b08f5f6c7e",
       "status": 200,
       "ok": true,
-      "checked_at": "2026-11-15T01:39:05.495Z",
+      "checked_at": "2026-11-16T19:03:46.284Z",
       "quotes_found": 0,
       "quotes_total": 0
     }
   },
   "last_assessment": {
-    "fingerprint": "57661e4c7feb139f9f7aec27266d61da603bc3834b58dc36f0a5c2fded74dabe",
-    "outcome": "refresh",
-    "at": "2026-11-15T01:38:56.346Z",
-    "url": "https://github.com/wiftax/wiftax/pull/58"
+    "fingerprint": "3a01c1ecf61827707da02dc2df45ea555b6e3462e25539f764fff97e52f70206",
+    "outcome": "no_change",
+    "at": "2026-11-16T19:03:37.140Z"
   }
 }
